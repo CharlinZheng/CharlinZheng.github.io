@@ -10,7 +10,7 @@ My research focuses on the intersection of **machine learning**, **digital twins
 
 &nbsp;
 
-I graduated with a Ph.D. in Electrical Engineering from Tsinghua University<img src='./images/Tsinghua.png' style='width: 5.5em;'>, China, under the supervision of Professor Zhengming Zhao, and received my B.S. from the Department of Electrical Engineering at Beijing Jiaotong University<img src='./images/BJTU.png' style='width: 1.5em;'>. Additionally, I have collaborated closely with [Han Xu](https://thu-xuhan.github.io/) at Caltech, [Haoyu Wang](https://nossonwang.github.io/) at UT Austin, Di Mou at Cambridge University, and [Yangbin Zeng](https://www2.scut.edu.cn/ep/2024/0603/c18719a555482/page.htm) at the South China University of Technology.
+I graduated with a Ph.D. in Electrical Engineering from Tsinghua University<img src='./images/Tsinghua.png' style='width: 5.5em;'>, China, under the supervision of Professor Zhengming Zhao, and received my B.S. from the Department of Electrical Engineering at Beijing Jiaotong University<img src='./images/BJTU.png' style='width: 1.5em;'>. Additionally, I have collaborated closely with [Han Xu](https://thu-xuhan.github.io/) at Caltech<img src='./images/Caltech.png' style='width: 1.5em;'>, [Haoyu Wang](https://nossonwang.github.io/) at UT Austin<img src='./images/utaustin.png' style='width: 1.5em;'>, Di Mou at Cambridge University<img src='./images/Cambridge.png' style='width: 1.5em;'>, and [Yangbin Zeng](https://www2.scut.edu.cn/ep/2024/0603/c18719a555482/page.htm) at the South China University of Technology<img src='./images/华南理工.png' style='width: 1.5em;'>.
 
 &nbsp;
 
