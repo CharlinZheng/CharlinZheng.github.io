@@ -6,7 +6,7 @@ I am working at Purdue University <img src='./images/Purdue.png' style='width: 2
 
 &nbsp;
 
-My research focuses on the intersection of **machine learning**, **digital twins**, and **low-carbon power systems**.  I aim to drive the **digital transformation** of low-carbon energy systems through high-fidelity digital twins and reliable machine learning, addressing applications from individual power electronic converters to large-scale smart grids. My goal is to contribute to the development of power systems by employing advanced computational techniques to reduce manual intervention while maintaining consistent performance. For any **academic collaboration** inquiries, please feel free to contact me at [zjl1724030403@gmail.com](mailto:zjl1724030403@gmail.com).
+My research focuses on the intersection of **machine learning**, **digital twins**, and **low-carbon power systems**.  I aim to drive the **digital transformation** of low-carbon energy systems through high-fidelity digital twins and reliable machine learning, addressing applications from individual power electronic converters to large-scale smart grids. My goal is to contribute to the development of power systems by **employing advanced computational techniques** to **reduce manual intervention** while maintaining consistent performance. For any **academic collaboration** inquiries, please feel free to contact me at [zjl1724030403@gmail.com](mailto:zjl1724030403@gmail.com).
 
 &nbsp;
 
@@ -14,6 +14,6 @@ I graduated with a Ph.D. in Electrical Engineering from Tsinghua University<img 
 
 &nbsp;
 
-Currently, my research interests include embedded deep learning for safety-critical power converters and stability analysis and learning-based enhancement methods for large-scale, power-electronic-converter-dense grids. My Ph.D. research focused on real-time modeling and numerical integration algorithm design for power electronic converters. These efforts have been published in leading journals, including IEEE Transactions on Industrial Electronics (TIE), IEEE Transactions on Power Electronics (TPEL), and IEEE Transactions on Transportation Electrification (TTE), along with major international conferences such as ECCE and PEDG, with a total of over 25 papers authored.
+Currently, my research interests include **embedded deep learning** for **safety-critical** power converters and stability analysis and learning-based enhancement methods for large-scale, power-electronic-converter-dense grids. My Ph.D. research focused on real-time modeling and numerical integration algorithm design for power electronic converters. These efforts have been published in leading journals, including IEEE Transactions on Industrial Electronics (TIE), IEEE Transactions on Power Electronics (TPEL), and IEEE Transactions on Transportation Electrification (TTE), along with major international conferences such as ECCE and PEDG, with a total of over 25 papers authored.
 
 
