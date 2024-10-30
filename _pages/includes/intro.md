@@ -2,7 +2,7 @@ Welcome to my homepage!
 
 &nbsp;
 
-I am working at Purdue Univ <img src='./images/Purdue.png' style='width: 2.5em;'> as a Postdoctoral Fellow now in USA. 
+I am working at Purdue University <img src='./images/Purdue.png' style='width: 2.5em;'> as a Postdoctoral Fellow now in USA. 
 
 &nbsp;
 
