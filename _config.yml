@@ -21,15 +21,15 @@ baidu_site_verification  : code-ZxFK3f4pfb
 
 # Site Author
 author:
-  name             : "Yi Ren (任意)"
+  name             : "Jialin Zheng (郑嘉霖)"
   avatar           : "images/ry_profile.jpeg"
-  bio              : "TikTok"
-  location         : "Singapore"
+  bio              : "Purdue"
+  location         : "USA"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=4FA6C0AAAAAJ"
-  email            : "rayeren613@gmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com/citations?user=BNEy4AAAAJ&hl=&user=0-BNEy4AAAAJ"
+  email            : "zheng876@purdue.edu"
+  researchgate     :  # example: "https://www.researchgate.net/profile/Jialin-Zheng-6"
   uri              :
   bitbucket        :
   codepen          :
