@@ -1,6 +1,6 @@
 Welcome to my homepage!
 
-I am working at Purdue Univ <img src='./images/Purdue.png' style='width: 2em;'> as a Postdocal Fellow now in USA. 
+I am working at Purdue Univ <img src='./images/Purdue.png' style='width: 2em;'> as a Postdoctoral Fellow now in USA. 
 
 I am now working on audio-driven talking face generation, text-to-speech and music generation research. If you are seeking any form of **academic cooperation**, please feel free to email me at [ren.yi@bytedance.com](mailto:ren.yi@bytedance.com). We are hiring interns!
 
