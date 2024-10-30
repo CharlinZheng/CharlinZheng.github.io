@@ -14,6 +14,6 @@ I graduated from the [Department of Electrical Engineering](https://www.eea.tsin
 
 &nbsp;
 
-My research interest includes speech synthesis, neural machine translation and automatic music generation. I have published 50+ papers <a href='https://scholar.google.com/citations?user=4FA6C0AAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FRayeRen%2Frayeren.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top international AI conferences such as NeurIPS, ICML, ICLR, KDD. 
+Currently, my research interests focus on embedded deep learning for safety-critical power converters, as well as stability analysis and learning-based enhancement methods for large-scale, power-electronic-converter-dense grids. My Ph.D. research centered on real-time modeling and numerical integration algorithm design for power electronic converters, with results published in top journals, including IEEE Transactions on Industrial Electronics (TIE), IEEE Transactions on Power Electronics (TPEL), and IEEE Transactions on Transportation Electrification (TTE), as well as leading international conferences such as ECCE and PEDG, where I have authored over 25 papers.
 
 To promote the communication among the Chinese ML & NLP community, we (along with other 11 young scholars worldwide) founded the [MLNLP community](https://space.bilibili.com/168887299) in 2021. I am honored to be one of the chairs of the MLNLP committee.
