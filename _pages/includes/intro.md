@@ -14,6 +14,6 @@ I graduated with a Ph.D. in Electrical Engineering from Tsinghua University<img 
 
 &nbsp;
 
-Currently, my research interests include **embedded deep learning** for **safety-critical** power converters and stability analysis and learning-based enhancement methods for large-scale, power-electronic-converter-dense grids. My Ph.D. research focused on real-time modeling and numerical integration algorithm design for power electronic converters. These efforts have been published in leading journals, including IEEE Transactions on Industrial Electronics (TIE), IEEE Transactions on Power Electronics (TPEL), and IEEE Transactions on Transportation Electrification (TTE), along with major international conferences such as ECCE and PEDG, with a total of over 25 papers authored.
+Currently, my research interests include **embedded deep learning** for **safety-critical** power converters and stability analysis and learning-based enhancement methods for large-scale, power-electronic-converter-dense grids. My Ph.D. research focused on real-time modeling and numerical integration algorithm design for power electronic converters. These efforts have been published in top journals, including IEEE Transactions on Industrial Electronics (TIE), IEEE Transactions on Power Electronics (TPEL), and IEEE Transactions on Transportation Electrification (TTE), along with top international conferences such as ECCE and PEDG, with a total of over 25 papers authored.
 
 
