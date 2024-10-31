@@ -3,7 +3,7 @@
 So far, my research has focused on Power Electronic Dense Grids (PEDGs) and categorized into five topics. In the future, I hope to do more interesting work in **physics-informed** machine learning for **modeling**, **control** and **optimization** of PEDGs.
 - [*Digital Twins for PEDG Critical Devices*](#pedg-critical-devices)
 - *Deep Machine Learning in PEDGs*
-- *Edge Computing for PEDG Application*,
+- *Edge Computing for PEDG Application*
 - *Real-Time Simulation and HIL Simulation*
 - *Design and Control of PEDG Converter*
 
