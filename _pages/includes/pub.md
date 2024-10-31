@@ -65,7 +65,38 @@ Han Xu, **Jialin Zheng**, Guannan Qu
 
 ## 📚 <a id="edge-computing">Edge Computing for PEDG Application</a> 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="font-style: italic;">IEEE Trans. Ind. Electron.</div><img src='images/EdgeComputing01.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
+[***A Semi-Implicit Parallel Leapfrog Solver With Half-Step Sampling Technique for FPGA-Based Real-Time HIL Simulation of Power Converters***](https://ieeexplore.ieee.org/abstract/document/10100633) \\
+**J. Zheng**, Y. Zeng, Z. Zhao, W. Liu, H. Xu and S. Ji
+- Localized observation for critics in the CTDE framework enhances scalability for systems with numerous DGs.
+- Truncated Q-function inputs based on network structure significantly reduce communication costs during training.
+- Theoretical guarantees ensure robust approximation, compatible across diverse multi-agent actor-critic algorithms.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="font-style: italic;">IEEE Trans. Transp. Electrif.</div><img src='images/EdgeComputing02.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[***MPSoC-Based Dynamic Adjustable Time-Stepping Scheme With Switch Event Oversampling Technique for Real-Time HIL Simulation of Power Converters***](https://ieeexplore.ieee.org/abstract/document/10236507) \\
+**Jialin Zheng**; Yangbin Zeng; Zhengming Zhao; Weicheng Liu; Han Xu; Haoyu Wang and Di Mou
+- Localized observation for critics in the CTDE framework enhances scalability for systems with numerous DGs.
+- Truncated Q-function inputs based on network structure significantly reduce communication costs during training.
+- Theoretical guarantees ensure robust approximation, compatible across diverse multi-agent actor-critic algorithms.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="font-style: italic;">IEEE Trans. Ind. Electron.</div><img src='images/EdgeComputing03.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[***Topology-Aware Matrix Partitioning Method for FPGA Real-Time Simulation of Power Electronics Systems***](https://ieeexplore.ieee.org/abstract/document/10242237) \\
+Han Xu, **Jialin Zheng(Corresponding Author)**, Yangbin Zeng, Weicheng Liu, et al.
+- Localized observation for critics in the CTDE framework enhances scalability for systems with numerous DGs.
+- Truncated Q-function inputs based on network structure significantly reduce communication costs during training.
+- Theoretical guarantees ensure robust approximation, compatible across diverse multi-agent actor-critic algorithms.
+</div>
+</div>
 
 
 ## 🎼 <a id="HIL-simulation">Real-Time Simulation and HIL Simulation</a>
