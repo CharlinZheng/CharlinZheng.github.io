@@ -9,7 +9,7 @@ So far, my research has focused on Power Electronic Dense Grids (PEDGs) and cate
 ## 📈 Digital Twins for PEDG Critical Devices
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">*IEEE Trans Ind. Informat.*</div><img src='images/DigitalTwins01.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> *IEEE Trans Ind. Informat.* </div><img src='images/DigitalTwins01.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ***Cognitive Digital Twins for Model Predictive Control of High-Frequency Power Converters*** (Under Review) \\
