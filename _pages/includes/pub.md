@@ -45,43 +45,25 @@ Y. Zeng, **J. Zheng(Corresponding Author)**, Z. Zhao, W. Liu, S. Ji and H. Li
 </div>
 
 - `IEEE Trans. Power Electron.` [Event-Synchronous Time-Asynchronous Method for Controller HIL Simulation of 10 kVA Modular Multilevel Converters](https://ieeexplore.ieee.org/abstract/document/10128737), Y. Zeng, **J. Zheng(Corresponding Author)**, Z. Zhao, W. Liu, Z. Wang and H. L.
-- `IEEE Trans. Power Electron.` [Event-Synchronous Time-Asynchronous Method for Controller HIL Simulation of 10 kVA Modular Multilevel Converters](https://ieeexplore.ieee.org/abstract/document/10128737), Y. Zeng, **J. Zheng(Corresponding Author)**, Z. Zhao, W. Liu, Z. Wang and H. L.
+- `ECCE 2023` [Event-Driven Controller Hardware-In-The-Loop Simulation for Modular Multilevel Converters](https://ieeexplore.ieee.org/abstract/document/10362945), Yangbin Zeng; Weicheng Liu; **Jialin Zheng**; Haoyu Wang; Han Xu; Di Mou, Zhengming Zhao, Hong Li and Zuoxing Wang.
 
 
 ## 🎙  <a id="deep-machine-learning">Deep Machine Learning in PEDGs</a>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024</div><img src='images/real3d.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[Real3D-Portrait: One-shot Realistic 3D Talking Portrait Synthesis](https://openreview.net/forum?id=7ERQPyR2eb), Zhenhui Ye, Tianyun Zhong, Yi Ren, et al. <span style="color:red">(Spotlight)</span> [**Project**](https://real3dportrait.github.io/) | [**Code**](https://github.com/yerfor/Real3DPortrait)
-</div>
-</div>
-
-- `ICLR 2023` [GeneFace: Generalized and High-Fidelity Audio-Driven 3D Talking Face Synthesis](https://openreview.net/forum?id=YfwMIDhPccD), Zhenhui Ye, Ziyue Jiang, **Yi Ren**, et al.
-- `AAAI 2024` [AMD: Autoregressive Motion Diffusion](https://arxiv.org/abs/2305.09381), Bo Han, Hao Peng, Minjing Dong, **Yi Ren**, et al.
-- ``AAAI 2022`` [Parallel and High-Fidelity Text-to-Lip Generation](https://arxiv.org/abs/2107.06831), Jinglin Liu, Zhiying Zhu, **Yi Ren**, et al. \| [![](https://img.shields.io/github/stars/Dianezzy/ParaLip?style=social&label=ParaLip Stars)](https://github.com/Dianezzy/ParaLip)
-- ``AAAI 2022`` [Flow-based Unconstrained Lip to Speech Generation](https://ojs.aaai.org/index.php/AAAI/article/view/19966), Jinzheng He, Zhou Zhao, **Yi Ren**, et al.
-- ``ACM-MM 2020`` [FastLR: Non-Autoregressive Lipreading Model with Integrate-and-Fire](https://dl.acm.org/doi/10.1145/3394171.3413740), Jinglin Liu, **Yi Ren**, et al.
 
 ## 📚 <a id="edge-computing">Edge Computing for PEDG Application</a> 
 
-- ``ACL 2023`` [AV-TranSpeech: Audio-Visual Robust Speech-to-Speech Translation](), Rongjie Huang, Huadai Liu, Xize Cheng, **Yi Ren**, et al.
-- `ICLR 2023` [TranSpeech: Speech-to-Speech Translation With Bilateral Perturbation](https://openreview.net/forum?id=UVAmFAtC5ye), Rongjie Huang, Jinglin Liu, Huadai Liu, **Yi Ren**, Lichao Zhang, Jinzheng He, Zhou Zhao
-- ``AAAI 2021`` [UWSpeech: Speech to Speech Translation for Unwritten Languages](https://arxiv.org/abs/2006.07926), Chen Zhang, Xu Tan, **Yi Ren**, et al. \| [**Project**](https://speechresearch.github.io/uwspeech/)
-- ``IJCAI 2020`` [Task-Level Curriculum Learning for Non-Autoregressive Neural Machine Translation](https://www.ijcai.org/Proceedings/2020/0534.pdf), Jinglin Liu, **Yi Ren**, Xu Tan, et al.
-- ``ACL 2020`` [SimulSpeech: End-to-End Simultaneous Speech to Text Translation](https://www.aclweb.org/anthology/2020.acl-main.350), **Yi Ren**, Jinglin Liu, Xu Tan, et al.
-- ``ACL 2020`` [A Study of Non-autoregressive Model for Sequence Generation](https://arxiv.org/abs/2004.10454), **Yi Ren**, Jinglin Liu, Xu Tan, et al.
-- ``ICLR 2019`` [Multilingual Neural Machine Translation with Knowledge Distillation](https://openreview.net/forum?id=S1gUsoR9YX), Xu Tan, **Yi Ren**, Di He, et al.
+
 
 
 ## 🎼 <a id="HIL-simulation">Real-Time Simulation and HIL Simulation</a>
  
-- ``IEEE TMM`` [SDMuse: Stochastic Differential Music Editing and Generation via Hybrid Representation](https://ieeexplore.ieee.org/document/10149095), Chen Zhang, Yi Ren, Kejun Zhang, Shuicheng Yan.
-- ``AAAI 2021`` [SongMASS: Automatic Song Writing with Pre-training and Alignment Constraint](https://arxiv.org/abs/2012.05168), Zhonghao Sheng, Kaitao Song, Xu Tan, **Yi Ren**, et al.
-- ``ACM-MM 2020`` <span style="color:red">(Oral)</span> [PopMAG: Pop Music Accompaniment Generation](https://dl.acm.org/doi/10.1145/3394171.3413721), **Yi Ren**, Jinzheng He, Xu Tan, et al. \| [**Project**](https://speechresearch.github.io/popmag/)
+
 
 ## 🧑‍🎨 <a id="Desigh-Control">Design and Control of PEDG Converter</a>
 - ``IEEE J. Emerging Sel. Top. Power Electron.`` [Overview of Multi-Degree-of-Freedom Modulation Techniques for Dual Active Bridge Converter](https://ieeexplore.ieee.org/abstract/document/10274900), Di Mou, Liqiang Yuan, Quanming Luo, Yalun Li, Chengwei Liu, **Jialin Zheng** and Zhengming Zhao.
 - ``IEEE Trans. Ind. Electron.`` [Universal Phase-Shift Modulation Scheme and Efficiency Optimization for Modular Multiactive Bridge Converter](https://ieeexplore.ieee.org/abstract/document/10242261), Haoyu Wang, Di Mou, Shiqi Ji, Liqiang Yuan, Yangbin Zeng, **Jialin Zheng** and Zhengming Zhao.
 - ``ECCE 2023`` [Comparison and Improvement of ZVS Operation Under Different Modulation Strategies for Modular Multi Active Bridge Converters](https://ieeexplore.ieee.org/abstract/document/10362302), Haoyu Wang; Di Mou; Shiqi Ji; Matthias Preindl; Yangbin Zeng; **Jialin Zheng**, Han Xu, Weicheng Liu and Wenhao Xie.
+-  ``ECCE 2023`` [A Hybrid Modulation Strategy for the Modular Quad-Active Bridge Converters with the Aid of DC Blocking Capacitors](https://ieeexplore.ieee.org/abstract/document/10362781), Di Mou; Liqiang Yuan; Haoyu Wang; Yangbin Zeng; **Jialin Zheng**; Weicheng Liu
