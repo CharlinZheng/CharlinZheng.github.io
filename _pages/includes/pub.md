@@ -50,6 +50,16 @@ Y. Zeng, **J. Zheng(Corresponding Author)**, Z. Zhao, W. Liu, S. Ji and H. Li
 
 ## 🎙  <a id="deep-machine-learning">Deep Machine Learning in PEDGs</a>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="font-style: italic;">IEEE Trans. Smart Grid </div><img src='images/MachineLearning01.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[***A Scalable Network-Aware Multi-Agent Reinforcement Learning Framework for Decentralized Inverter-based Voltage Control***](https://arxiv.org/abs/2312.04371) \\
+Han Xu, **Jialin Zheng**, Guannan Qu
+- Non-invasive acquisition of all states inside the converter
+- Across multiple time scales, from subtle switching dynamics to second-level voltage fluctuations
+- Signal-level interaction for safety, convenience, and efficiency
+</div>
+</div>
 
 
 
