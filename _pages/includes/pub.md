@@ -6,6 +6,7 @@ So far, my research has focused on Power Electronic Dense Grids (PEDGs) and cate
 - *Edge Computing for PEDG Application*,
 - *Real-Time Simulation and HIL Simulation*
 - *Design and Control of PEDG Converter*
+
 ## 📈 <a id="pedg-critical-devices">Digital Twins for PEDG Critical Devices</a>
 
 
