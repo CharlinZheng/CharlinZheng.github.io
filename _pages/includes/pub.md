@@ -1,11 +1,11 @@
 
 # 📝 Publications 
 So far, my research has focused on Power Electronic Dense Grids (PEDGs) and categorized into five topics. In the future, I hope to do more interesting work in **physics-informed** machine learning for **modeling**, **control** and **optimization** of PEDGs.
-- [*Digital Twins for PEDG Critical Devices*](#pedg-critical-devices)
-- [*Deep Machine Learning in PEDGs*](#deep-machine-learning)
-- *Edge Computing for PEDG Application*
-- *Real-Time Simulation and HIL Simulation*
-- *Design and Control of PEDG Converter*
+- [*01 Digital Twins for PEDG Critical Devices*](#pedg-critical-devices)
+- [*02 Deep Machine Learning in PEDGs*](#deep-machine-learning)
+- [*03 Edge Computing for PEDG Application*](#edge-computing)
+- [*04 Real-Time Simulation and HIL Simulation*](#HIL-simulation)
+- [*05 Design and Control of PEDG Converter*](#Desigh-Control)
 
 ## 📈 <a id="pedg-critical-devices">Digital Twins for PEDG Critical Devices</a>
 
@@ -63,7 +63,8 @@ Y. Zeng, **J. Zheng(Corresponding Author)**, Z. Zhao, W. Liu, S. Ji and H. Li
 - ``AAAI 2022`` [Flow-based Unconstrained Lip to Speech Generation](https://ojs.aaai.org/index.php/AAAI/article/view/19966), Jinzheng He, Zhou Zhao, **Yi Ren**, et al.
 - ``ACM-MM 2020`` [FastLR: Non-Autoregressive Lipreading Model with Integrate-and-Fire](https://dl.acm.org/doi/10.1145/3394171.3413740), Jinglin Liu, **Yi Ren**, et al.
 
-## 📚 Edge Computing for PEDG Application 
+## 📚 <a id="edge-computing">Edge Computing for PEDG Application</a> 
+
 - ``ACL 2023`` [AV-TranSpeech: Audio-Visual Robust Speech-to-Speech Translation](), Rongjie Huang, Huadai Liu, Xize Cheng, **Yi Ren**, et al.
 - `ICLR 2023` [TranSpeech: Speech-to-Speech Translation With Bilateral Perturbation](https://openreview.net/forum?id=UVAmFAtC5ye), Rongjie Huang, Jinglin Liu, Huadai Liu, **Yi Ren**, Lichao Zhang, Jinzheng He, Zhou Zhao
 - ``AAAI 2021`` [UWSpeech: Speech to Speech Translation for Unwritten Languages](https://arxiv.org/abs/2006.07926), Chen Zhang, Xu Tan, **Yi Ren**, et al. \| [**Project**](https://speechresearch.github.io/uwspeech/)
@@ -73,11 +74,12 @@ Y. Zeng, **J. Zheng(Corresponding Author)**, Z. Zhao, W. Liu, S. Ji and H. Li
 - ``ICLR 2019`` [Multilingual Neural Machine Translation with Knowledge Distillation](https://openreview.net/forum?id=S1gUsoR9YX), Xu Tan, **Yi Ren**, Di He, et al.
 
 
-## 🎼 Real-Time Simulation and Hardware-in-the-Loop Simulation 
+## 🎼 <a id="HIL-simulation">Real-Time Simulation and HIL Simulation</a>
+ 
 - ``IEEE TMM`` [SDMuse: Stochastic Differential Music Editing and Generation via Hybrid Representation](https://ieeexplore.ieee.org/document/10149095), Chen Zhang, Yi Ren, Kejun Zhang, Shuicheng Yan.
 - ``AAAI 2021`` [SongMASS: Automatic Song Writing with Pre-training and Alignment Constraint](https://arxiv.org/abs/2012.05168), Zhonghao Sheng, Kaitao Song, Xu Tan, **Yi Ren**, et al.
 - ``ACM-MM 2020`` <span style="color:red">(Oral)</span> [PopMAG: Pop Music Accompaniment Generation](https://dl.acm.org/doi/10.1145/3394171.3413721), **Yi Ren**, Jinzheng He, Xu Tan, et al. \| [**Project**](https://speechresearch.github.io/popmag/)
 
-## 🧑‍🎨 Design and Control of PEDG Converter
+## 🧑‍🎨 <a id="Desigh-Control">Design and Control of PEDG Converter</a>
 - ``ICLR 2022`` [Pseudo Numerical Methods for Diffusion Models on Manifolds](https://openreview.net/forum?id=PlKWVd2yBkY), Luping Liu, **Yi Ren**, Zhijie Lin, Zhou Zhao \| [![](https://img.shields.io/github/stars/luping-liu/PNDM?style=social&label=Code+Stars)](https://github.com/luping-liu/PNDM) \| [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/pseudo-numerical-methods-for-diffusion-models-1/image-generation-on-celeba-64x64)](https://paperswithcode.com/sota/image-generation-on-celeba-64x64?p=pseudo-numerical-methods-for-diffusion-models-1)
 
