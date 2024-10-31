@@ -2,7 +2,7 @@
 # 📖 Educations
 - *2024.08 - 2025.06*, Postdocal fellow, Purdue University, West Lafayette, IN, USA.
 - *2019.06 - 2024.06*, Phd, Electrical Engineering, Tsinghua University, Beijing, China.
-- *2015.09 - 2019.06*, Undergraduate, Electrical Engineering, Beijing Jiaotong Univeristy, Beijing,China..
+- *2015.09 - 2019.06*, Undergraduate, Electrical Engineering, Beijing Jiaotong Univeristy, Beijing,China.
 
 # 💬 Teaching and Industrial Experience
 - *2020.09-2021.01*, Teaching Assistant, Design and Analysis of Electrical Machine Systems (40220682) with Prof. Zhengming Zhao.
