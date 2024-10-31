@@ -9,7 +9,8 @@
 - *2024.06-2024.07*, Teaching Assistant, Modeling and Control of Power Converters with Prof. Dushan Boroyevich and Prof. Kai Sun.
 - *2021.06-2021.08*, Researching Assistant, Artificial Intelligence in Power Electronic Systems，Delta Electronics, Inc., Shanghai,China.
 
-# 💻 Acadamic Service (Reviewer)
+# 💻 Acadamic Service
+## Reviewer
 -  IEEE Transactions on Power Electronics (TPEL)
 -  IEEE Transactions on Industrial Electronics (TIE)
 -  IEEE Journal of Emerging and Selected Topics in Power Electronics (JESTPE)
