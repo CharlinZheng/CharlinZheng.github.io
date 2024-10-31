@@ -45,6 +45,7 @@ Y. Zeng, **J. Zheng(Corresponding Author)**, Z. Zhao, W. Liu, S. Ji and H. Li
 </div>
 
 - `IEEE Trans. Power Electron.` [Event-Synchronous Time-Asynchronous Method for Controller HIL Simulation of 10 kVA Modular Multilevel Converters](https://ieeexplore.ieee.org/abstract/document/10128737), Y. Zeng, **J. Zheng(Corresponding Author)**, Z. Zhao, W. Liu, Z. Wang and H. L.
+- `IEEE Trans. Power Electron.` [Event-Synchronous Time-Asynchronous Method for Controller HIL Simulation of 10 kVA Modular Multilevel Converters](https://ieeexplore.ieee.org/abstract/document/10128737), Y. Zeng, **J. Zheng(Corresponding Author)**, Z. Zhao, W. Liu, Z. Wang and H. L.
 
 
 ## 🎙  <a id="deep-machine-learning">Deep Machine Learning in PEDGs</a>
@@ -81,5 +82,6 @@ Y. Zeng, **J. Zheng(Corresponding Author)**, Z. Zhao, W. Liu, S. Ji and H. Li
 - ``ACM-MM 2020`` <span style="color:red">(Oral)</span> [PopMAG: Pop Music Accompaniment Generation](https://dl.acm.org/doi/10.1145/3394171.3413721), **Yi Ren**, Jinzheng He, Xu Tan, et al. \| [**Project**](https://speechresearch.github.io/popmag/)
 
 ## 🧑‍🎨 <a id="Desigh-Control">Design and Control of PEDG Converter</a>
-- ``ICLR 2022`` [Pseudo Numerical Methods for Diffusion Models on Manifolds](https://openreview.net/forum?id=PlKWVd2yBkY), Luping Liu, **Yi Ren**, Zhijie Lin, Zhou Zhao \| [![](https://img.shields.io/github/stars/luping-liu/PNDM?style=social&label=Code+Stars)](https://github.com/luping-liu/PNDM) \| [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/pseudo-numerical-methods-for-diffusion-models-1/image-generation-on-celeba-64x64)](https://paperswithcode.com/sota/image-generation-on-celeba-64x64?p=pseudo-numerical-methods-for-diffusion-models-1)
-
+- ``IEEE J. Emerging Sel. Top. Power Electron.`` [Overview of Multi-Degree-of-Freedom Modulation Techniques for Dual Active Bridge Converter](https://ieeexplore.ieee.org/abstract/document/10274900), Di Mou, Liqiang Yuan, Quanming Luo, Yalun Li, Chengwei Liu, **Jialin Zheng** and Zhengming Zhao.
+- ``IEEE Trans. Ind. Electron.`` [Universal Phase-Shift Modulation Scheme and Efficiency Optimization for Modular Multiactive Bridge Converter](https://ieeexplore.ieee.org/abstract/document/10242261), Haoyu Wang, Di Mou, Shiqi Ji, Liqiang Yuan, Yangbin Zeng, **Jialin Zheng** and Zhengming Zhao.
+- ``ECCE 2023`` [Comparison and Improvement of ZVS Operation Under Different Modulation Strategies for Modular Multi Active Bridge Converters](https://ieeexplore.ieee.org/abstract/document/10362302), Haoyu Wang; Di Mou; Shiqi Ji; Matthias Preindl; Yangbin Zeng; **Jialin Zheng**, Han Xu, Weicheng Liu and Wenhao Xie.
