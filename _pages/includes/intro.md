@@ -7,6 +7,7 @@ I am working at Purdue University <img src='./images/Purdue.png' style='width: 2
 &nbsp;
 
 My research focuses on the intersection of **machine learning**, **digital twins**, and **low-carbon power systems**.  I aim to drive the **digital transformation** of low-carbon energy systems through high-fidelity digital twins and reliable machine learning, addressing applications from individual power electronic converters to large-scale smart grids. My goal is to contribute to the development of power systems by **employing advanced computational techniques** to **reduce manual intervention** while maintaining consistent performance. For any **academic collaboration** inquiries, please feel free to contact me at [zjl1724030403@gmail.com](mailto:zjl1724030403@gmail.com).
+<img src='./images/Web_HomePage.svg' >
 
 &nbsp;
 
