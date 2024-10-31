@@ -13,6 +13,7 @@ My research focuses on the intersection of **machine learning**, **digital twins
 
 
 &nbsp;
+
 Currently, my research interests include **embedded deep learning** for **safety-critical** power converters, learning-based stability analysis methods for power-converter-dense grids and their integration. Prior to this, my Ph.D. research focused on **real-time modeling** and **numerical integration** algorithm design for power electronic converters. I have published these efforts in top journals, including IEEE Transactions on Industrial Electronics (TIE), IEEE Transactions on Power Electronics (TPEL), and IEEE Transactions on Transportation Electrification (TTE), along with top international conferences such as ECCE and PEDG, with a total of **25+** papers authored. A detailed list can be found [here](https://scholar.google.com/citations?user=0-BNEy4AAAAJ&hl).
 
 
