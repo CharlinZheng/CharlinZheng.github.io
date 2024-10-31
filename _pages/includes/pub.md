@@ -99,11 +99,18 @@ Han Xu, **Jialin Zheng(Corresponding Author)**, Yangbin Zeng, Weicheng Liu, et a
 </div>
 
 
-## 🎼 <a id="HIL-simulation">Real-Time Simulation and HIL Simulation</a>
- 
-
 - ``IEEE Trans. Power Electron.`` [Event-Synchronous Time-Asynchronous Method for Controller HIL Simulation of 10 kVA Modular Multilevel Converters](https://ieeexplore.ieee.org/abstract/document/10128737), Y. Zeng, **J. Zheng(Corresponding Author)**, Z. Zhao, W. Liu, Z. Wang and H. L.
-- ``ECCE 2023`` [Event-Driven Controller Hardware-In-The-Loop Simulation for Modular Multilevel Converters](https://ieeexplore.ieee.org/abstract/document/10362945), Yangbin Zeng; Weicheng Liu; **Jialin Zheng**; Haoyu Wang; Han Xu; Di Mou, Zhengming Zhao, Hong Li and Zuoxing Wang.
+- ``IEEE J. Emerging Sel. Top. Power Electron.`` [Extended Discrete-State Event-Driven Hardware-in-the-Loop Simulation for Power Electronic Systems Based on Virtual-Time-Ratio Regulation](https://ieeexplore.ieee.org/abstract/document/10098796), Yangbin Zeng, Zhengming Zhao, **Jialin Zheng(Corresponding Author)**, Don Tan, Weicheng Liu, et al.
+- ``IEEE Access`` [An Adaptive Word-Length Selection Method to Optimize Hardware Resources for FPGA-Based Real-Time Simulation of Power Converters](https://ieeexplore.ieee.org/abstract/document/10302297), Fuhai Zhao, Jiang Du, Yunkai Deng, **Jialin Zheng**, Yangbin Zeng, Chunhui Qu.
+- ``ECCE 2023`` [Event-Driven Controller Hardware-In-The-Loop Simulation for Modular Multilevel Converters](https://ieeexplore.ieee.org/abstract/document/10362945), Yangbin Zeng, Weicheng Liu, **Jialin Zheng**, Haoyu Wang, Han Xu, Di Mou, Zhengming Zhao, Hong Li and Zuoxing Wang.
+
+## 🎼 <a id="HIL-simulation">Real-Time Simulation and HIL Simulation</a>
+
+
+- ``IEEE Trans. Ind. Electron.`` [Numerical Derivative-Based Flexible Integration Algorithm for Power Electronic Systems Simulation Considering Nonlinear Components](https://ieeexplore.ieee.org/abstract/document/10342664), Han Xu, Bochen Shi, Zhujun Yu, **Jialin Zheng**, Zhengming Zhao.
+- ``IEEE J. Emerging Sel. Top. Power Electron.`` [Adaptive Synchronization Interface with Key-Frame Prediction Method for Accelerating Power Electronics Co-Simulation](https://ieeexplore.ieee.org/abstract/document/10589637), Weicheng Liu; Zhengming Zhao; Yangbin Zeng; **Jialin Zheng**; Han Xu
+
+
 
 ## 🧑‍🎨 <a id="Desigh-Control">Design and Control of PEDG Converter</a>
 - ``IEEE J. Emerging Sel. Top. Power Electron.`` [Overview of Multi-Degree-of-Freedom Modulation Techniques for Dual Active Bridge Converter](https://ieeexplore.ieee.org/abstract/document/10274900), Di Mou, Liqiang Yuan, Quanming Luo, Yalun Li, Chengwei Liu, **Jialin Zheng** and Zhengming Zhao.
