@@ -38,9 +38,9 @@ So far, my research has focused on Power Electronic Dense Grids (PEDGs) and cate
 
 [***Real-Time Digital Mapped Method for Sensorless Multitimescale Operation Condition Monitoring of Power Electronics Systems***](https://ieeexplore.ieee.org/abstract/document/10122863) \\
 Y. Zeng, **J. Zheng(Corresponding Author)**, Z. Zhao, W. Liu, S. Ji and H. Li
-- **Neural networking** the differential equations to guarantee physical constraints.
-- Modeling unknown systems on **local edge devices** to guarantee privacy
-- Use **adjoint states** to obtain nearly **constant training cost**, independent of model depth
+- Non-invasive acquisition of all states inside the converter
+- Across multiple time scales, from subtle switching dynamics to second-level voltage fluctuations
+- Signal-level interaction for safety, convenience, and efficiency
 </div>
 </div>
 
