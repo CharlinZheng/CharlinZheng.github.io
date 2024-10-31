@@ -33,6 +33,16 @@ So far, my research has focused on Power Electronic Dense Grids (PEDGs) and cate
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="font-style: italic;">IEEE Trans. Ind. Electron. </div><img src='images/DigitalTwins03.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[***Real-Time Digital Mapped Method for Sensorless Multitimescale Operation Condition Monitoring of Power Electronics Systems***](https://ieeexplore.ieee.org/abstract/document/10122863) \\
+Y. Zeng, **J. Zheng(Corresponding Author)**, Z. Zhao, W. Liu, S. Ji and H. Li
+- **Neural networking** the differential equations to guarantee physical constraints.
+- Modeling unknown systems on **local edge devices** to guarantee privacy
+- Use **adjoint states** to obtain nearly **constant training cost**, independent of model depth
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024</div><img src='images/mega.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
