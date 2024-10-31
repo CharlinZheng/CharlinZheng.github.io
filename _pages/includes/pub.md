@@ -55,9 +55,9 @@ Y. Zeng, **J. Zheng(Corresponding Author)**, Z. Zhao, W. Liu, S. Ji and H. Li
 
 [***A Scalable Network-Aware Multi-Agent Reinforcement Learning Framework for Decentralized Inverter-based Voltage Control***](https://arxiv.org/abs/2312.04371) \\
 Han Xu, **Jialin Zheng**, Guannan Qu
-- Non-invasive acquisition of all states inside the converter
-- Across multiple time scales, from subtle switching dynamics to second-level voltage fluctuations
-- Signal-level interaction for safety, convenience, and efficiency
+- Localized observation for critics in the CTDE framework enhances scalability for systems with numerous DGs.
+- Truncated Q-function inputs based on network structure significantly reduce communication costs during training.
+- Theoretical guarantees ensure robust approximation, compatible across diverse multi-agent actor-critic algorithms.
 </div>
 </div>
 
