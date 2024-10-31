@@ -10,9 +10,9 @@ So far, my research has focused on Power Electronic Dense Grids (PEDGs) and cate
 ***Cognitive Digital Twins for Model Predictive Control of High-Frequency Power Converters*** (Under Review) \\
 **Jialin Zheng**, Haoyu Wang, Yangbin Zeng, et al.
 
-- First use of digital twins for model predictive control of high-frequency power converters.
-- Enabling awareness of the operating modes and system parameters of the physical converter at the converter edge.
-- The cognitively obtained information is computed to enhance the dynamic performance of the converter.
+- **First use** of digital twins for model predictive control of high-frequency power converters.
+- Get real operating modes and system parameters of the physical converter at the **converter edge**.
+- The cognitively obtained information is computed to **enhance** the dynamic performance of the converter.
 
 </div>
 </div>
