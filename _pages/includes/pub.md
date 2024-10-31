@@ -117,7 +117,7 @@ Han Xu, **Jialin Zheng(Corresponding Author)**, Yangbin Zeng, Weicheng Liu, et a
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="font-style: italic;">IEEE Trans. Ind. Electron.</div><img src='images/HIL02.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="font-style: italic;">IEEE Trans. Ind. Electron.</div><img src='images/HIL03.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [***An Event Driven Synchronization Framework for Physical Controller Co-Simulation of Megawatt-Level Power Electronic Systems***](https://ieeexplore.ieee.org/abstract/document/10242602) \\
@@ -128,7 +128,7 @@ Han Xu, **Jialin Zheng(Corresponding Author)**, Yangbin Zeng, Weicheng Liu, et a
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="font-style: italic;">IEEE Trans. Ind. Electron.</div><img src='images/HIL03.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="font-style: italic;">IEEE Trans. Ind. Electron.</div><img src='images/HIL02.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [***A Self-Restoring Fault-Tolerant Method for Controller Cooperation Simulation of Power Electronics Systems***](https://ieeexplore.ieee.org/abstract/document/10061485) \\
