@@ -106,10 +106,45 @@ Han Xu, **Jialin Zheng(Corresponding Author)**, Yangbin Zeng, Weicheng Liu, et a
 
 ## 🎼 <a id="HIL-simulation">Real-Time Simulation and HIL Simulation</a>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="font-style: italic;">IEEE Trans. Power Electron</div><img src='images/HIL01.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
+[***An Event-Driven Parallel Acceleration Real-Time Simulation for Power Electronic Systems Without Simulation Distortion in Circuit Partitioning***](https://ieeexplore.ieee.org/abstract/document/9832797) \\
+**Jialin Zheng**, Zhengming Zhao, Yangbin Zeng, et al.
+- Localized observation for critics in the CTDE framework enhances scalability for systems with numerous DGs.
+- Truncated Q-function inputs based on network structure significantly reduce communication costs during training.
+- Theoretical guarantees ensure robust approximation, compatible across diverse multi-agent actor-critic algorithms.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="font-style: italic;">IEEE Trans. Ind. Electron.</div><img src='images/HIL02.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[***An Event Driven Synchronization Framework for Physical Controller Co-Simulation of Megawatt-Level Power Electronic Systems***](https://ieeexplore.ieee.org/abstract/document/10242602) \\
+**Jialin Zheng**, Yangbin Zeng, Zhengming Zhao, Weicheng Liu, Han Xu, et al.
+- Localized observation for critics in the CTDE framework enhances scalability for systems with numerous DGs.
+- Truncated Q-function inputs based on network structure significantly reduce communication costs during training.
+- Theoretical guarantees ensure robust approximation, compatible across diverse multi-agent actor-critic algorithms.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="font-style: italic;">IEEE Trans. Ind. Electron.</div><img src='images/HIL03.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[***A Self-Restoring Fault-Tolerant Method for Controller Cooperation Simulation of Power Electronics Systems***](https://ieeexplore.ieee.org/abstract/document/10061485) \\
+Yangbin Zeng, Zhengming Zhao, **Jialin Zheng(Corresponding Author)**, et al.
+- Localized observation for critics in the CTDE framework enhances scalability for systems with numerous DGs.
+- Truncated Q-function inputs based on network structure significantly reduce communication costs during training.
+- Theoretical guarantees ensure robust approximation, compatible across diverse multi-agent actor-critic algorithms.
+</div>
+</div>
+
+- ``IEEE Trans. Ind. Electron.`` [An Event-Driven Real-Time Simulation for Power Electronics Systems Based on Discrete Hybrid Time-Step Algorithm](https://ieeexplore.ieee.org/abstract/document/9819434), **Jialin Zheng**, Zhengming Zhao, Yangbin Zeng, et al.
 - ``IEEE Trans. Ind. Electron.`` [Numerical Derivative-Based Flexible Integration Algorithm for Power Electronic Systems Simulation Considering Nonlinear Components](https://ieeexplore.ieee.org/abstract/document/10342664), Han Xu, Bochen Shi, Zhujun Yu, **Jialin Zheng**, Zhengming Zhao.
-- ``IEEE J. Emerging Sel. Top. Power Electron.`` [Adaptive Synchronization Interface with Key-Frame Prediction Method for Accelerating Power Electronics Co-Simulation](https://ieeexplore.ieee.org/abstract/document/10589637), Weicheng Liu; Zhengming Zhao; Yangbin Zeng; **Jialin Zheng**; Han Xu
-
+- ``IEEE J. Emerging Sel. Top. Power Electron.`` [Adaptive Synchronization Interface with Key-Frame Prediction Method for Accelerating Power Electronics Co-Simulation](https://ieeexplore.ieee.org/abstract/document/10589637), Weicheng Liu; Zhengming Zhao; Yangbin Zeng; **Jialin Zheng**; Han Xu.
+- ``PEDG 2023`` [Topology-aware Iterative Method for Large-scale Power Electronic Systems with Stray Parameters](https://ieeexplore.ieee.org/abstract/document/10215133), Han Xu, Zhengming Zhao, Bochen Shi, Yangbin Zeng, **Jialin Zheng**, Weicheng Liu.
+- ``ECCE 2023``  [Multi-rate State-Variable-Interfaced Decoupling Simulation Strategy for Large-Scale Power Electronics Systems](https://ieeexplore.ieee.org/abstract/document/10362779), Han Xu, Zhengming Zhao, Yangbin Zeng, **Jialin Zheng**, Bochen Shi, Weicheng Liu.
+- ``PEDG 2023`` [Hybrid Time and Event Co-simulation Framework for Power Electronics Systems](https://ieeexplore.ieee.org/abstract/document/10215222), Weicheng Liu, Zhengming Zhao, Bochen Shi, Yangbin Zeng, **Jialin Zheng**, Han Xu.
 
 
 ## 🧑‍🎨 <a id="Desigh-Control">Design and Control of PEDG Converter</a>
