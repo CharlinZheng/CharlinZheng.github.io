@@ -44,9 +44,9 @@ Y. Zeng, **J. Zheng(Corresponding Author)**, Z. Zhao, W. Liu, S. Ji and H. Li
 </div>
 </div>
 
-- `IEEE Trans. Power Electron.` [Event-Synchronous Time-Asynchronous Method for Controller HIL Simulation of 10 kVA Modular Multilevel Converters](https://ieeexplore.ieee.org/abstract/document/10128737), Y. Zeng, **J. Zheng(Corresponding Author)**, Z. Zhao, W. Liu, Z. Wang and H. L.
-- `ECCE 2023` [Event-Driven Controller Hardware-In-The-Loop Simulation for Modular Multilevel Converters](https://ieeexplore.ieee.org/abstract/document/10362945), Yangbin Zeng; Weicheng Liu; **Jialin Zheng**; Haoyu Wang; Han Xu; Di Mou, Zhengming Zhao, Hong Li and Zuoxing Wang.
 
+- ``IEEE Trans. Transp. Electrif.`` [FPGA-based Real-Time X-in-the-loop Simulation Testbench for Dynamic Wireless Power Transfer System with Stochastic and Nonlinear Inductance](https://ieeexplore.ieee.org/abstract/document/10551289),  **J. Zheng**, Y. Zeng, Z. Zhao, et al.
+- ``IEEE Trans. Transp. Electrif.`` [FPGA-Based Implicit–Explicit Real-Time Simulation Solver for Railway Wireless Power Transfer With Nonlinear Magnetic Coupling Components](https://ieeexplore.ieee.org/abstract/document/10318137) Han Xu, Y. Zeng, **J. Zheng**, Z. Zhao, et al.
 
 ## 🎙  <a id="deep-machine-learning">Deep Machine Learning in PEDGs</a>
 
@@ -102,6 +102,8 @@ Han Xu, **Jialin Zheng(Corresponding Author)**, Yangbin Zeng, Weicheng Liu, et a
 ## 🎼 <a id="HIL-simulation">Real-Time Simulation and HIL Simulation</a>
  
 
+- ``IEEE Trans. Power Electron.`` [Event-Synchronous Time-Asynchronous Method for Controller HIL Simulation of 10 kVA Modular Multilevel Converters](https://ieeexplore.ieee.org/abstract/document/10128737), Y. Zeng, **J. Zheng(Corresponding Author)**, Z. Zhao, W. Liu, Z. Wang and H. L.
+- ``ECCE 2023`` [Event-Driven Controller Hardware-In-The-Loop Simulation for Modular Multilevel Converters](https://ieeexplore.ieee.org/abstract/document/10362945), Yangbin Zeng; Weicheng Liu; **Jialin Zheng**; Haoyu Wang; Han Xu; Di Mou, Zhengming Zhao, Hong Li and Zuoxing Wang.
 
 ## 🧑‍🎨 <a id="Desigh-Control">Design and Control of PEDG Converter</a>
 - ``IEEE J. Emerging Sel. Top. Power Electron.`` [Overview of Multi-Degree-of-Freedom Modulation Techniques for Dual Active Bridge Converter](https://ieeexplore.ieee.org/abstract/document/10274900), Di Mou, Liqiang Yuan, Quanming Luo, Yalun Li, Chengwei Liu, **Jialin Zheng** and Zhengming Zhao.
