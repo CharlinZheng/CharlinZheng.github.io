@@ -29,7 +29,7 @@ So far, my research has focused on Power Electronic Dense Grids (PEDGs) and cate
 **Jialin Zheng**, Haoyu Wang, Yangbin Zeng, Di Mou, et al.
 - **Neural networking** the differential equations to guarantee physical constraints.
 - Modeling unknown systems on **local edge devices** to guarantee privacy
-- Use adjoint states to obtain nearly **constant training cost**, independent of model depth
+- Use **adjoint states** to obtain nearly **constant training cost**, independent of model depth
 </div>
 </div>
 
