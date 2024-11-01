@@ -2,7 +2,7 @@
 
 &nbsp;
 
-I am working at Purdue University <img src='./images/Purdue.png' style='width: 2.5em;'> as a Postdoctoral Fellow in USA, working with [Xiaonan Lu](https://scholar.google.com/citations?user=7oB4yk0AAAAJ&hl=zh-CN&oi=ao). 
+I am now a ostdoctoral fellow at Purdue University <img src='./images/Purdue.png' style='width: 2.5em;'> , working with [Xiaonan Lu](https://scholar.google.com/citations?user=7oB4yk0AAAAJ&hl=zh-CN&oi=ao). 
 
 &nbsp;
  
