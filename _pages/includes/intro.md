@@ -2,8 +2,8 @@
 
 &nbsp;
 
-I am now a postdoctoral fellow at Purdue University <img src='./images/Purdue.png' style='width: 2.5em;'> , working with [Xiaonan Lu](https://scholar.google.com/citations?user=7oB4yk0AAAAJ&hl=zh-CN&oi=ao). I received Ph.D. degree from the Department of Electrical Engineering at Tsinghua University<img src='./images/Tsinghua.png' style='width: 5.5em;'>, China, under the supervision of Professor [Zhengming Zhao](https://www.eea.tsinghua.edu.cn/en/faculties/zmzhao.htm), and received my B.S. from the Department of Electrical Engineering at Beijing Jiaotong University<img src='./images/BJTU.png' style='width: 1.5em;'>. 
-
+I am now a postdoctoral fellow at Purdue University <img src='./images/Purdue.png' style='width: 2.5em;'> , working with [Xiaonan Lu](https://scholar.google.com/citations?user=7oB4yk0AAAAJ&hl=zh-CN&oi=ao). I received Ph.D. degree from the Department of Electrical Engineering at Tsinghua University<img src='./images/Tsinghua.png' style='width: 5.5em;'>, China, under the supervision of Professor [Zhengming Zhao](https://www.eea.tsinghua.edu.cn/en/faculties/zmzhao.htm), and received my B.S. from the Department of Electrical Engineering at Beijing Jiaotong University<img src='./images/BJTU.png' style='width: 1.5em;'>. [Curriculum Vitae](https://purdue0-my.sharepoint.com/:b:/g/personal/zheng876_purdue_edu/EW0k01ZzCoRPuaCXY2H2vF4BDSlvOMmsXZiSGUGziXhaxg?e=ZmaQRt) (Update Nov 2024)
+我的简历可以在这里找到（更新于2024年11月）
 &nbsp;
  
 
