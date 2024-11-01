@@ -2,7 +2,7 @@
 
 &nbsp;
 
-I am now a ostdoctoral fellow at Purdue University <img src='./images/Purdue.png' style='width: 2.5em;'> , working with [Xiaonan Lu](https://scholar.google.com/citations?user=7oB4yk0AAAAJ&hl=zh-CN&oi=ao). I received Ph.D. degree from the Department of Electrical Engineering at Tsinghua University<img src='./images/Tsinghua.png' style='width: 5.5em;'>, China, under the supervision of Professor [Zhengming Zhao](https://www.eea.tsinghua.edu.cn/en/faculties/zmzhao.htm), and received my B.S. from the Department of Electrical Engineering at Beijing Jiaotong University<img src='./images/BJTU.png' style='width: 1.5em;'>. 
+I am now a postdoctoral fellow at Purdue University <img src='./images/Purdue.png' style='width: 2.5em;'> , working with [Xiaonan Lu](https://scholar.google.com/citations?user=7oB4yk0AAAAJ&hl=zh-CN&oi=ao). I received Ph.D. degree from the Department of Electrical Engineering at Tsinghua University<img src='./images/Tsinghua.png' style='width: 5.5em;'>, China, under the supervision of Professor [Zhengming Zhao](https://www.eea.tsinghua.edu.cn/en/faculties/zmzhao.htm), and received my B.S. from the Department of Electrical Engineering at Beijing Jiaotong University<img src='./images/BJTU.png' style='width: 1.5em;'>. 
 
 &nbsp;
  
