@@ -109,9 +109,9 @@ Han Xu, **Jialin Zheng(Corresponding Author)**, Yangbin Zeng, Weicheng Liu, et a
 
 [***An Event-Driven Parallel Acceleration Real-Time Simulation for Power Electronic Systems Without Simulation Distortion in Circuit Partitioning***](https://ieeexplore.ieee.org/abstract/document/9832797) \\
 **Jialin Zheng**, Zhengming Zhao, Yangbin Zeng, et al.
-- 模拟调制过程来避免采样过程，带来低硬件成本和高精度的开关信息
-- 通过对状态变量进行分区，设计并行的多计算进程之间的巧妙的配合，来避免传统采用解耦方法引入的误差
-- 在普通的个人电脑即可实现，将仿真的硬件成本降低了30多倍。
+- **Simulates the modulation process** to avoid sampling, achieving high-precision switching information at a lower hardware cost.
+- Designs a clever coordination among parallel computing processes by **partitioning state variables**, thereby avoiding errors typically introduced by traditional decoupling methods.
+- Achieves implementation on standard personal computers, reducing simulation hardware costs by **over 30 times**.
 </div>
 </div>
 
@@ -120,9 +120,10 @@ Han Xu, **Jialin Zheng(Corresponding Author)**, Yangbin Zeng, Weicheng Liu, et a
 
 [***An Event Driven Synchronization Framework for Physical Controller Co-Simulation of Megawatt-Level Power Electronic Systems***](https://ieeexplore.ieee.org/abstract/document/10242602) \\
 **Jialin Zheng**, Yangbin Zeng, Zhengming Zhao, Weicheng Liu, Han Xu, et al.
-- 一种基于CPU和FPGA的异种计算架构，同时利用CPU的灵活度高的计算能力和FPGA的广泛的数据接口
-- 一种软硬件联合仿真，取得和实时HIL一致的性能表现，但没有实时约束和仿真规模约束
-- 首次对含有576多个开关的兆瓦级电力电子变压器的物理控制器进行测试，没有任何简化或者等效
+- A **heterogeneous computing architecture** based on CPU and FPGA, leveraging the high flexibility of CPU computation and the extensive data interfaces of FPGA.
+- A hardware-software co-simulation that achieves performance consistent with real-time HIL, yet **without real-time constraints**.
+- **First-ever testing** of a physical controller for a megawatt-scale power electronic transformer with over 576 switches, conducted without any simplifications or equivalencies.
+
 </div>
 </div>
 
@@ -131,9 +132,9 @@ Han Xu, **Jialin Zheng(Corresponding Author)**, Yangbin Zeng, Weicheng Liu, et a
 
 [***A Self-Restoring Fault-Tolerant Method for Controller Cooperation Simulation of Power Electronics Systems***](https://ieeexplore.ieee.org/abstract/document/10061485) \\
 Yangbin Zeng, Zhengming Zhao, **Jialin Zheng(Corresponding Author)**, et al.
-- Localized observation for critics in the CTDE framework enhances scalability for systems with numerous DGs.
-- Truncated Q-function inputs based on network structure significantly reduce communication costs during training.
-- Theoretical guarantees ensure robust approximation, compatible across diverse multi-agent actor-critic algorithms.
+- Establishes a real-time operating system on a personal computer to enable timely responses to controller hardware connected via the PCIe interface.
+- Sets up an interlocking flag-based communication protocol between subsystems on different clocks to monitor and handle random data transmission delays.
+- Designs a self-restarting simulation stepping strategy with memory of previous states for flexible backtracking.
 </div>
 </div>
 
