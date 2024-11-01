@@ -78,9 +78,10 @@ Han Xu, **Jialin Zheng**, Guannan Qu
 
 [***MPSoC-Based Dynamic Adjustable Time-Stepping Scheme With Switch Event Oversampling Technique for Real-Time HIL Simulation of Power Converters***](https://ieeexplore.ieee.org/abstract/document/10236507) \\
 **Jialin Zheng**; Yangbin Zeng; Zhengming Zhao; Weicheng Liu; Han Xu; Haoyu Wang and Di Mou
-- Localized observation for critics in the CTDE framework enhances scalability for systems with numerous DGs.
-- Truncated Q-function inputs based on network structure significantly reduce communication costs during training.
-- Theoretical guarantees ensure robust approximation, compatible across diverse multi-agent actor-critic algorithms.
+- An oversampling method where the sampling frequency depends solely on hardware performance, **unaffected by system scale** or algorithm execution time.
+- Dynamically adjusts computation step-size, performing calculations only at **critical points.**
+- Capable of accurately characterizing all switching actions in multi-active bridge converters at frequencies up to 400 kHz, **far exceeding** the current average of 20 kHz.
+
 </div>
 </div>
 
