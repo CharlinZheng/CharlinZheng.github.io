@@ -27,7 +27,7 @@ So far, my research has focused on Power Electronic Dense Grids (PEDGs) and cate
 
 ***Neural ODE-based Online Modeling of Unknown Power Electronic Systems***(Under Review) \\
 **Jialin Zheng**, Haoyu Wang, Yangbin Zeng, Di Mou, et al.
-- Directly **Neural networking** the differential equations to guarantee physical constraints.
+- Directly **neuralizing** the converters' ordinary differential equations (ODEs)， ensuring physical constraints and compatibility with existing ODE-based design and control methods.
 - Modeling unknown systems on **local edge devices** to guarantee privacy
 - Use **adjoint states** to obtain nearly **constant training cost**, independent of model depth
 </div>
