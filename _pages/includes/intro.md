@@ -5,8 +5,9 @@
 I am working at Purdue University <img src='./images/Purdue.png' style='width: 2.5em;'> as a Postdoctoral Fellow in USA, working with [Xiaonan Lu](https://scholar.google.com/citations?user=7oB4yk0AAAAJ&hl=zh-CN&oi=ao). 
 
 &nbsp;
+ 
 
-My research focuses on the intersection of **machine learning**, **digital twins**, and **low-carbon power systems**.  I aim to drive the **digital transformation** of low-carbon energy systems through high-fidelity digital twins and reliable machine learning, addressing applications from individual power electronic converters to large-scale smart grids. My goal is to contribute to the development of power systems by **employing advanced computational techniques** to **reduce manual intervention** while maintaining consistent performance. For any **academic collaboration** inquiries, please feel free to contact me at [zjl1724030403@gmail.com](mailto:zjl1724030403@gmail.com).
+My research focuses on the intersection of **machine learning**, **digital twins**, and **power electronics-dense grids （PEDGs）**.  Through high-fidelity digital twins and reliable machine learning, I work to advance the **digital transformation** of PEDGs, from individual power electronic converters to large-scale smart grids. By leveraging **advanced computational techniques** and **mathematical methods**, I strive to transition from **human-centered** to **machine-centered** approaches in PEDGs development, aiming to reduce manual intervention while ensuring consistent performance. For any **academic collaboration** inquiries, please feel free to contact me at [zjl1724030403@gmail.com](mailto:zjl1724030403@gmail.com).
 <p align="center">
   <img src="./images/Web_HomePage.svg" >
 </p>
