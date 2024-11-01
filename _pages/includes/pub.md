@@ -109,9 +109,9 @@ Han Xu, **Jialin Zheng(Corresponding Author)**, Yangbin Zeng, Weicheng Liu, et a
 
 [***An Event-Driven Parallel Acceleration Real-Time Simulation for Power Electronic Systems Without Simulation Distortion in Circuit Partitioning***](https://ieeexplore.ieee.org/abstract/document/9832797) \\
 **Jialin Zheng**, Zhengming Zhao, Yangbin Zeng, et al.
-- Localized observation for critics in the CTDE framework enhances scalability for systems with numerous DGs.
-- Truncated Q-function inputs based on network structure significantly reduce communication costs during training.
-- Theoretical guarantees ensure robust approximation, compatible across diverse multi-agent actor-critic algorithms.
+- 模拟调制过程来避免采样过程，带来低硬件成本和高精度的开关信息
+- 通过对状态变量进行分区，设计并行的多计算进程之间的巧妙的配合，来避免传统采用解耦方法引入的误差
+- 在普通的个人电脑即可实现，将仿真的硬件成本降低了30多倍。
 </div>
 </div>
 
@@ -120,9 +120,9 @@ Han Xu, **Jialin Zheng(Corresponding Author)**, Yangbin Zeng, Weicheng Liu, et a
 
 [***An Event Driven Synchronization Framework for Physical Controller Co-Simulation of Megawatt-Level Power Electronic Systems***](https://ieeexplore.ieee.org/abstract/document/10242602) \\
 **Jialin Zheng**, Yangbin Zeng, Zhengming Zhao, Weicheng Liu, Han Xu, et al.
-- Localized observation for critics in the CTDE framework enhances scalability for systems with numerous DGs.
-- Truncated Q-function inputs based on network structure significantly reduce communication costs during training.
-- Theoretical guarantees ensure robust approximation, compatible across diverse multi-agent actor-critic algorithms.
+- 一种基于CPU和FPGA的异种计算架构，同时利用CPU的灵活度高的计算能力和FPGA的广泛的数据接口
+- 一种软硬件联合仿真，取得和实时HIL一致的性能表现，但没有实时约束和仿真规模约束
+- 首次对含有576多个开关的兆瓦级电力电子变压器的物理控制器进行测试，没有任何简化或者等效
 </div>
 </div>
 
