@@ -27,7 +27,7 @@ So far, my research has focused on Power Electronic Dense Grids (PEDGs) and cate
 
 ***Neural ODE-based Online Modeling of Unknown Power Electronic Systems***(Under Review) \\
 **Jialin Zheng**, Haoyu Wang, Yangbin Zeng, Di Mou, et al.
-- Directly **neuralizing** the converters' ordinary differential equations (ODEs)， ensuring physical constraints and compatibility with existing ODE-based design and control methods.
+- Directly **neuralizing** the converters' ordinary differential equations (ODEs)，ensuring physical constraints and compatibility with existing ODE-based design and control methods.
 - Modeling unknown systems on **local edge devices** to guarantee privacy
 - Use **adjoint states** to obtain nearly **constant training cost**, independent of model depth
 </div>
@@ -54,8 +54,8 @@ Y. Zeng, **J. Zheng(Corresponding Author)**, Z. Zhao, W. Liu, S. Ji and H. Li
 
 [***A Scalable Network-Aware Multi-Agent Reinforcement Learning Framework for Decentralized Inverter-based Voltage Control***](https://arxiv.org/abs/2312.04371) \\
 Han Xu, **Jialin Zheng**, Guannan Qu
-- Using **Localized observation** for critics in the CTDE framework，enhanceing scalability for numerous DGs systems.
-- Truncated Q-function inputs based on **network structure**，reducing communication costs during training significantly.
+- Using **Localized observation** for critics in the CTDE framework，enhanceing scalability for large-scale PEDGs.
+- Truncating Q-function inputs based on **network structure**，reducing communication costs during training significantly.
 - **Theoretical guarantees** ensure robust approximation, compatible across diverse multi-agent actor-critic algorithms.
 </div>
 </div>
@@ -67,9 +67,9 @@ Han Xu, **Jialin Zheng**, Guannan Qu
 
 [***A Semi-Implicit Parallel Leapfrog Solver With Half-Step Sampling Technique for FPGA-Based Real-Time HIL Simulation of Power Converters***](https://ieeexplore.ieee.org/abstract/document/10100633) \\
 **J. Zheng**, Y. Zeng, Z. Zhao, W. Liu, H. Xu and S. Ji
-- A semi-implicit numerical integration scheme alternating between explicit and implicit integration, combining the high parallelism of explicit methods with the numerical stability of implicit methods.
-- Leapfrog operation with half-step increments, naturally doubling the sampling frequency, applicable across any switching frequency.
-- A hierarchical modeling approach that translates topology changes caused by switching actions into input variations, maintaining a constant system matrix.
+- A semi-implicit numerical integration scheme alternating between explicit and implicit integration, combining the **high parallelism** of explicit methods with the **numerical stability** of implicit methods.
+- Leapfrog operation with half-step increments, naturally **doubling the sampling frequency**, applicable across any switching frequency.
+- A hierarchical modeling approach that translates topology changes caused by switching actions into input variations, maintaining a **constant system matrix**.
 </div>
 </div>
 
