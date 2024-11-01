@@ -132,9 +132,9 @@ Han Xu, **Jialin Zheng(Corresponding Author)**, Yangbin Zeng, Weicheng Liu, et a
 
 [***A Self-Restoring Fault-Tolerant Method for Controller Cooperation Simulation of Power Electronics Systems***](https://ieeexplore.ieee.org/abstract/document/10061485) \\
 Yangbin Zeng, Zhengming Zhao, **Jialin Zheng(Corresponding Author)**, et al.
-- Establishes a real-time operating system on a personal computer to enable timely responses to controller hardware connected via the PCIe interface.
-- Sets up an interlocking flag-based communication protocol between subsystems on different clocks to monitor and handle random data transmission delays.
-- Designs a self-restarting simulation stepping strategy with memory of previous states for flexible backtracking.
+- Establishes a **RTOS on a PC** to enable timely responses to controller hardware via the PCIe interface.
+- Sets up an interlocking **flag-based communication protocol** between subsystems on different clocks to monitor and handle random data transmission delays.
+- Designs a **self-restarting** simulation stepping strategy with memory of previous states for flexible backtracking.
 </div>
 </div>
 
