@@ -79,7 +79,7 @@ Han Xu, **Jialin Zheng**, Guannan Qu
 [***MPSoC-Based Dynamic Adjustable Time-Stepping Scheme With Switch Event Oversampling Technique for Real-Time HIL Simulation of Power Converters***](https://ieeexplore.ieee.org/abstract/document/10236507) \\
 **Jialin Zheng**; Yangbin Zeng; Zhengming Zhao; Weicheng Liu; Han Xu; Haoyu Wang and Di Mou
 - An oversampling method where the sampling frequency depends solely on hardware performance, **unaffected by system scale** or algorithm execution time.
-- Dynamically adjusts computation step-size, performing calculations only at **critical points.**
+- Dynamically adjusts computation step-size, performing calculations **only at critical points.**
 - Capable of accurately characterizing all switching actions in multi-active bridge converters at frequencies up to 400 kHz, **far exceeding** the current average of 20 kHz.
 
 </div>
