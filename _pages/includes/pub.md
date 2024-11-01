@@ -67,7 +67,7 @@ Han Xu, **Jialin Zheng**, Guannan Qu
 
 [***A Semi-Implicit Parallel Leapfrog Solver With Half-Step Sampling Technique for FPGA-Based Real-Time HIL Simulation of Power Converters***](https://ieeexplore.ieee.org/abstract/document/10100633) \\
 **J. Zheng**, Y. Zeng, Z. Zhao, W. Liu, H. Xu and S. Ji
-- A semi-implicit numerical integration scheme alternating between explicit and implicit integration, combining the **high parallelism** of explicit methods with the **numerical stability** of implicit methods.
+- A semi-implicit numerical integration scheme, combining the **high parallelism** of explicit methods with the **numerical stability** of implicit methods.
 - Leapfrog operation with half-step increments, naturally **doubling the sampling frequency**, applicable across any switching frequency.
 - A hierarchical modeling approach that translates topology changes caused by switching actions into input variations, maintaining a **constant system matrix**.
 </div>
