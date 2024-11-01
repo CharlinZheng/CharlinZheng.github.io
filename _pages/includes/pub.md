@@ -27,7 +27,7 @@ So far, my research has focused on Power Electronic Dense Grids (PEDGs) and cate
 
 ***Neural ODE-based Online Modeling of Unknown Power Electronic Systems***(Under Review) \\
 **Jialin Zheng**, Haoyu Wang, Yangbin Zeng, Di Mou, et al.
-- **Neural networking** the differential equations to guarantee physical constraints.
+- Directly **Neural networking** the differential equations to guarantee physical constraints.
 - Modeling unknown systems on **local edge devices** to guarantee privacy
 - Use **adjoint states** to obtain nearly **constant training cost**, independent of model depth
 </div>
@@ -38,12 +38,11 @@ So far, my research has focused on Power Electronic Dense Grids (PEDGs) and cate
 
 [***Real-Time Digital Mapped Method for Sensorless Multitimescale Operation Condition Monitoring of Power Electronics Systems***](https://ieeexplore.ieee.org/abstract/document/10122863) \\
 Y. Zeng, **J. Zheng(Corresponding Author)**, Z. Zhao, W. Liu, S. Ji and H. Li
-- Non-invasive acquisition of all states inside the converter
-- Across multiple time scales, from subtle switching dynamics to second-level voltage fluctuations
-- Signal-level interaction for safety, convenience, and efficiency
+- **Non-invasive** acquisition of all states inside the converter **without** any kind of sensors
+- Across **multiple time scales**, from subtle switching dynamics to second-level voltage fluctuations
+- **Signal-level** interaction for safety, convenience, and efficiency
 </div>
 </div>
-
 
 - ``IEEE Trans. Transp. Electrif.`` [FPGA-based Real-Time X-in-the-loop Simulation Testbench for Dynamic Wireless Power Transfer System with Stochastic and Nonlinear Inductance](https://ieeexplore.ieee.org/abstract/document/10551289),  **J. Zheng**, Y. Zeng, Z. Zhao, et al.
 - ``IEEE Trans. Transp. Electrif.`` [FPGA-Based Implicit–Explicit Real-Time Simulation Solver for Railway Wireless Power Transfer With Nonlinear Magnetic Coupling Components](https://ieeexplore.ieee.org/abstract/document/10318137) Han Xu, Y. Zeng, **J. Zheng**, Z. Zhao, et al.
@@ -55,13 +54,11 @@ Y. Zeng, **J. Zheng(Corresponding Author)**, Z. Zhao, W. Liu, S. Ji and H. Li
 
 [***A Scalable Network-Aware Multi-Agent Reinforcement Learning Framework for Decentralized Inverter-based Voltage Control***](https://arxiv.org/abs/2312.04371) \\
 Han Xu, **Jialin Zheng**, Guannan Qu
-- Localized observation for critics in the CTDE framework enhances scalability for systems with numerous DGs.
-- Truncated Q-function inputs based on network structure significantly reduce communication costs during training.
-- Theoretical guarantees ensure robust approximation, compatible across diverse multi-agent actor-critic algorithms.
+- Using **Localized observation** for critics in the CTDE framework，enhanceing scalability for numerous DGs systems.
+- Truncated Q-function inputs based on **network structure**，reducing communication costs during training significantly.
+- **Theoretical guarantees** ensure robust approximation, compatible across diverse multi-agent actor-critic algorithms.
 </div>
 </div>
-
-
 
 ## 📚 <a id="edge-computing">Edge Computing for PEDG Application</a> 
 
@@ -70,9 +67,9 @@ Han Xu, **Jialin Zheng**, Guannan Qu
 
 [***A Semi-Implicit Parallel Leapfrog Solver With Half-Step Sampling Technique for FPGA-Based Real-Time HIL Simulation of Power Converters***](https://ieeexplore.ieee.org/abstract/document/10100633) \\
 **J. Zheng**, Y. Zeng, Z. Zhao, W. Liu, H. Xu and S. Ji
-- Localized observation for critics in the CTDE framework enhances scalability for systems with numerous DGs.
-- Truncated Q-function inputs based on network structure significantly reduce communication costs during training.
-- Theoretical guarantees ensure robust approximation, compatible across diverse multi-agent actor-critic algorithms.
+- A semi-implicit numerical integration scheme alternating between explicit and implicit integration, combining the high parallelism of explicit methods with the numerical stability of implicit methods.
+- Leapfrog operation with half-step increments, naturally doubling the sampling frequency, applicable across any switching frequency.
+- A hierarchical modeling approach that translates topology changes caused by switching actions into input variations, maintaining a constant system matrix.
 </div>
 </div>
 
