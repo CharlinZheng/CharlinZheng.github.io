@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jialin Zheng"
-description              : "Postdoctoral Fellow in Purdue Univ. Focusing on Physical-informed Machine learning and Embedded Digital twins of Low-carbon Power Grid."
+description              : "Postdoctoral Fellow in Purdue University. Focusing on Physical-informed Machine learning and Embedded Digital twins of Low-carbon Power Grid."
 repository               : "CharlinZheng/CharlinZheng.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  : code-ZxFK3f4pfb
 author:
   name             : "Jialin Zheng"
   avatar           : "images/jialin_Profile.png"
-  bio              : "Purdue"
+  bio              : "Purdue University"
   location         : "USA"
   employer         :
   pubmed           : 
