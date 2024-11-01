@@ -90,9 +90,9 @@ Han Xu, **Jialin Zheng**, Guannan Qu
 
 [***Topology-Aware Matrix Partitioning Method for FPGA Real-Time Simulation of Power Electronics Systems***](https://ieeexplore.ieee.org/abstract/document/10242237) \\
 Han Xu, **Jialin Zheng(Corresponding Author)**, Yangbin Zeng, Weicheng Liu, et al.
-- Localized observation for critics in the CTDE framework enhances scalability for systems with numerous DGs.
-- Truncated Q-function inputs based on network structure significantly reduce communication costs during training.
-- Theoretical guarantees ensure robust approximation, compatible across diverse multi-agent actor-critic algorithms.
+- Divides the system matrix into blocks with explicit topological significance according to the **topology structure**.
+- Constructs a **constant iterative matrix** using its constant diagonal blocks, achieving a fixed iterative matrix and iteration count.
+- Utilizes a fully implicit numerical integration method **without the need** to store all matrices or perform indefinite iterative calculations, as required by traditional methods.
 </div>
 </div>
 
