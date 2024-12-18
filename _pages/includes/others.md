@@ -10,6 +10,8 @@
 - *2021.06-2021.08*, Research Assistant, Artificial Intelligence in Power Electronic Systems，Delta Electronics, Inc., Shanghai,China.
 
 # 💻 Acadamic Service
+## Associate Editor
+-  2025 IEEE Industry Applications Society Annual Meeting 
 ## Reviewer
 -  IEEE Transactions on Power Electronics (TPEL)
 -  IEEE Transactions on Industrial Electronics (TIE)
