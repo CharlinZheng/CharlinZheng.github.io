@@ -11,10 +11,13 @@
 
 # 💻 Acadamic Service
 ## Associate Editor
--  2025 IEEE Industry Applications Society Annual Meeting 
+-  2025 IEEE Industry Applications Society Annual Meeting
+
 ## Reviewer
 -  IEEE Transactions on Power Electronics (TPEL)
 -  IEEE Transactions on Industrial Electronics (TIE)
+-  IEEE Transactions on Industrial Informatics (TII)
+-  IEEE Transactions on Industrial Application (TIA)
 -  IEEE Journal of Emerging and Selected Topics in Power Electronics (JESTPE)
 -  IEEE Transactions on Power System (TPWRS)
 -  IEEE Open Journal of the Industrial Electronics Society (OJIES)
