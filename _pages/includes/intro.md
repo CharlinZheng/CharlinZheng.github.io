@@ -11,7 +11,7 @@ I am now a postdoctoral fellow at Purdue University <img src='./images/Purdue.pn
 &nbsp;
  
 
-My research focuses on the intersection of **machine learning（ML）**, **digital twins(DT)**, and **power electronics-dense grids （PEDGs）**.  Through advanced computational techniques and rigorous mathematical methods to achieve high-fidelity DTs and reliable ML, I work to advance the **digital transformation** of PEDGs, from individual power electronic converters to large-scale smart grids. By developing diverse application paradigms based on DTs and ML, I aim to shift PEDGs development from **human-centered** to **computer-centered** approaches, reducing the need for **manual intervention** while ensuring performance that matches or exceeds that achieved by skilled human operators. 
+My research focuses on the intersection of **machine learning（ML）**, **digital twins(DT)**, and **power electronics-dense grids （PEDGs）**.  Through advanced computational techniques and rigorous mathematical methods to achieve high-fidelity DTs and reliable ML, I work to advance the **digital transformation** of PEDGs, from individual power electronic converters to large-scale smart grids. By developing diverse application paradigms based on DTs and ML, I aim to shift PEDGs development from **human-centered** to **computer-centered** approaches. 
 <p align="center">
   <img src="./images/Web_HomePage.svg" >
 </p>
