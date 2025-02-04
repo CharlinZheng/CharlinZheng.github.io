@@ -20,8 +20,9 @@
 -  IEEE Transactions on Industrial Application (TIA)
 -  IEEE Journal of Emerging and Selected Topics in Power Electronics (JESTPE)
 -  IEEE Transactions on Power System (TPWRS)
+-  IEEE Transactions on Smart Grid (TSG)
 -  IEEE Open Journal of the Industrial Electronics Society (OJIES)
 -  IEEE Open Access Journal of Power and Energy (OAJPE)
--  IEEE Energy Conversion Congress and Exposition (ECCE)
--  IEEE  International Symposium on Power Electronics for Distributed Generation Systems (PEDG)
+-  IEEE Energy Conversion Congress and Exposition (ECCE2023)
+-  IEEE  International Symposium on Power Electronics for Distributed Generation Systems (PEDG2023)
 
