@@ -6,8 +6,6 @@ I am now a postdoctoral fellow at Purdue University <img src='./images/Purdue.pn
 
 &nbsp;
 
-[Curriculum Vitae](https://purdue0-my.sharepoint.com/:b:/g/personal/zheng876_purdue_edu/EW0k01ZzCoRPuaCXY2H2vF4BDSlvOMmsXZiSGUGziXhaxg?e=ZmaQRt) (Update Nov 2024)
-
 &nbsp;
  
 
