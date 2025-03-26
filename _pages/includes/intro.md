@@ -22,7 +22,7 @@ Currently, my research focuses on **embodied intelligence within power electroni
 
 &nbsp;
 
-I particularly enjoy **collaborating** and exchanging ideas with researchers from **diverse professional backgrounds**. My collaborators and I have achieved significant results in the past, which I believe is largely due to our varied perspectives and efficient collaboration. They include [Han Xu](https://thu-xuhan.github.io/) at Caltech<img src='./images/Caltech.png' style='width: 1.5em;'>, [Haoyu Wang](https://sites.utexas.edu/hanson/people/haoyu-wang/) at UT Austin<img src='./images/utaustin.png' style='width: 1.5em;'>, [Di Mou](https://scholar.google.com.hk/citations?user=nDQaA9EAAAAJ&hl) at Cambridge University<img src='./images/Cambridge.png' style='width: 5em;'>, and [Yangbin Zeng](https://www2.scut.edu.cn/ep/2024/0603/c18719a555482/page.htm) at the South China University of Technology<img src='./images/华南理工.jpeg' style='width: 1.5em;'>.If you are interested in any kind of **academic collaboration**, please feel free to contact me at [zjl1724030403@gmail.com](mailto:zjl1724030403@gmail.com).
+I particularly enjoy **collaborating** and exchanging ideas with researchers from **diverse professional backgrounds**. My collaborators and I have achieved significant results in the past, which I believe is largely due to our varied perspectives and efficient collaboration. If you are interested in any kind of **academic collaboration**, please feel free to contact me at [zjl1724030403@gmail.com](mailto:zjl1724030403@gmail.com).
 
 
 &nbsp;
