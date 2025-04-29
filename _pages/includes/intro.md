@@ -22,7 +22,7 @@ Currently, my research focuses on **embodied intelligence within power electroni
 
 &nbsp;
 
-I particularly enjoy **collaborating** and exchanging ideas with researchers from **diverse professional backgrounds**. My collaborators and I have achieved significant results in the past, which I believe is largely due to our varied perspectives and efficient collaboration. If you are interested in any kind of **academic collaboration**, please feel free to contact me at [zjl1724030403@gmail.com](mailto:zjl1724030403@gmail.com).
+I particularly enjoy **collaborating** and exchanging ideas with researchers from **diverse professional backgrounds**. My collaborators and I have achieved significant results in the past, which I believe is largely due to our varied perspectives and efficient collaboration. If you are interested in any kind of **academic collaboration**, please feel free to contact me at [zjl1724030403@gmail.com](mailto:JialinZheng@ieee.org).
 
 
 &nbsp;
