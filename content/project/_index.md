@@ -10,7 +10,7 @@ sections:
       text: Check out my projects below.
       filters:
         folders: 
-         -project
+         - project
         tags: []             # 只显示哪些 tag（留空表示不过滤）
         exclude_tags: []     # 排除哪些 tag
         kinds: 
