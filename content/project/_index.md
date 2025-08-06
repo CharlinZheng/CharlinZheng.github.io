@@ -22,7 +22,7 @@ sections:
         - name: All
           tag: '*'
         - name: Deep Learning
-          tag: Deep Learning
+          tag: ML
         - name: Other
           tag: Demo
     design:
