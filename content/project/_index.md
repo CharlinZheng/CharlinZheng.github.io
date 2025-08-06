@@ -6,7 +6,7 @@ sections:
     id: projects
     content:
       title: Projects
-      subtitle: ' '
+      subtitle: Check out my projects below.
       text: Check out my projects below.
       filters:
         folders: 
@@ -29,6 +29,6 @@ sections:
       columns: '1'
       view: masonry card
       flip_alt_rows: true
-      background: {color: '#f8f9fa' image_parallax: true}
+      background: {color: '#f8f9fa', image_parallax: true}
       spacing: {padding: [0, 2, 0, 2]}
 ---
