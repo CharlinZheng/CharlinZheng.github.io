@@ -5,17 +5,9 @@ type: landing
 sections:
   - block: markdown
     content:
-      title: Our Projects
-      subtitle: 'Filter by category:'
-      text: |
-        <div class="btn-toolbar filter-toolbar" role="toolbar" aria-label="Filter toolbar">
-          <div class="btn-group flex-wrap" role="group" aria-label="Filter buttons">
-            <a href="#projects" class="btn btn-primary active">All</a>
-            <a href="/tags/ml/" class="btn btn-primary">Machine Learning</a>
-            <a href="/tags/cv/" class="btn btn-primary">Computer Vision</a>
-            <a href="/tags/nlp/" class="btn btn-primary">NLP</a>
-          </div>
-        </div>
+      title: Our Research Projects
+      subtitle: ''
+      text: ''
     design:
       columns: '1'
       
@@ -25,14 +17,30 @@ sections:
       title: ''
       subtitle: ''
       text: ''
+      # 选择要显示的页面类型
+      page_type: project
+      # 显示数量（0 = 全部）
       count: 0
+      # 过滤器
       filters:
         folders:
           - project
+        author: ""
+        category: ""
+        tag: ""
         exclude_featured: false
+        exclude_future: false
+        exclude_past: false
+        publication_type: ""
+      # 排序
+      order: desc
+      # 归档页面
       archive:
         enable: false
     design:
+      # 选择视图类型
+      # 可选: list, compact, card, citation, showcase
       view: card
+      # 列数
       columns: '2'
 ---
