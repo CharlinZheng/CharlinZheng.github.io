@@ -6,7 +6,7 @@ sections:
     id: projects
     content:
       title: Projects
-      subtitle: My subtitle
+      subtitle: ' '
       text: Check out my projects below.
       filters:
         folders: 
@@ -27,7 +27,7 @@ sections:
           tag: Demo
     design:
       columns: '1'
-      view: masonry
+      view: showcase
       flip_alt_rows: true
       background: {}
       spacing: {padding: [0, 0, 0, 0]}
