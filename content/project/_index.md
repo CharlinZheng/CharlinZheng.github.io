@@ -26,7 +26,21 @@ sections:
           background: #0056b3;
           transform: translateY(-2px);
         }
-      
+  - block: portfolio  # 如果主题支持
+    content:
+      title: ''
+      page_type: project
+      filter_button:
+        - name: All
+          tag: '*'
+        - name: Machine Learning
+          tag: ML
+        - name: Computer Vision
+          tag: CV
+    design:
+      columns: '2'
+      view: showcase
+  
   - block: collection
     content:
       title: ''
