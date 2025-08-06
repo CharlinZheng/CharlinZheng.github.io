@@ -20,8 +20,8 @@ sections:
         country: United States
         country_code: US
       coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'
+        latitude: '40.4419'
+        longitude: '-86.9125'
       directions: Enter Potter Center and take the stairs to Office 257 on Floor 2
       office_hours:
        - 'Monday 10:00 to 13:00'
