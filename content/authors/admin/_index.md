@@ -1,41 +1,39 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Jialin Zheng
 
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: Jialin
+last_name: Zheng
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Postdoctoral Fellow of Electrical Engineering
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: Purdue University
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Edge Computing
+  - Machine Learning
+  - Power Electronics
+  - Energy Systems
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Electrical Engineering
+      institution: Tsinghua University
+      year: 2024
+    - course: BSc in Electrical Engineering
+      institution: Beijing Jiaotong University
+      year: 2019
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -44,16 +42,16 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
+    link: 'mailto:jialinzheng@ieee.org'
+  - icon: linkedin
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://www.linkedin.com/in/jialin-zheng-579912326/
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=0-BNEy4AAAAJ&hl=en-US
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/CharlinZheng
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -72,6 +70,6 @@ user_groups:
   - Researchers
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Jialin Zheng is a Postdoctoral Researcher at Purdue University and received his Ph.D. in Electrical Engineering from Tsinghua University. His research lies at the intersection of edge computing, machine learning, power electronics, and energy systems, with interests in real-time digital twins, time-series modeling, and model predictive control. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+He develops provably correct and physically realizable theory, algorithms, and toolchains to drive the digitalization and intelligence of next-generation energy systems, improving performance, reliability, and resilience across wide-bandgap devices, high-frequency power converters, and converter-dominated grids.
