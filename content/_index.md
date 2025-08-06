@@ -8,8 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        Jialin Zheng
       image:
         filename: welcome.jpg
       text: |
