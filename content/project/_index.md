@@ -24,7 +24,7 @@ sections:
         - name: Other
           tag: Demo
     design:
-      columns: '2'           # '1' 或 '2'
-      view: showcase         # masonry / showcase / compact / list 等
-      flip_alt_rows: true   # showcase 视图下可交替反转布局
+      columns: '1'           # '1' 或 '2'
+      view: masonry         # masonry / showcase / compact / list 等
+      flip_alt_rows: false  # showcase 视图下可交替反转布局
 ---
