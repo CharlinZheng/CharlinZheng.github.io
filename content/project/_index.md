@@ -3,7 +3,7 @@ title: Home
 type: landing
 sections:
   - block: portfolio
-    id: project
+    id: projects
     content:
       title: Projects
       subtitle: My subtitle
