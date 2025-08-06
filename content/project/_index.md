@@ -33,7 +33,7 @@ sections:
     design:
       # 选择视图类型
       # 可选: list, compact, card, citation, showcase
-      view:  compact
+      view: card
       # 列数
       columns: '2'
 ---
