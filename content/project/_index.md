@@ -6,31 +6,33 @@ sections:
   - block: markdown
     content:
       title: Our Projects
-      subtitle: 'Explore our research projects'
-      text: ''
+      subtitle: 'Filter by category:'
+      text: |
+        <div class="btn-toolbar filter-toolbar" role="toolbar" aria-label="Filter toolbar">
+          <div class="btn-group flex-wrap" role="group" aria-label="Filter buttons">
+            <a href="#projects" class="btn btn-primary active">All</a>
+            <a href="/tags/ml/" class="btn btn-primary">Machine Learning</a>
+            <a href="/tags/cv/" class="btn btn-primary">Computer Vision</a>
+            <a href="/tags/nlp/" class="btn btn-primary">NLP</a>
+          </div>
+        </div>
     design:
       columns: '1'
       
   - block: collection
+    id: projects
     content:
       title: ''
       subtitle: ''
       text: ''
-      # Choose how many pages you would like to display
       count: 0
-      # Filter on criteria
       filters:
         folders:
           - project
-        tag: ''
-      # Page order
-      order: desc
+        exclude_featured: false
       archive:
-        enable: true
-        text: See all projects
-        link: project/
+        enable: false
     design:
       view: card
       columns: '2'
-      flip_alt_rows: false
 ---
