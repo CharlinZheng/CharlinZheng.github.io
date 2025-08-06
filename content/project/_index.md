@@ -6,30 +6,36 @@ sections:
   - block: markdown
     content:
       title: Research Projects
+      subtitle: 'Browse by category:'
       text: |
-        <details open>
-        <summary style="cursor: pointer; font-size: 1.3rem; font-weight: bold; margin: 1rem 0;">🤖 Machine Learning Projects</summary>
-        
-        - [Deep Learning Framework](/project/dl-framework/)
-        - [Neural Network Optimization](/project/nn-optimization/)
-        - [AutoML System](/project/automl/)
-        </details>
-        
-        <details>
-        <summary style="cursor: pointer; font-size: 1.3rem; font-weight: bold; margin: 1rem 0;">👁️ Computer Vision Projects</summary>
-        
-        - [Object Detection System](/project/object-detection/)
-        - [Image Segmentation](/project/segmentation/)
-        - [Face Recognition](/project/face-recognition/)
-        </details>
-        
-        <details>
-        <summary style="cursor: pointer; font-size: 1.3rem; font-weight: bold; margin: 1rem 0;">💬 NLP Projects</summary>
-        
-        - [Language Model](/project/language-model/)
-        - [Sentiment Analysis](/project/sentiment/)
-        - [Machine Translation](/project/translation/)
-        </details>
+        [All Projects](/project/) | [Machine Learning](/tags/machine-learning/) | [Computer Vision](/tags/computer-vision/) | [NLP](/tags/nlp/) | [Deep Learning](/tags/deep-learning/)
     design:
       columns: '1'
+      css_style: |
+        text-align: center;
+        a {
+          display: inline-block;
+          margin: 0.5rem;
+          padding: 0.5rem 1.5rem;
+          background: #007bff;
+          color: white;
+          border-radius: 25px;
+          text-decoration: none;
+        }
+        a:hover {
+          background: #0056b3;
+          transform: translateY(-2px);
+        }
+      
+  - block: collection
+    content:
+      title: ''
+      page_type: project
+      count: 0
+      filters:
+        folders:
+          - project
+    design:
+      view: card
+      columns: '2'
 ---
