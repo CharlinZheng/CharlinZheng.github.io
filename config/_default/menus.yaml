@@ -22,5 +22,8 @@ main:
   - name: Contact
     url: contact
     weight: 35
+  - name: Spotlight
+    url: tour
+    weight: 40
   
   
