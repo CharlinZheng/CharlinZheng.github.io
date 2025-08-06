@@ -27,8 +27,8 @@ sections:
           tag: Demo
     design:
       columns: '1'
-      view: showcase
-      flip_alt_rows: true
-      background: {}
-      spacing: {padding: [0, 0, 0, 0]}
+      view: masonry card
+      #flip_alt_rows: true
+      #background: {}
+      #spacing: {padding: [0, 0, 0, 0]}
 ---
