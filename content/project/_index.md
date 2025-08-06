@@ -21,7 +21,7 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
+        - name: Machine Learning
           tag: ML
         - name: Other
           tag: Demo
