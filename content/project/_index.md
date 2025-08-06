@@ -3,13 +3,6 @@ title: Projects
 type: landing
 
 sections:
-  - block: markdown
-    content:
-      title: Our Research Projects
-      subtitle: ''
-      text: ''
-    design:
-      columns: '1'
       
   - block: collection
     id: projects
@@ -20,7 +13,7 @@ sections:
       # 选择要显示的页面类型
       page_type: project
       # 显示数量（0 = 全部）
-      count: 0
+      count: 2
       # 过滤器
       filters:
         folders:
