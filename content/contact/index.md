@@ -9,7 +9,7 @@ sections:
     content:
       title: Contact
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
+        Feel free to reach out for collaboration, inquiries, or feedback. Leave your name, email, and a short message—I usually reply within 2–3 business days. Your information is used solely for communication.
       email: jialinzheng@ieee.org
       phone: +1 765-767-0550
       address:
