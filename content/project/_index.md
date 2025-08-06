@@ -3,7 +3,15 @@ title: Projects
 type: landing
 
 sections:
-      
+
+  - block: markdown
+    content:
+      title: Our Research Projects
+      subtitle: ''
+      text: ''
+    design:
+      columns: '1'
+    
   - block: collection
     id: projects
     content:
