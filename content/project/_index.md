@@ -7,7 +7,7 @@ sections:
     content:
       title: Projects
       subtitle: My subtitle
-      text: Add any **markdown** content here.
+      text: Check out my projects below.
       filters:
         folders: 
          -project
