@@ -10,20 +10,20 @@ main:
     weight: 10
   - name: News
     url: post
-    weight: 20
+    weight: 15
   - name: Projects
     url: project
-    weight: 30
+    weight: 20
   - name: Publications
     url: publication
-    weight: 40
+    weight: 25
   - name: Events
     url: event
-    weight: 50
+    weight: 30
   - name: Contact
     url: contact
-    weight: 60
+    weight: 35
   - name: Tour
     url: tour
-    weight: 70
+    weight: 40
   
