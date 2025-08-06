@@ -16,9 +16,6 @@ main:
   - name: Events
     url: event
     weight: 40
-  - name: Projects  # 新添加的菜单项
-    url: project
-    weight: 45
   - name: Publications
     url: publication
     weight: 50
