@@ -1,7 +1,5 @@
 ---
-title: People
-date: 2022-10-24
-
+title: My page
 type: landing
 
 sections:
@@ -11,7 +9,6 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-
 ---
 
 
