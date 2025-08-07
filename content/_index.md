@@ -8,7 +8,7 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 Welcome to the Jialin's website
+      - title: 👋 Welcome to the Jialin research website
         content: Take a look at what we're working on...
         align: center
         background:
