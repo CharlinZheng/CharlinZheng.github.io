@@ -24,7 +24,7 @@ tags:
 - Power Electronics
 featured: false
 
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10100633
 
 image:
   caption: 'Image credit: **Jialin**'
