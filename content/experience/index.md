@@ -12,7 +12,7 @@ design:
 # Page sections
 sections:
   
-  - block: experience
+  - block: resume-experience
     content:
       username: admin
     design:
@@ -20,7 +20,7 @@ sections:
       date_format: 'January 2006'
       # Education or Experience section first?
       is_education_first: false
-  - block: skills
+  - block: resume-skills
     content:
       title: Skills & Hobbies
       username: admin
@@ -28,7 +28,7 @@ sections:
     content:
       title: Awards
       username: admin
-  - block: languages
+  - block: resume-languages
     content:
       title: Languages
       username: admin
