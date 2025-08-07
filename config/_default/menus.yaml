@@ -9,19 +9,22 @@ main:
     weight: 10
   - name: News
     url: post
-    weight: 15
+    weight: 20
   - name: Projects
     url: project
-    weight: 20
+    weight: 30
   - name: Publications
     url: publication
-    weight: 25
+    weight: 40
+  - name: Experience
+    url: experience
+    weight: 50
   - name: Events
     url: event
-    weight: 30
+    weight: 60
   - name: Contact
     url: contact
-    weight: 35
+    weight: 70
   
   
   
