@@ -25,7 +25,10 @@ sections:
           location: Beijing, China
           date_start: '2015-09-01'
           date_end: '2019-08-31'
-          description: Overall GPA: 4.42/5.00, Ranking 2/308, Outstanding Graduate.
+          description: |2-
+              * Overall GPA: 4.42/5.00
+              * Ranking 2/308
+              * Outstanding Graduate.
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
