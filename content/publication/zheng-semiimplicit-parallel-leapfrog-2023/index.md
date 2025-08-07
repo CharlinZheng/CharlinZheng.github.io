@@ -10,10 +10,10 @@ authors:
 - Shiqi Ji
 date: '2023-01-01'
 publishDate: '2025-08-07T02:30:46.170355Z'
-publication_types:
-- article-journal
+publication_types: ["article-journal"]
 publication: '*IEEE Transactions on Industrial Electronics*'
 doi: 10.1109/TIE.2023.3265042
+
 abstract: Field Programmable Gate Array (FPGA) based Hardware-in-the-loop (HIL) simulation
   is an effective tool to verify the performance of physical controllers and shorten
   the development cycle of power converters. In HIL simulations, sampling accuracy
@@ -33,16 +33,8 @@ abstract: Field Programmable Gate Array (FPGA) based Hardware-in-the-loop (HIL) 
   verify the advantages, the results are compared with other HIL method and experimental
   results.
 tags:
-- Computational modeling
-- Field programmable gate arrays
-- field-programmable gate array (FPGA)
-- hardware-in-the-loop (HIL)
-- Integrated circuit modeling
-- Legged locomotion
-- Matrix decomposition
-- parallel algorithms
-- power converter design
-- Real-time simulation
-- Switches
-- Voltage control
+- Source Themes
+featured: false
+
+url_pdf: http://arxiv.org/pdf/1512.04133v1
 ---
