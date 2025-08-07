@@ -1,5 +1,5 @@
 ---
-title: ECCE2025
+title: ECCE 2025
 
 event:  IEEE Energy Conversion Conference and Expo 2025
 event_url: https://www.ieee-ecce.org/2025/
@@ -13,7 +13,7 @@ address:
   country: United States
 
 summary: About ECCE.
-abstract: 'The IEEE Energy Conversion Congress and Exposition (ECCE) is a premier conference for the exchange of cutting-edge research and developments in the field of energy conversion components & controls, power electronics and electric machines & drives. ECCE was first held in 2009, when it combined the IEEE Power Electronics Society Power Electronics Specialists Conference (PESC) with the IEEE Industry Applications Society Industrial Power Conversion Systems Department of the IEEE IAS Annual Meeting.'
+abstract: 'The IEEE Energy Conversion Congress and Exposition (ECCE) is a premier conference for the exchange of cutting-edge research and developments in the field of energy conversion components & controls, power electronics and electric machines & drives.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -54,11 +54,9 @@ slides:
 projects:
 ---
 
+Upcoming Event: ECCE 2025 – Session Chair and Oral Presentations
 
-
-**Upcoming Event: ECCE 2025 – Session Chair and Oral Presentations**
-
-I’m honored to serve as a **Session Chair** at the upcoming **IEEE Energy Conversion Congress & Exposition (ECCE) 2025**, which will be held in **Philadelphia, PA**, this October. I will be chairing the following three technical sessions:
+I’m honored to serve as a **Session Chair** at the upcoming **ECCE 2025**, which will be held in **Philadelphia, PA**, this October. I will be chairing the following three technical sessions:
 
 * **Modeling & Mitigation of Power Converter EMI**
   📍 *Room 103C* | 🕙 *Wednesday, October 22 at 10:30 AM*
