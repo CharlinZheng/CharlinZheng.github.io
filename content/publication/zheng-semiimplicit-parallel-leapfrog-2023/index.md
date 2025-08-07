@@ -28,8 +28,4 @@ featured: false
 
 url_pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10100633
 
-image:
-  caption: 'Image credit: **Jialin**'
-  focal_point: ""
-  preview_only: false
 ---
