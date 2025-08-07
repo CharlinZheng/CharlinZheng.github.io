@@ -59,13 +59,13 @@ Upcoming Event: ECCE 2025 – Session Chair and Oral Presentations
 I’m honored to serve as a **Session Chair** at the upcoming **ECCE 2025**, which will be held in **Philadelphia, PA**, this October. I will be chairing the following three technical sessions:
 
 * **Modeling & Mitigation of Power Converter EMI**
-  📍 *Room 103C* | 🕙 *Wednesday, October 22 at 10:30 AM*
+   *Room 103C* |  *Wednesday, October 22 at 10:30 AM*
 
 * **Modulation Methods for Power Converters**
-  📍 *Room 201C* | 🕓 *Wednesday, October 22 at 4:00 PM*
+   *Room 201C* |  *Wednesday, October 22 at 4:00 PM*
 
 * **Power Converter EMI** *(Poster Session)*
-  📍 *Poster Area 7* | 🕑 *Tuesday, October 21 at 2:10 PM*
+   *Poster Area 7* |  *Tuesday, October 21 at 2:10 PM*
 
 In addition to these responsibilities, I will also be delivering **two oral presentations** on my recent research in power electronics and digital twins. I warmly invite colleagues and researchers in the field to join these sessions for insightful discussions and exchange of ideas.
 
