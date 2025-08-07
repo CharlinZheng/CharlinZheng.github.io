@@ -11,18 +11,21 @@ design:
 
 # Page sections
 sections:
-  - block: biography
+  - block: resume-biography
     content:
       username: Jialin
       # Show a call-to-action button under your biography? (optional)
-    design:
+      button:
+        text: Download Résumé
+        url: https://drive.google.com/file/d/1lmKfZgwpwDlBxiZLd_VwE5yrfjTJDpuT/view?usp=sharing
+      design:
       banner:
-        # Upload your cover image to the `assets/media/` folder and reference it here
-        filename: kalen-emsley-Bkci_8qcdvQ-unsplash.jpg
+        # Upload a cover image to `assets/media/` folder and reference its filename here (optional)
+        filename: ''
       biography:
-        # Customize the style of your biography text
-        style: 'text-align: justify; font-size: 0.8em;'
-  - block: experience
+        # Customize the CSS style of your biography text (optional)
+        style: ''
+  - block: resume-experience
     content:
       username: Jialin
     design:
@@ -30,15 +33,15 @@ sections:
       date_format: 'January 2006'
       # Education or Experience section first?
       is_education_first: false
-  - block: skills
+  - block: resume-skills
     content:
       title: Skills & Hobbies
       username: Jialin
-  - block: awards
+  - block: resume-awards
     content:
       title: Awards
       username: Jialin
-  - block: languages
+  - block: resume-languages
     content:
       title: Languages
       username: Jialin
