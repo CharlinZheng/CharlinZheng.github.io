@@ -24,7 +24,7 @@ sections:
     content:
       title: Skills & Hobbies
       username: admin
-  - block: awards
+  - block: resume-awards
     content:
       title: Awards
       username: admin
