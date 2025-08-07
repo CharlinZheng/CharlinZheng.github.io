@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Jialin Zheng # Website name
-baseURL: 'https://charlinzheng.github.io/aboutme/' # Website URL
+baseURL: 'https://example.com/' # Website URL
 
 ############################
 ## LANGUAGE
@@ -61,7 +61,4 @@ security:
   _merge: deep
 sitemap:
   _merge: deep
-taxonomies:
-  tag: tags           # 单数: 复数
-  category: categories
-  project_type: project_types
+
