@@ -7,7 +7,7 @@ sections:
     content:
       title: Projects
       subtitle: Check out my projects below.
-      text: Check out my projects below.
+      text: 
       filters:
         folders: 
          - project
