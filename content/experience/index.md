@@ -5,6 +5,34 @@ type: landing
 sections:
   - block: experience
     content:
+      title: Education
+      
+      date_format: Jan 2006
+      items:
+        - title: PhD Electronic Engineering
+          company: Tsinghua University
+          company_url: ''
+          location: Beijing, China
+          date_start: '2019-09-01'
+          date_end: '2024-08-31'
+          description: |2-
+              * Thesis on Real-time simulation of power electronics. Supervised by Prof Zhengming Zhao. 
+              * The relevant research results have been published in more than 30 IEEE Top journals. 
+              * The thesis was awarded the title of Outstanding Doctoral Thesis at Tsinghua University.
+
+        - title: BEng Electronic Engineering
+          company: Beijing Jiaotong University
+          company_url: ''
+          location: Beijing, China
+          date_start: '2015-09-01'
+          date_end: '2019-08-31'
+          description: Overall GPA: 4.42/5.00, Ranking 2/308, Outstanding Graduate.
+    design:
+      # Choose how many columns the section has. Valid values: '1' or '2'.
+      columns: '1'
+  
+  - block: experience
+    content:
       title: Experience
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
