@@ -9,7 +9,7 @@ authors:
 - Hong Li
 - Sergio Vazquez
 - Leopoldo G. Franquelo
-- 
+  
 date: '2025-08-01'
 publishDate: '2025-08-07T02:30:46.161813Z'
 
@@ -24,13 +24,12 @@ abstract: Edge Digital Twins (EDTs) are crucial for monitoring and control of Po
 summary: PENODE enhances edge digital twins for power electronics by unifying event-based switching and physics-informed neural modeling, enabling efficient and interpretable real-time control on FPGA.
 
 tags:
+- Machine Learning
+- Time Series Modeling
 - Power Electronics
 featured: false
 
 url_pdf: https://arxiv.org/pdf/2508.02887
 
-image:
-  caption: 'Image credit: **Jialin**'
-  focal_point: ""
-  preview_only: false
+
 ---
