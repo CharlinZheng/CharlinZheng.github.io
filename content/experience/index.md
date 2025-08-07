@@ -94,7 +94,7 @@ sections:
       columns: '2'
   - block: accomplishments
     content:
-      title: Accomplishments
+      title: Awards
       subtitle: ''
       text: ''
       # Date format: https://wowchemy.com/docs/customization/#date-format
