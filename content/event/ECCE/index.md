@@ -54,12 +54,21 @@ slides:
 projects:
 ---
 
-Slides can be added in a few ways:
+I’m honored to serve as a **Session Chair** at the upcoming **ECCE 2025**. I will be chairing the following three technical sessions:
 
-- **Create** slides using Wowchemy's [_Slides_](https://docs.hugoblox.com/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/writing-markdown-latex/).
+- Modeling & Mitigation of Power Converter EMI
+  📍 *Room 103C* | 🕙 *Wednesday, October 22 at 10:30 AM*
 
-Further event details, including page elements such as image galleries, can be added to the body of this page.
+- Modulation Methods for Power Converters
+  📍 *Room 201C* | 🕓 *Wednesday, October 22 at 4:00 PM*
+
+- Power Converter EMI *(Poster Session)*
+  📍 *Poster Area 7* | 🕑 *Tuesday, October 21 at 2:10 PM*
+
+In addition to these responsibilities, I will also be delivering **two oral presentations** on my recent research in power electronics and digital twins. I warmly invite colleagues and researchers in the field to join these sessions for insightful discussions and exchange of ideas.
+
+Looking forward to seeing you at ECCE 2025!
+
+
 
 
