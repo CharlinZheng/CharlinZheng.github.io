@@ -17,8 +17,8 @@ abstract: 'ECCE is a premier conference for the exchange of cutting-edge researc
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date: '2025-10-19T13:00:00Z'
+date_end: '2025-10-23T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -31,8 +31,8 @@ tags: []
 featured: false
 
 image:
-  #caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-  #focal_point: Right
+  caption: 'Image credit: **ECCE**'
+  focal_point: Right
 
 url_code: ''
 url_pdf: ''
