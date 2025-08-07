@@ -4,12 +4,12 @@ title: ECCE 2025
 event: ECCE 2025
 event_url: https://www.ieee-ecce.org/2025/
 
-location: Wowchemy HQ
+location: Pennsylvania Convention Center
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
+  street: 1101 Arch Street
+  city: Philadelphia
+  region: PA
+  postcode: '19107'
   country: United States
 
 summary: IEEE Energy Conversion Conference and Expo 2025.
