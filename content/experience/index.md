@@ -3,6 +3,55 @@ title: My page
 type: landing
 
 sections:
+  
+
+  - block: experience
+    content:
+      title: Experience
+      # Date format for experience
+      #   Refer to https://wowchemy.com/docs/customization/#date-format
+      date_format: Jan 2006
+      # Experiences.
+      #   Add/remove as many experience `items` below as you like.
+      #   Required fields are `title`, `company`, and `date_start`.
+      #   Leave `date_end` empty if it's your current employer.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - title: Postdoctoral Fellow
+          company: Purdue University
+          company_url: ''
+          location: Indiana, USA
+          date_start: '2024-09-01'
+          date_end: ''
+          description: |2-
+              Participate in Project:
+              * Digital Twin Addressing Multi-Scale Operational Needs of IBR-rich Grids (DIAMOND)(funded by Department of Energy with  $80,000.00)
+              * Universal interoperability for grid-forming inverters (UNIFI) https://unificonsortium.org/
+        - title: Teaching Assistant
+          company: Tsinghua University
+          company_url: ''
+          location: Beijing, China
+          date_start: '2024-06-30'
+          date_end: '2024-07-18'
+          description: The course: “Modeling and Control of Power Converters” with Prof. Dushan Boroyevich and Prof. Kai Sun.
+        - title: Teaching Assistant
+          company: Tsinghua University
+          company_url: ''
+          location: Beijing, China
+          date_start: '2020-09-02'
+          date_end: '2021-01-21'
+          description: Design and Analysis of Electrical Machine Systems (40220682) with Prof. Zhengming Zhao.
+        - title: Research Scientist
+          company: Delta Electronics, Inc.
+          company_url: ''
+          location: Shanghai, China
+          date_start: '2021-06-15'
+          date_end: '2021-08-14'
+          description: Research on Artificial Intelligence in Power Electronic Systems
+    design:
+      # Choose how many columns the section has. Valid values: '1' or '2'.
+      columns: '2'
+
   - block: experience
     content:
       title: Education
@@ -12,7 +61,6 @@ sections:
         - title: PhD Electronic Engineering
           company: Tsinghua University
           company_url: ''
-          company_logo: tsinghua
           location: Beijing, China
           date_start: '2019-09-01'
           date_end: '2024-08-31'
@@ -32,42 +80,7 @@ sections:
               * Outstanding Graduate.
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '1'
-  
-  - block: experience
-    content:
-      title: Experience
-      # Date format for experience
-      #   Refer to https://wowchemy.com/docs/customization/#date-format
-      date_format: Jan 2006
-      # Experiences.
-      #   Add/remove as many experience `items` below as you like.
-      #   Required fields are `title`, `company`, and `date_start`.
-      #   Leave `date_end` empty if it's your current employer.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
-          description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
-    design:
-      # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '1'
+      columns: '2'
   - block: skills
     content:
       title: Skills
