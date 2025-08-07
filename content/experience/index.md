@@ -19,7 +19,6 @@ sections:
               * Thesis on Real-time simulation of power electronics. Supervised by Prof Zhengming Zhao. 
               * The relevant research results have been published in more than 30 IEEE Top journals. 
               * The thesis was awarded the title of Outstanding Doctoral Thesis at Tsinghua University.
-
         - title: BEng Electronic Engineering
           company: Beijing Jiaotong University
           company_url: ''
