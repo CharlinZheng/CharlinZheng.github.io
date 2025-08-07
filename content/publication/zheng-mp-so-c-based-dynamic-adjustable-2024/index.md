@@ -15,7 +15,7 @@ publishDate: '2025-08-07T02:30:46.146686Z'
 publication_types: ["article-journal"]
 
 publication: '*IEEE Transactions on Transportation Electrification*'
-publication_short: "*IEEE Trans. Transp. Electr.*"
+publication_short: "*IEEE Trans. Transp. Electr*"
 
 doi: 10.1109/TTE.2023.3310509
 

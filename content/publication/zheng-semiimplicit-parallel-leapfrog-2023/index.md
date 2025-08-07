@@ -14,7 +14,7 @@ publishDate:  "2024-03-01T02:30:46.170355Z"
 publication_types: ["article-journal"]
 
 publication: '*IEEE Transactions on Industrial Electronics*'
-publication_short: "*IEEE Trans. Ind. Electron.*"
+publication_short: "*IEEE Trans. Ind. Electron*"
 
 doi: 10.1109/TIE.2023.3265042
 
