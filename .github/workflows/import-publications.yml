@@ -5,7 +5,6 @@ name: Import Publications From Bibtex
 permissions:
   contents: write
   pull-requests: write
-  issues: write
 
 # Run workflow when a `.bib` file is added or updated in the `data/` folder
 on:
@@ -39,7 +38,7 @@ jobs:
       - name: Create Pull Request
         # Set ID for `Check outputs` stage
         id: cpr
-        uses: peter-evans/create-pull-request@v6
+        uses: peter-evans/create-pull-request@v5
         with:
           commit-message: 'content: import publications from Bibtex'
           title: Hugo Blox Builder - Import latest publications
@@ -50,6 +49,7 @@ jobs:
           base: main
           branch: hugoblox-import-publications
           delete-branch: true
+          labels: ""
       - name: Check outputs
         if: ${{ steps.cpr.outputs.pull-request-number }}
         run: |
