@@ -13,7 +13,7 @@ address:
   country: United States
 
 summary: IEEE Energy Conversion Conference and Expo 2025.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+abstract: 'ECCE is a premier conference for the exchange of cutting-edge research and developments in the field of energy conversion components and controls, power electronics and electric machines and drives.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -31,8 +31,8 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-  focal_point: Right
+  #caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  #focal_point: Right
 
 url_code: ''
 url_pdf: ''
