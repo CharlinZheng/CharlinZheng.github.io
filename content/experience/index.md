@@ -3,9 +3,12 @@ title: My page
 type: landing
 
 sections:
-  - block: resume-skills
+  - block: skills
     content:
-      title: Skills & Hobbies
-      # Note: `username` refers to the user's folder name in `content/authors/`
+      title: Skills
+      text: ''
+      # Choose a user to display skills from (a folder name within `content/authors/`)
       username: Jialin
+    design:
+      columns: '1'
 ---
