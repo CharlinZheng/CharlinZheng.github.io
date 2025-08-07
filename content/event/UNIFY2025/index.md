@@ -31,7 +31,7 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: **ECCE**'
+  caption: 'Image credit: **unifi**'
   focal_point: Right
 
 url_code: ''
@@ -54,7 +54,7 @@ slides:
 projects:
 ---
 
-Looking forward to seeing you at unifi 2025!
+It was a truly rewarding experience at UNIFI 2025. Grateful for the insights and interactions — looking forward to the next one!
 
 
 
