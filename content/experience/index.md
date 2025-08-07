@@ -12,7 +12,7 @@ sections:
         - title: PhD Electronic Engineering
           company: Tsinghua University
           company_url: ''
-          company_logo: Tsinghua
+          company_logo: tsinghua
           location: Beijing, China
           date_start: '2019-09-01'
           date_end: '2024-08-31'
