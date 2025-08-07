@@ -31,7 +31,7 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: **ECCE**'
+  caption: 'Image credit: **Xi Lin**'
   focal_point: Right
 
 url_code: ''
