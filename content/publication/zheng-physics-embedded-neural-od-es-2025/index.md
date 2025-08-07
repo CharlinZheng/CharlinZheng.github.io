@@ -27,7 +27,7 @@ tags:
 - Power Electronics
 featured: false
 
-url_pdf: https://arxiv.org/abs/2508.02887
+url_pdf: https://arxiv.org/pdf/2508.02887
 
 image:
   caption: 'Image credit: **Jialin**'
