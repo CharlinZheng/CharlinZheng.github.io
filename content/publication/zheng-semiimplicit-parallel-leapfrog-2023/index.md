@@ -1,7 +1,7 @@
 ---
 title: A Semi-implicit Parallel Leapfrog Solver with Half-Step Sampling Technique for FPGA-based Real-time HIL Simulation of Power Converters
 authors:
-- Jialin Zheng
+- admin
 - Yangbin Zeng
 - Zhengming Zhao
 - Weicheng Liu
