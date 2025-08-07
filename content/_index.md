@@ -15,7 +15,7 @@ sections:
           image:
             filename: pcb.jpg
             filters:
-              brightness: 0.7
+              brightness: 0.4
           position: right
           color: '#666'
       - title: Lunch & Learn ☕️
