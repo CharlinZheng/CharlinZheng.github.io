@@ -11,25 +11,35 @@ design:
 
 # Page sections
 sections:
-  
-  - block: resume-experience
+  - block: biography
     content:
-      username: admin
+      username: Jialin
+      # Show a call-to-action button under your biography? (optional)
+    design:
+      banner:
+        # Upload your cover image to the `assets/media/` folder and reference it here
+        filename: kalen-emsley-Bkci_8qcdvQ-unsplash.jpg
+      biography:
+        # Customize the style of your biography text
+        style: 'text-align: justify; font-size: 0.8em;'
+  - block: experience
+    content:
+      username: Jialin
     design:
       # Hugo date format
       date_format: 'January 2006'
       # Education or Experience section first?
       is_education_first: false
-  - block: resume-skills
+  - block: skills
     content:
       title: Skills & Hobbies
-      username: admin
-  - block: resume-awards
+      username: Jialin
+  - block: awards
     content:
       title: Awards
-      username: admin
-  - block: resume-languages
+      username: Jialin
+  - block: languages
     content:
       title: Languages
-      username: admin
+      username: Jialin
 ---
