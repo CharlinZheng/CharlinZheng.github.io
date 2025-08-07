@@ -1,28 +1,28 @@
 ---
 title: ECCE 
 
-event:  IEEE Energy Conversion Conference and Expo 2025
-event_url: https://www.ieee-ecce.org/2025/
+event: Wowchemy Conference
+event_url: https://example.org
 
-location: Pennsylvania Convention Center
+location: Wowchemy HQ
 address:
-  street: 1101 Arch Street
-  city: Philadelphia
-  region: PA
-  postcode: '19107'
+  street: 450 Serra Mall
+  city: Stanford
+  region: CA
+  postcode: '94305'
   country: United States
 
-summary: About ECCE.
-abstract: 'The IEEE Energy Conversion Congress and Exposition (ECCE) is a premier conference for the exchange of cutting-edge research and developments in the field of energy conversion components & controls, power electronics and electric machines & drives.'
+summary: An example event.
+abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2025-10-19T07:30:00Z'
-date_end: '2025-10-23T20:00:00Z'
+date: '2030-06-01T13:00:00Z'
+date_end: '2030-06-01T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2025-12-01T00:00:00Z'
+publishDate: '2017-01-01T00:00:00Z'
 
 authors: []
 tags: []
