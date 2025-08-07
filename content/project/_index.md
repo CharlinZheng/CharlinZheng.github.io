@@ -27,7 +27,7 @@ sections:
           tag: Demo
     design:
       columns: '1'
-      view: card
+      view: masonry
       flip_alt_rows: true
       background: {color: '#d4d9dfff', image_parallax: true}
       spacing: {padding: [0, 2, 0, 2]}
