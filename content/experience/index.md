@@ -33,21 +33,24 @@ sections:
           location: Beijing, China
           date_start: '2024-06-30'
           date_end: '2024-07-18'
-          description: The course: “Modeling and Control of Power Converters” with Prof. Dushan Boroyevich and Prof. Kai Sun.
+          description: |2-
+              The course: “Modeling and Control of Power Converters” with Prof. Dushan Boroyevich and Prof. Kai Sun.
         - title: Teaching Assistant
           company: Tsinghua University
           company_url: ''
           location: Beijing, China
           date_start: '2020-09-02'
           date_end: '2021-01-21'
-          description: Design and Analysis of Electrical Machine Systems (40220682) with Prof. Zhengming Zhao.
+          description: |2-
+              Design and Analysis of Electrical Machine Systems (40220682) with Prof. Zhengming Zhao.
         - title: Research Scientist
           company: Delta Electronics, Inc.
           company_url: ''
           location: Shanghai, China
           date_start: '2021-06-15'
           date_end: '2021-08-14'
-          description: Research on Artificial Intelligence in Power Electronic Systems
+          description: |2-
+              Research on Artificial Intelligence in Power Electronic Systems
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'
