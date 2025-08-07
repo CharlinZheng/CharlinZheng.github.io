@@ -30,6 +30,7 @@ tags:
 featured: false
 
 url_pdf: https://arxiv.org/pdf/2508.02887
+url_code: https://github.com/CharlinZheng/PE_NODE_A
 
 
 ---
