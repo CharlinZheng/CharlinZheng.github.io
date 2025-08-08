@@ -3,7 +3,7 @@ title: "SNA: A Network-Aware Framework for Decentralized Inverter-Based Voltage 
 summary: "Network-aware multi-agent RL that scales decentralized secondary voltage control by truncating critics to κ-hop neighborhoods with provable approximation guarantees; validated up to 114 DGs."
 tags:
   - ML
-  - Grid
+  - CPS
 date: 2022-01-01
 ---
 
