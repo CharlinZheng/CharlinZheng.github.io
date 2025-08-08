@@ -83,6 +83,7 @@ sections:
           </div>
         </div>
     design:
+     css_class: "bg-transparent shadow-none border-0"
      background:
       image:
         filename: bg-hue.svg   # 图片放在 assets/media/bg-hue.svg
