@@ -92,6 +92,22 @@ sections:
         filters:
           brightness: 1.0
           contrast: 1.0
+  - block: testimonials
+    content:
+      title: Testimonials
+      subtitle: What our customers have to say about us
+      items:
+        - name: Don Tan
+          username: '@Don Tan'
+          # Image path relative to assets/media/ folder
+          image_filename: tweets/GitHub.png
+          link: https://ieeexplore.ieee.org/document/10149888
+          text:  The third paper address the powerful extension of the discrete-state event-driven simulation technique for megawatt power system simulation and design with order-of-magnitude faster speed and virtually free of convergence issue, particularly for hardware-in-the-loop prototyping and testing. 
+        - name: Bob
+          username: '@bob'
+          image_filename: tweets/GitHub.png
+          link: https://wowchemy.com
+          text: Love it!
 ---
 
 
