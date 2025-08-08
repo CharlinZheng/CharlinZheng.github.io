@@ -65,16 +65,16 @@ sections:
       font_size_min: 0.7
       font_size_max: 2.0
   - block: markdown
-  content:
-    title: "Our Impact"
-    text: |
-      | **## 1M+** | **## 10k+** | **## 3k+** |
-      |------------|-------------|------------|
-      | Websites built <br> with Hugo Blox | GitHub stars <br> since 2016 | Discord community <br> for support |
-  design:
-    css_class: "bg-gray-100 dark:bg-gray-900 text-center"
-    spacing:
-      padding: ["2rem", 0, "2rem", 0]
+    content:
+     title: "Our Impact"
+     text: |
+       | **## 1M+** | **## 10k+** | **## 3k+** |
+       |------------|-------------|------------|
+       | Websites built <br> with Hugo Blox | GitHub stars <br> since 2016 | Discord community <br> for support |
+    design:
+     css_class: "bg-gray-100 dark:bg-gray-900 text-center"
+     spacing:
+       padding: ["2rem", 0, "2rem", 0]
 
 ---
 
