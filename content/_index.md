@@ -65,24 +65,23 @@ sections:
       font_size_min: 0.7
       font_size_max: 2.0
   - block: markdown
-    content: |
-     <div style="display: flex; justify-content: space-around; flex-wrap: wrap; background-color: #f8f9fa; padding: 2rem 1rem; border-radius: 0.5rem; text-align: center;">
-
-      <div style="flex: 1 1 200px; margin: 1rem;">
-        <div style="font-size: 2rem; font-weight: bold;">1M+</div>
-        <div>Websites built<br>with Hugo Blox</div>
-      </div>
-
-      <div style="flex: 1 1 200px; margin: 1rem;">
-        <div style="font-size: 2rem; font-weight: bold;">10k+</div>
-        <div>GitHub stars<br>since 2016</div>
-      </div>
-
-      <div style="flex: 1 1 200px; margin: 1rem;">
-        <div style="font-size: 2rem; font-weight: bold;">3k+</div>
-        <div>Discord community<br>for support</div>
-      </div>
-    </div>
+    content:
+      title: ""
+      text: |-
+        <div style="display:flex;justify-content:space-around;flex-wrap:wrap;background-color:#f8f9fa;padding:2rem 1rem;border-radius:0.75rem;text-align:center;">
+          <div style="flex:1 1 200px;margin:1rem;">
+            <div style="font-size:2rem;font-weight:700;">1M+</div>
+            <div>Websites built<br>with Hugo Blox</div>
+          </div>
+          <div style="flex:1 1 200px;margin:1rem;">
+            <div style="font-size:2rem;font-weight:700;">10k+</div>
+            <div>GitHub stars<br>since 2016</div>
+          </div>
+          <div style="flex:1 1 200px;margin:1rem;">
+            <div style="font-size:2rem;font-weight:700;">3k+</div>
+            <div>Discord community<br>for support</div>
+          </div>
+        </div>
 ---
 
 
