@@ -6,7 +6,7 @@ summary: "Event-axis, synchronization-aware co-simulation that scales CHIL/PCCO 
 tags:
   - Modeling
   - Sim
-  - CPS
+  - Edge
 date: 2022-01-01
 ---
 {{< youtube ijgKofb23cA >}}

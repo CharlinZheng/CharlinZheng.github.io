@@ -6,6 +6,7 @@ tags:
   - Modeling
   - Sim
   - Control
+  - Edge
 date: 2022-01-01
 ---
 

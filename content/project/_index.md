@@ -31,7 +31,9 @@ sections:
           tag: Control
         - name: Real-Time Simulation
           tag: Sim
-        - name: Other 
+        - name: Edge Computing
+          tag: Edge
+        - name: Other
           tag: Demo
     design:
       columns: '1'
