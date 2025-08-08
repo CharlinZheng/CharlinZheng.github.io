@@ -33,7 +33,7 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
-      link:
+        link:
           icon: circle-user
           icon_pack: fas
           text: Find Me
