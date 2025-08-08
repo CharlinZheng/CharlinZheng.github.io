@@ -40,6 +40,8 @@ Explore our research with an AI assistant powered by the latest Gemini models an
 - **Hybrid CPU–FPGA PCCO for MW-scale plants.** A **physical-controller co-simulation** (PCCO) architecture with event-driven sync executes detailed models (incl. switching) on CPU/FPGA while maintaining **controller behavior equivalence** to real systems. :contentReference[oaicite:8]{index=8}  
 - **DSED-based plant models for loss/fidelity studies.** Use **discrete-state event-driven** simulation to evaluate losses and switching detail in **multi-terminal MW PETs** without exhaustive experiments. :contentReference[oaicite:9]{index=9}
 
+{{< figure src="HIL.jpg" caption="A fully self-developed heterogeneous real-time simulator from software to hardware" numbered="true" >}}
+
 ## Impact
 - **orders-of-magnitude sync efficiency.** ASI reduces synchronization time cost by **~394×** versus fixed-step interfaces while keeping accuracy in a 10-kVA MMC case. :contentReference[oaicite:10]{index=10}  
 - **From kW MMCs to MW PETs.** Event-driven PCCO demonstrates a **2-MW PET with 576 switches** on a hybrid CPU–FPGA platform with preserved controller logic, expanding CHIL-class testing to MW-level systems. :contentReference[oaicite:11]{index=11}  
