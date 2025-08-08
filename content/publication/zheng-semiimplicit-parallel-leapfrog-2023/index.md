@@ -25,6 +25,7 @@ summary: A novel SPL solver improves FPGA-HIL simulation accuracy for high-frequ
 tags:
 - Power Electronics
 - Edge Computing
+- Real-time Simulation
 featured: false
 
 url_pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10100633
