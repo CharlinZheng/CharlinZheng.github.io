@@ -53,9 +53,9 @@ sections:
       interval: 2000
   - block: tag_cloud
     content:
-      title: My title
-      subtitle: My subtitle
-      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
+      title: Research Tags
+      subtitle: ''
+      text: Please select tags of interest to view related publications!
       # Choose a taxonomy from the `taxonomies` list in `config.yaml` to display (e.g. tags, categories, authors)
       taxonomy: tags
       # Choose how many tags you would like to display (0 = all tags)
