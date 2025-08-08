@@ -27,10 +27,9 @@ sections:
           tag: CPS
         - name: Hybrid Dynamics Modeling
           tag: Modeling
+          tag: Sim
         - name: High Frequency Control
           tag: Control
-        - name: Real-Time Simulation
-          tag: Sim
         - name: Edge Computing
           tag: Edge
         - name: Other
