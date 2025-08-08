@@ -65,49 +65,7 @@ sections:
       font_size_min: 0.7
       font_size_max: 2.0
     
-  - block: markdown
-    content:
-      title: ""
-      text: |-
-        <div style="display:flex;justify-content:space-around;flex-wrap:wrap;background-color:#f8f9fa;padding:2rem 1rem;border-radius:0.75rem;text-align:center;">
-          <div style="flex:1 1 200px;margin:1rem;">
-            <div style="font-size:2rem;font-weight:700;">1M+</div>
-            <div>Websites built<br>with Hugo Blox</div>
-          </div>
-          <div style="flex:1 1 200px;margin:1rem;">
-            <div style="font-size:2rem;font-weight:700;">10k+</div>
-            <div>GitHub stars<br>since 2016</div>
-          </div>
-          <div style="flex:1 1 200px;margin:1rem;">
-            <div style="font-size:2rem;font-weight:700;">3k+</div>
-            <div>Discord community<br>for support</div>
-          </div>
-        </div>
-    design:
-     background:
-      image:
-        filename: bg-hue.svg   # 图片放在 assets/media/bg-hue.svg
-        size: cover
-        position: center
-        filters:
-          brightness: 1.0
-          contrast: 1.0
-  - block: testimonials
-    content:
-      title: Testimonials
-      subtitle: What our customers have to say about us
-      items:
-        - name: Don Tan
-          username: '@Don Tan'
-          # Image path relative to assets/media/ folder
-          image_filename: tweets/GitHub.png
-          link: https://ieeexplore.ieee.org/document/10149888
-          text:  The third paper address the powerful extension of the discrete-state event-driven simulation technique for megawatt power system simulation and design with order-of-magnitude faster speed and virtually free of convergence issue, particularly for hardware-in-the-loop prototyping and testing. 
-        - name: Bob
-          username: '@bob'
-          image_filename: tweets/GitHub.png
-          link: https://wowchemy.com
-          text: Love it!
+  
 ---
 
 

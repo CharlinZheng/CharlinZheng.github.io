@@ -1,0 +1,46 @@
+---
+title: Intro
+date: 2022-10-24
+type: landing
+
+sections:
+  - block: about.biography
+    id: about
+    content:
+      title: Biography
+      # Choose a user profile to display (a folder name within `content/authors/`)
+      username: admin
+      button:
+        text: Download Résumé
+        url: https://drive.google.com/file/d/1lmKfZgwpwDlBxiZLd_VwE5yrfjTJDpuT/view?usp=sharing
+
+  - block: markdown
+    content:
+      title: ""
+      text: |-
+        <div style="display:flex;justify-content:space-around;flex-wrap:wrap;background-color:#f8f9fa;padding:2rem 1rem;border-radius:0.75rem;text-align:center;">
+          <div style="flex:1 1 200px;margin:1rem;">
+            <div style="font-size:2rem;font-weight:700;">1M+</div>
+            <div>Websites built<br>with Hugo Blox</div>
+          </div>
+          <div style="flex:1 1 200px;margin:1rem;">
+            <div style="font-size:2rem;font-weight:700;">10k+</div>
+            <div>GitHub stars<br>since 2016</div>
+          </div>
+          <div style="flex:1 1 200px;margin:1rem;">
+            <div style="font-size:2rem;font-weight:700;">3k+</div>
+            <div>Discord community<br>for support</div>
+          </div>
+        </div>
+    design:
+     background:
+      image:
+        filename: bg-hue.svg   # 图片放在 assets/media/bg-hue.svg
+        size: cover
+        position: center
+        filters:
+          brightness: 1.0
+          contrast: 1.0
+---
+
+
