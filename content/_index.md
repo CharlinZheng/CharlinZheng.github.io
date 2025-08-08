@@ -64,15 +64,7 @@ sections:
       # Minimum and maximum font sizes (1.0 = 100%).
       font_size_min: 0.7
       font_size_max: 2.0
-      design:
-      background:
-       image:
-         filename: bg-hue.svg   # 图片放在 assets/media/bg-hue.svg
-         size: cover
-         position: center
-         filters:
-          brightness: 1.0
-          contrast: 1.0
+    
   - block: markdown
     content:
       title: ""
@@ -92,7 +84,6 @@ sections:
           </div>
         </div>
     design:
-     css_class: "bg-transparent shadow-none border-0"
      background:
       image:
         filename: bg-hue.svg   # 图片放在 assets/media/bg-hue.svg
