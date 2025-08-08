@@ -1,6 +1,7 @@
 ---
-title: "Large-Scale Cyber-Physical System Co-Simulation"
-summary: "Event-axis, synchronization-aware co-simulation that scales CHIL/PCCO from kW MMCs to MW-level converters by key-frame prediction, event-driven data rematching, and hybrid CPU–FPGA execution—boosting fidelity and easing real-time constraints."
+title: "Sub-Microsecond Real-Time FPGA Numerical Solver"
+summary: "Deterministic sub-µs FPGA solvers (12.5–75 ns) combining semi-implicit leapfrog, topology-aware partitioning, and IMEX techniques for stability, low memory, and controller-accurate HIL."
+
 
 
 tags:
@@ -12,8 +13,7 @@ date: 2022-01-01
 {{< youtube ijgKofb23cA >}}
 
 ## Overview
-This project establishes a **large-scale cyber-physical co-simulation** stack for power electronics that unifies software simulators and **physical controllers**. We move from time-synchronous fixed-step interfaces toward **event-axis synchronization**, so the simulator–controller pair coordinates on switching and sampling events rather than rigid time ticks. The result is a system that **retains switching detail**, scales to **MW-level** plants, and remains robust under high data-interaction rates.
-
+This project develops **numerical solvers for FPGA-based real-time simulation** that meet **sub-microsecond** deadlines without sacrificing accuracy or stability. We target high-frequency, switch-dense converters where traditional explicit solvers become unstable and implicit solvers exceed FPGA latency/memory limits. Our designs guarantee **fixed computation time per step**, preserve **switch-level fidelity** (two-state models), and support **nonlinear/stochastic** components needed for realistic controller testing. 
 
 ## Just Ask for questions！
 
@@ -29,32 +29,30 @@ Explore our research with an AI assistant powered by the latest Gemini models an
 
 
 ## Why This Research
-- **Scale & real-time tension.** Classical CHIL ties simulation step sizes to tight real-time budgets; as switching frequencies and device counts grow, maintaining fidelity forces costly hardware or model simplifications that distort dynamics. :contentReference[oaicite:0]{index=0} :contentReference[oaicite:1]{index=1}  
-- **Interface bottlenecks.** Fixed-step synchronization (FSI) either wastes cycles or misses abrupt state changes; frequent handshakes balloon overhead and destabilize convergence in hybrid PES. :contentReference[oaicite:2]{index=2}  
-- **Controller realism.** SIL/PIL miss hardware behaviors (ADC/PWM, multi-stage latency). We need a path that preserves **controller behavior consistency** without hard real-time. :contentReference[oaicite:3]{index=3}
+- **Hard real-time at MHz-class switching.** Accurate HIL often needs steps ≤1/50–1/100 of the switching period; with wide-bandgap devices this pushes into **tens of nanoseconds**—beyond what sequential matrix factorizations on FPGAs can deliver.
+- **Implicit vs. memory.** Storing per-topology inverses improves latency but explodes **FPGA memory** and scales poorly with switch count. We need implicit-level stability **without** inverse storage.
+- **Nonlinear & stochastic reality.** Wireless power transfer and dynamic environments induce **nonlinear magnetic coupling** and **stochastic parameter drift**—capabilities rarely supported together in RT HIL.
+- **Sampling fidelity.** Even if the step cannot shrink further, **higher sampling rate** is essential to capture PWM edges and avoid duty-cycle bias. 
 
 ## New Measures
-- **Event-axis synchronization (ES-CHIL / EDS / ESTA).** Replace time-locked interaction with **event-synchronous** data exchange; use **state/switch events** to trigger both simulation and control computations, preserving logic while relaxing real-time constraints. :contentReference[oaicite:4]{index=4} :contentReference[oaicite:5]{index=5}  
-- **Key-frame prediction + Adaptive Synchronization Interface (ASI).** Predict imminent state-change “key-frames” to **minimize synchronization points** and dynamically size steps across tools (e.g., Simulink ↔ DSIM). :contentReference[oaicite:6]{index=6}  
-- **Self-restoring fault-tolerant data rematching.** A lightweight peripheral-IO strategy that **rematches control and simulation data** after link delays/failures—no simulator core changes—stabilizing high-rate controller–CPU co-simulation. :contentReference[oaicite:7]{index=7}  
-- **Hybrid CPU–FPGA PCCO for MW-scale plants.** A **physical-controller co-simulation** (PCCO) architecture with event-driven sync executes detailed models (incl. switching) on CPU/FPGA while maintaining **controller behavior equivalence** to real systems. :contentReference[oaicite:8]{index=8}  
-- **DSED-based plant models for loss/fidelity studies.** Use **discrete-state event-driven** simulation to evaluate losses and switching detail in **multi-terminal MW PETs** without exhaustive experiments. :contentReference[oaicite:9]{index=9}
-
-{{< figure src="HIL.jpg" caption="A fully self-developed heterogeneous real-time simulator from software to hardware" numbered="true" >}}
+- **Semi-Implicit Parallel Leapfrog (SPL) + Half-Step Sampling.** A hierarchical parallel equivalent (HPE) model separates switch- and system-levels; an **alternating implicit integration** leapfrog reduces cost and **enables half-step sampling** (2× sampling rate) while keeping stability. Demonstrated at **12.5 ns** per sample on a DAB at **400 kHz**.
+- **Topology-Aware Matrix Partitioning (TA-MP).** Partitions the system along switching legs and builds a **constant iterative matrix** for implicit solves—**no per-topology inverses**, **fixed iteration count** per step. Achieves **25 ns** step with **1/15** the memory versus conventional methods, accurate up to **200 kHz**.
+- **IMEX Solver for Nonlinear Components.** Splits PWL and nonlinear parts; uses **implicit** for PWL and **explicit** for nonlinear, removing the one-step delay via **two half-steps** to restore stability/accuracy. Verified on railway WPT at **75 ns** step.
+- **X-in-the-Loop (XIL) with Stochastic Nonlinearity.** An FPGA **XIL testbench** integrates **polynomial chaos expansion** with a hybrid IMEX kernel to handle **stochastic** and **nonlinear** inductance; reaches **¼ the step size** of commercial testers with **½ the FPGA resources** on a 350-kW WPT (28 switches).
 
 ## Impact
-- **orders-of-magnitude sync efficiency.** ASI reduces synchronization time cost by **~394×** versus fixed-step interfaces while keeping accuracy in a 10-kVA MMC case. :contentReference[oaicite:10]{index=10}  
-- **From kW MMCs to MW PETs.** Event-driven PCCO demonstrates a **2-MW PET with 576 switches** on a hybrid CPU–FPGA platform with preserved controller logic, expanding CHIL-class testing to MW-level systems. :contentReference[oaicite:11]{index=11}  
-- **Robustness on commodity hardware.** The self-restoring method maintains accuracy under **high data-interaction frequencies** on **CPU-based simulators**, avoiding OS/kernel modifications. :contentReference[oaicite:12]{index=12}  
-- **Higher-fidelity device phenomena.** Event-axis frameworks enable variable-step solvers and **natural commutation detection** (eliminating diode chattering), improving fidelity over time-locked CHIL. :contentReference[oaicite:13]{index=13}
+- **Sub-µs, nanosecond-class timing.** End-to-end implementations at **12.5–75 ns** support converters at **200–400 kHz** with controller-consistent sampling and switch fidelity.
+- **Stability without memory blow-up.** Implicit-level robustness using fixed MVM-centric iterations eliminates massive inverse tables, improving **scalability with switch count**.
+- **Realistic environments.** Nonlinear magnetics and stochastic variations are supported **in real time**, enabling safer, broader controller validation than lab prototypes alone.
+- **Sampling accuracy at fixed steps.** Half-step sampling doubles effective sampling rate without shrinking the integration step—capturing PWM edges and reducing duty bias.
 
 
 ## Publications
 
-{{< cite page="/publication/zeng-self-restoring-fault-tolerant-method-2023" view=1 >}}
-{{< cite page="/publication/zeng-event-synchronous-time-asynchronous-method-2023" view=1 >}}
-{{< cite page="/publication/zheng-event-driven-synchronization-2024" view=1 >}}
-{{< cite page="/publication/zheng-discrete-state-event-2020-a" view=1 >}}
-{{< cite page="/publication/liu-adaptive-synchronization-interface-2024" view=1 >}}
+{{< cite page="/publication/zheng-semiimplicit-parallel-leapfrog-2023" view=1 >}}
+{{< cite page="/publication/zheng-fpg-abased-real-time-xintheloop-2024" view=1 >}}
+{{< cite page="/publication/zeng-real-time-digital-mapped-2024" view=1 >}}
+{{< cite page="/publication/xu-topology-aware-matrix-partitioning-2023" view=1 >}}
+{{< cite page="/publication/xu-fpga-based-implicit-explicit-realtime-2023" view=1 >}}
 
 
