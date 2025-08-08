@@ -82,6 +82,15 @@ sections:
             <div>Discord community<br>for support</div>
           </div>
         </div>
+    design:
+    background:
+      image:
+        filename: bg-hue.svg   # 图片放在 assets/media/bg-hue.svg
+        size: cover
+        position: center
+        filters:
+          brightness: 1.0
+          contrast: 1.0
 ---
 
 
