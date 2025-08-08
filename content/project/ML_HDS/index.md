@@ -1,6 +1,6 @@
 ---
 title: "Hybrid Dynamical System Modeling and Inference via Machine Learning"
-summary: A unified ML framework—Event-Automata + Physics-Embedded Neural ODEs + Neural Substitute Solver—for accurate, real-time inference of hybrid (continuous–discrete) dynamics with reliable Sim-to-Real transfer to edge hardware."
+summary: "A unified ML framework—Event-Automata + Physics-Embedded Neural ODEs + Neural Substitute Solver—for accurate, real-time inference of hybrid (continuous–discrete) dynamics with reliable Sim-to-Real transfer to edge hardware."
 
 tags:
   - ML
