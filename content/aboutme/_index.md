@@ -20,16 +20,16 @@ sections:
       text: |-
         <div style="display:flex;justify-content:space-around;flex-wrap:wrap;background-color:#f8f9fa;padding:2rem 1rem;border-radius:0.75rem;text-align:center;">
           <div style="flex:1 1 200px;margin:1rem;">
-            <div style="font-size:2rem;font-weight:700;">1M+</div>
-            <div>Websites built<br>with Hugo Blox</div>
+            <div style="font-size:2rem;font-weight:700;">17</div>
+            <div>First/Corresponding Author</div>
           </div>
           <div style="flex:1 1 200px;margin:1rem;">
-            <div style="font-size:2rem;font-weight:700;">10k+</div>
-            <div>GitHub stars<br>since 2016</div>
+            <div style="font-size:2rem;font-weight:700;">30+</div>
+            <div>Publications</div>
           </div>
           <div style="flex:1 1 200px;margin:1rem;">
-            <div style="font-size:2rem;font-weight:700;">3k+</div>
-            <div>Discord community<br>for support</div>
+            <div style="font-size:2rem;font-weight:700;">190</div>
+            <div>Citations with H-index 8</div>
           </div>
         </div>
     design:
