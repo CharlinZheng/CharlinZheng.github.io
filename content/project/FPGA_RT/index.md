@@ -9,8 +9,7 @@ tags:
   - CPS
 date: 2022-01-01
 ---
-
-{{< youtube Da93r6MO7dU >}}
+{{< youtube ijgKofb23cA >}}
 
 ## Overview
 This project establishes a **large-scale cyber-physical co-simulation** stack for power electronics that unifies software simulators and **physical controllers**. We move from time-synchronous fixed-step interfaces toward **event-axis synchronization**, so the simulator–controller pair coordinates on switching and sampling events rather than rigid time ticks. The result is a system that **retains switching detail**, scales to **MW-level** plants, and remains robust under high data-interaction rates.
