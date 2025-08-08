@@ -37,12 +37,14 @@ This project develops a **Scalable Network-Aware (SNA)** learning framework for 
 * **Plug-and-play across algorithms.** Integrating SNA with **MATD3** similarly boosts final rewards, showing method generality beyond MASAC.
 * **Deployment-friendly.** Because SNA relies on neighbor-level data and distributed training, it aligns with **realistic utility communications**, easing field integration.
 
+## Still have questions?
+
+Explore our research with an AI assistant powered by the latest Gemini models and reliable sources to enhance your understanding and analysis. [Start exploring](https://notebooklm.google.com/notebook/1b3c851c-3ba2-4bb8-b73a-b423e69ad30d)
+
 ## Publications
 
 {{< cite page="/publication/xu-scalable-network-aware-multi-agent-2023" view=1 >}}
 
-## Still have questions?
 
-Explore our research with an AI assistant powered by the latest Gemini models and reliable sources to enhance your understanding and analysis. [Start exploring](https://notebooklm.google.com/notebook/1b3c851c-3ba2-4bb8-b73a-b423e69ad30d)
 
 
