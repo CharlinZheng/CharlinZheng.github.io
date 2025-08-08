@@ -18,6 +18,11 @@ sections:
               brightness: 0.4
           position: right
           color: '#666'
+        link:
+          icon: book
+          icon_pack: fas
+          text: See More
+          url: ../project/
       - title: Lunch & Learn ☕️
         content: 'Share your knowledge with the group and explore exciting new topics together!'
         align: left
@@ -48,7 +53,7 @@ sections:
       slide_height: ''
       is_fullscreen: true
       # Automatically transition through slides?
-      loop: false
+      loop: true
       # Duration of transition between slides (in ms)
       interval: 2000
 ---
