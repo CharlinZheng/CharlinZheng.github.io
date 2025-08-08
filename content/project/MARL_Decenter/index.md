@@ -43,6 +43,14 @@ This project develops a **Scalable Network-Aware (SNA)** learning framework for 
 
 Explore our research with an AI assistant powered by the latest Gemini models and reliable sources to enhance your understanding and analysis. [Start exploring](https://notebooklm.google.com/notebook/1b3c851c-3ba2-4bb8-b73a-b423e69ad30d)
 
+<div style="text-align:center; margin: 1rem 0;">
+  <a href="https://notebooklm.google.com/notebook/1b3c851c-3ba2-4bb8-b73a-b423e69ad30d"
+     class="btn btn-primary btn-lg"
+     target="_blank" rel="noopener">
+    Start exploring
+  </a>
+</div>
+
 ## Publications
 
 {{< cite page="/publication/xu-scalable-network-aware-multi-agent-2023" view=1 >}}
