@@ -32,10 +32,13 @@ Explore our research with an AI assistant powered by the latest Gemini models an
 - **Sim-to-Real gap.** Pure physics models drift under unmodeled effects; pure data models need huge datasets and struggle with mode transitions—both hinder **trustworthy control integration**.  
 - **Hardware constraints.** Variable-step high-order solvers are accurate but **sequential** and time-uncertain on FPGAs; fixed-step solvers are parallel but **computationally explosive**.  
 - **Control needs visibility.** Advanced control (e.g., MPC) benefits from **global state** without adding sensors or latency; this requires a twin that is **accurate, adaptable, and fast** at the edge.
+{{< figure src="hardware.jpg" caption="Edge Digital Twins Platform" numbered="true" >}}
 
 ## New Measures
 - **Physics-Embedded Neural ODE (PENODE).** Event-aware **mode automata** drive per-mode continuous-time **neural ODEs** that inject known ODE primitives as **physics priors** and learn only residual dynamics. This preserves interpretability, improves data efficiency, and supports adaptive integration.  
+{{< figure src="penode.jpg" caption="Physics-Embedded Neural ODE Modeling" numbered="true" >}}
 - **Neural Substitute Solver (NSS).** A dual-NN design replaces (i) **online model updates** tied to switching events and (ii) **higher-order truncation terms** of base integrators—turning sequential bottlenecks into **parallel forward passes** suitable for FPGA/MPSoC.  
+{{< figure src="nss.jpg" caption="Neural Substitute Solver Architecture" numbered="true" >}}
 - **Cognitive DT for Control (CDT-MPC).** A **mode-driven variable-order solver** plus **LM-based parameter identification** yields a reconfigurable numerical twin that supplies **sensor-free global states** to MPC, enabling **dead-beat** responses without high-bandwidth probes.  
 - **Cloud-to-Edge toolchain.** Quantization, operator fusion, and **neural processing units** (NPUs) map PENODE/NSS/CDT to edge hardware with consistent real-time guarantees.
 

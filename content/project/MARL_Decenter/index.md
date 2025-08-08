@@ -32,7 +32,7 @@ Explore our research with an AI assistant powered by the latest Gemini models an
 * **Untapped prior: grid topology.** Voltage control naturally has **local interactions** on the network. If we exploit this locality, we can cut critic inputs without losing the signal actors need to cooperate.
 * **Goal.** Achieve **scalable, theoretically justified** decentralized voltage control that keeps voltages within limits under stochastic loads and model imperfections, while requiring only **neighbor-level** information exchange during training.
 
-{{< figure src="System.jpg" caption="A caption" numbered="true" >}}
+{{< figure src="System.jpg" caption="Power System Model" numbered="true" >}}
 
 ## New Measures
 
