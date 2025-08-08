@@ -23,7 +23,7 @@ This project develops a **Scalable Network-Aware (SNA)** learning framework for 
 ## New Measures
 
 * **Networked-MDP formulation of voltage control.** The grid is modeled so that a DG’s next-state distribution depends only on its neighbors, aligning with EMTP-style discretization where interactions are effectively local.
-* **Exponential-decay property ⇒ truncated critics.** We prove that an agent’s Q-function sensitivity to distant nodes **decays exponentially** with graph distance; hence a critic that only sees **κ-hop** observations/actions approximates the true Q with a bounded error $\le c \rho^{\kappa+1}$.
+* **Exponential-decay property ⇒ truncated critics.** We prove that an agent’s Q-function sensitivity to distant nodes **decays exponentially** with graph distance; hence a critic that only sees **κ-hop** observations/actions approximates the true Q with a bounded error {{< math >}}$\le c \rho^{\kappa+1}${{< /math >}}.
 * **Distributed actor guidance.** Each actor is updated using the **sum of its neighbors’ truncated critics**, promoting local cooperation that aligns with global welfare—without any global critic.
 * **Algorithm-agnostic integration.** SNA plugs into standard multi-agent actor-critic methods (e.g., **MASAC**, **MATD3**) by replacing the critic inputs and actor objectives accordingly.
 * **Communication-efficient training.** Training requires only **neighbor exchanges** (tunable by κ), reducing bandwidth and improving privacy, with κ=1 often sufficient in practice.
@@ -41,5 +41,8 @@ This project develops a **Scalable Network-Aware (SNA)** learning framework for 
 
 {{< cite page="/publication/xu-scalable-network-aware-multi-agent-2023" view=1 >}}
 
+## Still have questions?
+
+Explore our research with an AI assistant powered by the latest Gemini models and reliable sources to enhance your understanding and analysis. [Start exploring](https://notebooklm.google.com/notebook/1b3c851c-3ba2-4bb8-b73a-b423e69ad30d)
 
 
