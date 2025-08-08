@@ -39,6 +39,7 @@ This project develops a **Scalable Network-Aware (SNA)** learning framework for 
 
 ## Publications
 
+{{< cite page="/publication/xu-scalable-network-aware-multi-agent-2023" view="Stream" >}}
 
 
 
