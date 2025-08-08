@@ -20,7 +20,7 @@ sections:
         - title: Postdoctoral Fellow
           company: Purdue University
           company_url: ''
-          company_logo: purdue
+          #company_logo: purdue
           location: Indiana, USA
           date_start: '2024-09-01'
           date_end: ''
