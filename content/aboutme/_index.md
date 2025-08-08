@@ -41,6 +41,24 @@ sections:
         filters:
           brightness: 1.0
           contrast: 1.0
+  - block: features
+    content:
+      title: Services
+      subtitle: Section subtitle
+      text: Section text
+      items:
+        - name: R
+          description: 90%
+          icon: r-project
+          icon_pack: fab
+        - name: Statistics
+          description: 100%
+          icon: chart-line
+          icon_pack: fas
+        - name: Photography
+          description: 10%
+          icon: camera-retro
+          icon_pack: fas
 ---
 
 
