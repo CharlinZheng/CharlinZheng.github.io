@@ -13,7 +13,7 @@ date: 2022-01-01
 
 This project develops a **Scalable Network-Aware (SNA)** learning framework for **decentralized secondary voltage control** in inverter-dominated distribution grids. Instead of relying on centralized critics that ingest global states/actions, SNA leverages the **grid’s network structure** so each critic only depends on **local and κ-hop neighbor** information, while actors are guided by their neighbors’ critics. This respects physical coupling, reduces input dimensionality, and preserves cooperation—enabling practical learning-based voltage regulation in large systems.
 
-## Still have questions?
+## Just Ask for questions！
 
 Explore our research with an AI assistant powered by the latest Gemini models and reliable sources to enhance your understanding and analysis.
 
