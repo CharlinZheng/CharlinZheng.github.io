@@ -10,21 +10,6 @@ date: 2022-01-01
 
 {{< youtube kUE9RBzCgLk >}}
 
----
-
-title: "SNA: A Network-Aware Framework for Decentralized Inverter-Based Voltage Control"
-summary: "Network-aware multi-agent RL that scales decentralized secondary voltage control by truncating critics to κ-hop neighborhoods with provable approximation guarantees; validated up to 114 DGs."
-tags:
-
-* Power Systems
-* Multi-Agent RL
-* Voltage Control
-  date: 2025-08-08
-
----
-
-{{< youtube TcEo00ugKvo >}}
-
 ## Overview
 
 This project develops a **Scalable Network-Aware (SNA)** learning framework for **decentralized secondary voltage control** in inverter-dominated distribution grids. Instead of relying on centralized critics that ingest global states/actions, SNA leverages the **grid’s network structure** so each critic only depends on **local and κ-hop neighbor** information, while actors are guided by their neighbors’ critics. This respects physical coupling, reduces input dimensionality, and preserves cooperation—enabling practical learning-based voltage regulation in large systems.
@@ -54,9 +39,6 @@ This project develops a **Scalable Network-Aware (SNA)** learning framework for 
 * **Deployment-friendly.** Because SNA relies on neighbor-level data and distributed training, it aligns with **realistic utility communications**, easing field integration.
 
 ## Publications
-
-
-
 
 {{< cite page="/publication/xu-scalable-network-aware-multi-agent-2023" view="citation" >}}
 
