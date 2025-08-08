@@ -31,7 +31,7 @@ education:
     - course: PhD in Electrical Engineering
       institution: Tsinghua University
       year: 2024
-    - course: BSc in Electrical Engineering
+    - course: BEng in Electrical Engineering
       institution: Beijing Jiaotong University
       year: 2019
 
