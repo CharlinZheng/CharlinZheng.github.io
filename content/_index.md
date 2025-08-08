@@ -83,8 +83,6 @@ sections:
         <div>Discord community<br>for support</div>
       </div>
     </div>
-
-
 ---
 
 
