@@ -13,6 +13,18 @@ date: 2022-01-01
 
 This project develops a **Scalable Network-Aware (SNA)** learning framework for **decentralized secondary voltage control** in inverter-dominated distribution grids. Instead of relying on centralized critics that ingest global states/actions, SNA leverages the **grid’s network structure** so each critic only depends on **local and κ-hop neighbor** information, while actors are guided by their neighbors’ critics. This respects physical coupling, reduces input dimensionality, and preserves cooperation—enabling practical learning-based voltage regulation in large systems.
 
+## Still have questions?
+
+Explore our research with an AI assistant powered by the latest Gemini models and reliable sources to enhance your understanding and analysis.
+
+<div style="text-align:center; margin: 1rem 0;">
+  <a href="https://notebooklm.google.com/notebook/1b3c851c-3ba2-4bb8-b73a-b423e69ad30d"
+     class="btn btn-primary btn-lg"
+     target="_blank" rel="noopener">
+    Start exploring
+  </a>
+</div>
+
 ## Why This Research
 
 * **Operational pressure is rising.** Variable renewables and prosumers cause fast, uncertain power fluctuations that defeat traditional capacitor/regulator-based schemes and leave **primary droop control** with steady-state voltage deviations. Decentralized **secondary** control is needed to restore nominal voltages at scale.
@@ -38,18 +50,6 @@ This project develops a **Scalable Network-Aware (SNA)** learning framework for 
 * **Tunable locality for accuracy vs. complexity.** Increasing κ tightens the approximation but enlarges inputs; on 114-DG systems, **κ=2** can improve rewards, while **κ=3** may hurt due to dimensionality—guiding practical κ selection.
 * **Plug-and-play across algorithms.** Integrating SNA with **MATD3** similarly boosts final rewards, showing method generality beyond MASAC.
 * **Deployment-friendly.** Because SNA relies on neighbor-level data and distributed training, it aligns with **realistic utility communications**, easing field integration.
-
-## Still have questions?
-
-Explore our research with an AI assistant powered by the latest Gemini models and reliable sources to enhance your understanding and analysis. [Start exploring](https://notebooklm.google.com/notebook/1b3c851c-3ba2-4bb8-b73a-b423e69ad30d)
-
-<div style="text-align:center; margin: 1rem 0;">
-  <a href="https://notebooklm.google.com/notebook/1b3c851c-3ba2-4bb8-b73a-b423e69ad30d"
-     class="btn btn-primary btn-lg"
-     target="_blank" rel="noopener">
-    Start exploring
-  </a>
-</div>
 
 ## Publications
 
