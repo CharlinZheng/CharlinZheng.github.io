@@ -83,7 +83,7 @@ sections:
           </div>
         </div>
     design:
-    background:
+     background:
       image:
         filename: bg-hue.svg   # 图片放在 assets/media/bg-hue.svg
         size: cover
