@@ -55,6 +55,6 @@ Explore our research with an AI assistant powered by the latest Gemini models an
 {{< cite page="/publication/zheng-event-driven-real-time-simulation-2023-a" view=1 >}}
 {{< cite page="/publication/zheng-event-driven-parallel-acceleration-2022-a" view=1 >}}
 {{< cite page="/publication/zeng-extended-discrete-state-event-driven-2023" view=1 >}}
-{{< cite page="/publication/xu-numerical-derivative-based-flexible-2024" view=1 >}}
+{{< cite page="/publication/zheng-event-driven-parallel-acceleration-2022-a" view=1 >}}
 
 
