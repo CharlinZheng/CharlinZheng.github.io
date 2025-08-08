@@ -1,6 +1,5 @@
 ---
-title: A Self-Restoring Fault-Tolerant Method for Controller Cooperation Simulation
-  of Power Electronics Systems
+title: A Self-Restoring Fault-Tolerant Method for Controller Cooperation Simulation of Power Electronics Systems
 authors:
 - Yangbin Zeng
 - Zhengming Zhao
