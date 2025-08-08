@@ -15,7 +15,7 @@ sections:
           image:
             filename: pcb.jpg
             filters:
-              brightness: 0.7
+              brightness: 0.5
           position: right
           color: '#666'
         link:
@@ -23,22 +23,27 @@ sections:
           icon_pack: fas
           text: See More
           url: ../project/
-      - title: Lunch & Learn ☕️
-        content: 'Share your knowledge with the group and explore exciting new topics together!'
+      - title: Want to know more about me? ☕️
+        content: 'Please see my profile and CV!'
         align: left
         background:
           image:
-            filename: contact.jpg
+            filename: robot.jpg
             filters:
               brightness: 0.7
           position: center
           color: '#555'
+      link:
+          icon: circle-user
+          icon_pack: fas
+          text: Find Me
+          url: ../aboutme/
       - title: World-Class Semiconductor Lab
         content: 'Just opened last month!'
         align: right
         background:
           image:
-            filename: welcome.jpg
+            filename: world.jpg
             filters:
               brightness: 0.5
           position: center
