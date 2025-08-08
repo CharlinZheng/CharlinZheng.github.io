@@ -21,7 +21,7 @@ sections:
         <div style="display:flex;justify-content:space-around;flex-wrap:wrap;background-color:#f8f9fa;padding:2rem 1rem;border-radius:0.75rem;text-align:center;">
           <div style="flex:1 1 200px;margin:1rem;">
             <div style="font-size:2rem;font-weight:700;">17</div>
-            <div>First/Corresponding Author</div>
+            <div>First/Corresponding Author<br>in Top-Level Journals</div>
           </div>
           <div style="flex:1 1 200px;margin:1rem;">
             <div style="font-size:2rem;font-weight:700;">30+</div>

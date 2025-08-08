@@ -30,23 +30,22 @@ Explore our research with an AI assistant powered by the latest Gemini models an
 
 
 ## Why This Research
-- **Scale & real-time tension.** Classical CHIL ties simulation step sizes to tight real-time budgets; as switching frequencies and device counts grow, maintaining fidelity forces costly hardware or model simplifications that distort dynamics. :contentReference[oaicite:0]{index=0} :contentReference[oaicite:1]{index=1}  
-- **Interface bottlenecks.** Fixed-step synchronization (FSI) either wastes cycles or misses abrupt state changes; frequent handshakes balloon overhead and destabilize convergence in hybrid PES. :contentReference[oaicite:2]{index=2}  
-- **Controller realism.** SIL/PIL miss hardware behaviors (ADC/PWM, multi-stage latency). We need a path that preserves **controller behavior consistency** without hard real-time. :contentReference[oaicite:3]{index=3}
+- **Scale & real-time tension.** Classical CHIL ties simulation step sizes to tight real-time budgets; as switching frequencies and device counts grow, maintaining fidelity forces costly hardware or model simplifications that distort dynamics.
+- **Interface bottlenecks.** Fixed-step synchronization (FSI) either wastes cycles or misses abrupt state changes; frequent handshakes balloon overhead and destabilize convergence in hybrid PES. 
+- **Controller realism.** SIL/PIL miss hardware behaviors (ADC/PWM, multi-stage latency). We need a path that preserves **controller behavior consistency** without hard real-time. 
 
 ## New Measures
-- **Event-axis synchronization (ES-CHIL / EDS / ESTA).** Replace time-locked interaction with **event-synchronous** data exchange; use **state/switch events** to trigger both simulation and control computations, preserving logic while relaxing real-time constraints. :contentReference[oaicite:4]{index=4} :contentReference[oaicite:5]{index=5}  
-- **Key-frame prediction + Adaptive Synchronization Interface (ASI).** Predict imminent state-change “key-frames” to **minimize synchronization points** and dynamically size steps across tools (e.g., Simulink ↔ DSIM). :contentReference[oaicite:6]{index=6}  
-- **Self-restoring fault-tolerant data rematching.** A lightweight peripheral-IO strategy that **rematches control and simulation data** after link delays/failures—no simulator core changes—stabilizing high-rate controller–CPU co-simulation. :contentReference[oaicite:7]{index=7}  
-- **Hybrid CPU–FPGA PCCO for MW-scale plants.** A **physical-controller co-simulation** (PCCO) architecture with event-driven sync executes detailed models (incl. switching) on CPU/FPGA while maintaining **controller behavior equivalence** to real systems. :contentReference[oaicite:8]{index=8}  
-- **DSED-based plant models for loss/fidelity studies.** Use **discrete-state event-driven** simulation to evaluate losses and switching detail in **multi-terminal MW PETs** without exhaustive experiments. :contentReference[oaicite:9]{index=9}
+- **Event-axis synchronization (ES-CHIL / EDS / ESTA).** Replace time-locked interaction with **event-synchronous** data exchange; use **state/switch events** to trigger both simulation and control computations, preserving logic while relaxing real-time constraints. 
+- **Key-frame prediction + Adaptive Synchronization Interface (ASI).** Predict imminent state-change “key-frames” to **minimize synchronization points** and dynamically size steps across tools (e.g., Simulink ↔ DSIM). 
+- **Self-restoring fault-tolerant data rematching.** A lightweight peripheral-IO strategy that **rematches control and simulation data** after link delays/failures—no simulator core changes—stabilizing high-rate controller–CPU co-simulation. 
+- **Hybrid CPU–FPGA PCCO for MW-scale plants.** A **physical-controller co-simulation** (PCCO) architecture with event-driven sync executes detailed models (incl. switching) on CPU/FPGA while maintaining **controller behavior equivalence** to real systems. 
+- **DSED-based plant models for loss/fidelity studies.** Use **discrete-state event-driven** simulation to evaluate losses and switching detail in **multi-terminal MW PETs** without exhaustive experiments. 
 
 ## Impact
-- **orders-of-magnitude sync efficiency.** ASI reduces synchronization time cost by **~394×** versus fixed-step interfaces while keeping accuracy in a 10-kVA MMC case. :contentReference[oaicite:10]{index=10}  
-- **From kW MMCs to MW PETs.** Event-driven PCCO demonstrates a **2-MW PET with 576 switches** on a hybrid CPU–FPGA platform with preserved controller logic, expanding CHIL-class testing to MW-level systems. :contentReference[oaicite:11]{index=11}  
-- **Robustness on commodity hardware.** The self-restoring method maintains accuracy under **high data-interaction frequencies** on **CPU-based simulators**, avoiding OS/kernel modifications. :contentReference[oaicite:12]{index=12}  
-- **Higher-fidelity device phenomena.** Event-axis frameworks enable variable-step solvers and **natural commutation detection** (eliminating diode chattering), improving fidelity over time-locked CHIL. :contentReference[oaicite:13]{index=13}
-
+- **orders-of-magnitude sync efficiency.** ASI reduces synchronization time cost by **~394×** versus fixed-step interfaces while keeping accuracy in a 10-kVA MMC case.
+- **From kW MMCs to MW PETs.** Event-driven PCCO demonstrates a **2-MW PET with 576 switches** on a hybrid CPU–FPGA platform with preserved controller logic, expanding CHIL-class testing to MW-level systems.
+- **Robustness on commodity hardware.** The self-restoring method maintains accuracy under **high data-interaction frequencies** on **CPU-based simulators**, avoiding OS/kernel modifications.
+- **Higher-fidelity device phenomena.** Event-axis frameworks enable variable-step solvers and **natural commutation detection** (eliminating diode chattering), improving fidelity over time-locked CHIL.
 
 ## Publications
 
