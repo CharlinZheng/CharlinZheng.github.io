@@ -23,7 +23,15 @@ sections:
           tag: '*'
         - name: Machine Learning
           tag: ML
-        - name: Other
+        - name: Cyber-Physical Systems
+          tag: CPS
+        - name: Hybrid Dynamics Modeling
+          tag: Modeling
+        - name: High Frequency Control
+          tag: Control
+        - name: Real-Time Simulation
+          tag: Sim
+        - name: Other 
           tag: Demo
     design:
       columns: '1'
@@ -42,6 +50,6 @@ sections:
       count: 20
     design:
       # Minimum and maximum font sizes (1.0 = 100%).
-      font_size_min: 0.7
+      font_size_min: 0.3
       font_size_max: 2.0
 ---
