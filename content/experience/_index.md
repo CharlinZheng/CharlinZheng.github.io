@@ -119,7 +119,7 @@ sections:
     design:
      columns: '3'
 
-  - block: accomplishments
+  - block: features
     content:
         title: "🎖 Honors and Awards"
         items:
