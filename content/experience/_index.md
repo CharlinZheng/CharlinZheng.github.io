@@ -127,57 +127,50 @@ sections:
             organization: "Tsinghua University"
             date_start: "2024-06-01"
             description: "Top 1%"
-            icon: trophy
-            icon_pack: fas
+            icon: tsinghua
+          
 
           - title: "First Class Scholarship for General Excellence"
             organization: "Tsinghua University"
             date_start: "2023-10-01"
             description: "Top 1%"
-            icon: award
-            icon_pack: fas
+            icon: tsinghua
 
           - title: "Second Delta Scholarship"
             organization: "Delta Company"
             date_start: "2023-10-01"
             description: "Top 1%"
-            icon: award
-            icon_pack: fas
+            icon: delta
 
           - title: "Siyuan Electric Scholarship"
             organization: "Tsinghua University"
             date_start: "2022-10-01"
             description: "Top 1%"
-            icon: award
-            icon_pack: fas
+            icon: tsinghua
 
           - title: "Beijing Outstanding Graduates Award"
             organization: "Beijing Municipal Education Commission"
             date_start: "2019-06-01"
             description: "Top 1%"
-            icon: medal
-            icon_pack: fas
+            icon: bjtu
 
           - title: "BJTU Outstanding Graduates Award"
             organization: "Beijing Jiaotong University"
             date_start: "2019-06-01"
             description: "Top 1%"
-            icon: medal
-            icon_pack: fas
+            icon: bjtu
 
           - title: "National Scholarship"
             organization: ""
             date_start: "2018-10-01"
             description: "Top 1%"
-            icon: certificate
-            icon_pack: fas
+            icon: china
 
           - title: "National Scholarship"
             organization: ""
             date_start: "2017-10-01"
             description: "Top 1%"
-            icon: certificate
-            icon_pack: fas
+            icon: china
     design:
         columns: "2"
 
