@@ -25,35 +25,6 @@ sections:
       columns: '1'
       alignment:
         horizontal: center
-
-  - block: hero
-    content:
-      title: "From Human Manual Development to Machine Auto Development"
-      image:
-
-        filename:  Web_HomePage.svg 
-
-        cta:
-        label: Get Started
-        url: https://wowchemy.com/templates/
-
-        text: |-
-        This diagram illustrates the **digital transformation** in electrical engineering, evolving from **human manual development**, which relies on experience, to **machine auto development**, driven by computation.
-
-        The transition is enabled by the integration of **Machine Learning**, **Computational Engineering**, and **Electrical Engineering**. Key technologies include neural networks, physical-informed models, reinforcement learning, numerical and parallel computing, and real-time embedded systems. Applications span high-frequency power converters, inverter control, and power system stability enhancement.
-
-        <!--Custom spacing-->
-        <div class="mb-3"></div>
-        <!--GitHub Button JS-->
-        <script async defer src="https://buttons.github.io/buttons.js"></script>        
-    design:
-      # Choose an optional background color, gradient, image, or video
-      background:
-        gradient_end: '#1976d2'
-        gradient_start: '#004ba0'
-        text_color_light: true
-
-    
   - block: markdown
     content:
       title: ""
