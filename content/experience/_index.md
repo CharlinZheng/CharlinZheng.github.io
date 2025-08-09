@@ -108,27 +108,23 @@ sections:
           description: |
             - IEEE Transactions on Power Electronics (TPEL)
             - IEEE Journal of Emerging and Selected Topics in Power Electronics (JESTPE)
-
-        - title: "Journal Reviewer — Industrial"
-          icon: book-open
-          icon_pack: fas
-          description: |
             - IEEE Transactions on Industrial Electronics (TIE)
             - IEEE Transactions on Industrial Informatics (TII)
             - IEEE Transactions on Industry Applications (TIA)
 
-        - title: "Journal & Conference Reviewer — Power Systems"
+        - title: "Journal Reviewer — Power Systems"
           icon: calendar-check
           icon_pack: fas
           description: |
             - IEEE Transactions on Power Systems (TPWRS)
             - IEEE Transactions on Smart Grid (TSG)
-            - IEEE Open Journal of the Industrial Electronics Society (OJIES)
+            - IEEE Open Journal of the Industrial 
+            Electronics Society (OJIES)
             - IEEE Open Access Journal of Power and Energy (OAJPE)
             - IEEE ECCE 2023
             - IEEE PEDG 2023
       design:
-        columns: '4'
+        columns: '3'
     
 
   - block: accomplishments
