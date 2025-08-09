@@ -133,7 +133,7 @@ skills:
         description: ''
         percent: 100
         icon: steam-symbol
-        icon_pack: fas
+        icon_pack: fab
       - name: Photography
         description: ''
         percent: 80
