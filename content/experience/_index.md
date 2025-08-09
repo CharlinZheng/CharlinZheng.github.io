@@ -96,13 +96,13 @@ sections:
     content:
       title: "Academic Service"
       items:
-        - title: "Associate Editor"
+        - name: "Associate Editor"
           icon: pen-to-square
           icon_pack: fas
           description: |
             - 2025 IEEE Industry Applications Society Annual Meeting
 
-        - title: "Journal Reviewer — Power Electronics"
+        - name: "Journal Reviewer — Power Electronics"
           icon: book-open
           icon_pack: fas
           description: |
@@ -112,7 +112,7 @@ sections:
             - IEEE Transactions on Industrial Informatics (TII)
             - IEEE Transactions on Industry Applications (TIA)
 
-        - title: "Journal Reviewer — Power Systems"
+        - name: "Journal Reviewer — Power Systems"
           icon: calendar-check
           icon_pack: fas
           description: |
