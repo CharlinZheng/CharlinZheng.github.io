@@ -15,7 +15,9 @@ sections:
     content:
       title: "From Human Manual Development to Machine Auto Development"
       text: |
-        ![Web_HomePage](media/Web_HomePage.svg)
+        <p align="center">
+          <img src="media/Web_HomePage.svg" alt="Web_HomePage" width="80%">
+        </p>
 
         This figure illustrates the **digital transformation** in electrical engineering, 
         evolving from **human manual development**—which relies on experience— 
