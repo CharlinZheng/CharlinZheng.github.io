@@ -138,6 +138,11 @@ skills:
         description: ''
         percent: 80
         icon: camera
+      - name: Cooking
+        description: ''
+        percent: 20
+        icon: fire-burner
+        icon_pack: fas
 
 languages:
   - name: English
