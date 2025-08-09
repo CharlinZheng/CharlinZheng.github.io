@@ -36,7 +36,7 @@ sections:
           date_start: '2024-06-30'
           date_end: '2024-07-18'
           description: |2-
-              The course: “Modeling and Control of Power Converters” with Prof. [Dushan Boroyevich](https://cpes.vt.edu/people/faculty/89) and Prof. Kai Sun.
+              The course: “Modeling and Control of Power Converters” with Prof. [Dushan Boroyevich](https://cpes.vt.edu/people/faculty/89) and Prof. [Kai Sun](https://www.eea.tsinghua.edu.cn/en/faculties/sunkai.htm).
         - title: Teaching Assistant
           company: Tsinghua University
           company_url: 'https://www.tsinghua.edu.cn/en/'
