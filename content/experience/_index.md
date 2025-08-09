@@ -78,7 +78,8 @@ sections:
               * The thesis was awarded the title of Outstanding Doctoral Thesis at Tsinghua University.
         - title: BEng Electronic Engineering
           company: Beijing Jiaotong University
-          company_url: ''
+          company_url: 'http://en.njtu.edu.cn/'
+          company_logo: bjtu
           location: Beijing, China
           date_start: '2015-09-01'
           date_end: '2019-08-31'
