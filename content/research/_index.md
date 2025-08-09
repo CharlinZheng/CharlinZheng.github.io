@@ -27,7 +27,7 @@ sections:
       text: |
         <br>
         My research focuses on the digital transformation of power electronics and energy systems. I aim to develop advanced control and optimization methods that enhance the efficiency, reliability, and sustainability of modern power systems.
-    
+        <br>
     design:
       # Choose an optional background color, gradient, image, or video
       background:
