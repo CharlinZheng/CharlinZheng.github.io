@@ -21,7 +21,7 @@ sections:
         link:
           icon: book
           icon_pack: fas
-          text: See More
+          text: Get Started
           url: ../project/
       - title: Want to know more about me? ☕️
         content: 'Please see my profile and CV!'
