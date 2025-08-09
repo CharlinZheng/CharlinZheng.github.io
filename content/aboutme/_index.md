@@ -17,7 +17,7 @@ sections:
       items:
        - icon: ""
          icon_pack: ""
-         image: "media/Web_HomePage.svg"
+         image: "Web_HomePage.svg"
          content: |
           This figure illustrates the **digital transformation** in electrical engineering, 
           evolving from **human manual development**—which relies on experience— 
