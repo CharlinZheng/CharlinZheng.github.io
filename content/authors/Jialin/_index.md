@@ -108,7 +108,7 @@ skills:
       - name: C/C++
         description: ''
         percent: 80
-        icon: C
+        icon: c
         icon_pack: fas
       - name: VHDL
         description: ''
