@@ -26,7 +26,7 @@ sections:
       alignment:
         horizontal: center
 
-  - block: markdown
+  - block: hero
     content:
       title: "From Human Manual Development to Machine Auto Development"
       image:
