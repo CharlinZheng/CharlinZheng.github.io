@@ -19,7 +19,7 @@ sections:
       items:
         - title: Postdoctoral Fellow
           company: Purdue University
-          company_url: ''
+          company_url: 'https://www.purdue.edu/'
           company_logo: purdue
           location: Indiana, USA
           date_start: '2024-09-01'
@@ -30,7 +30,8 @@ sections:
               * Universal interoperability for grid-forming inverters (UNIFI) https://unificonsortium.org/
         - title: Teaching Assistant
           company: Tsinghua University
-          company_url: ''
+          company_url: 'https://www.tsinghua.edu.cn/en/'
+          company_logo: tsinghua
           location: Beijing, China
           date_start: '2024-06-30'
           date_end: '2024-07-18'
@@ -38,7 +39,8 @@ sections:
               The course: “Modeling and Control of Power Converters” with Prof. Dushan Boroyevich and Prof. Kai Sun.
         - title: Teaching Assistant
           company: Tsinghua University
-          company_url: ''
+          company_url: 'https://www.tsinghua.edu.cn/en/'
+          company_logo: tsinghua
           location: Beijing, China
           date_start: '2020-09-02'
           date_end: '2021-01-21'
@@ -46,7 +48,8 @@ sections:
               Design and Analysis of Electrical Machine Systems (40220682) with Prof. Zhengming Zhao.
         - title: Research Scientist
           company: Delta Electronics, Inc.
-          company_url: ''
+          company_url: 'https://deltaww.com/'
+          company_logo: delta
           location: Shanghai, China
           date_start: '2021-06-15'
           date_end: '2021-08-14'
@@ -64,7 +67,8 @@ sections:
       items:
         - title: PhD Electronic Engineering
           company: Tsinghua University
-          company_url: ''
+          company_url: 'https://www.tsinghua.edu.cn/en/'
+          company_logo: tsinghua
           location: Beijing, China
           date_start: '2019-09-01'
           date_end: '2024-08-31'
