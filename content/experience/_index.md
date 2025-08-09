@@ -28,7 +28,7 @@ sections:
               Work with [Xiaonan Lu](https://scholar.google.com/citations?user=7oB4yk0AAAAJ&hl=zh-CN&oi=ao)(Co-EIC of IEEE TPEL)
               Participate in Project:
               * Digital Twin Addressing Multi-Scale Operational Needs of IBR-rich Grids (DIAMOND)(funded by Department of Energy with  $80,000.00)
-              * Universal interoperability for grid-forming inverters (UNIFI) https://unificonsortium.org/(funded by Department of Energy with  $25 million )
+              * Universal interoperability for grid-forming inverters (UNIFI) https://unificonsortium.org/ (funded by Department of Energy with  $25 million )
         - title: Teaching Assistant
           company: Tsinghua University
           company_url: 'https://www.tsinghua.edu.cn/en/'
@@ -92,47 +92,31 @@ sections:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'
 
-  - block: accomplishments
+  - block: features
     content:
-      title: Awards
-      subtitle: ''
-      text: ''
-      # Date format: https://wowchemy.com/docs/customization/#date-format
-      date_format: Jan 2006
-      # Accomplishments.
-      #   Add/remove as many `items` blocks below as you like.
-      #   `title`, `organization`, and `date_start` are the required parameters.
-      #   Leave other parameters empty if not required.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      title: "Academic Service"
       items:
-        - title: Neural Networks and Deep Learning
-          certificate_url: https://www.coursera.org
-          date_end: ''
-          date_start: '2021-01-25'
-          description: ''
-          icon: coursera
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          url: ''
-        - title: Blockchain Fundamentals
-          certificate_url: https://www.edx.org
-          date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          icon: edx
-          organization: edX
-          organization_url: https://www.edx.org
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - title: 'Object-Oriented Programming in R'
-          certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
-          description: ''
-          icon: datacamp
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          url: ''
+        - title: "Associate Editor"
+          icon: edit-3
+          icon_pack: fas
+          description: |
+           - 2025 IEEE Industry Applications Society Annual Meeting
+        - title: "Reviewer"
+          icon: eye
+          icon_pack: fas
+          description: |
+            - IEEE Transactions on Power Electronics (TPEL)
+            - IEEE Transactions on Industrial Electronics (TIE)
+            - IEEE Transactions on Industrial Informatics (TII)
+            - IEEE Transactions on Industry Applications (TIA)
+            - IEEE Journal of Emerging and Selected Topics in Power Electronics (JESTPE)
+            - IEEE Transactions on Power Systems (TPWRS)
+            - IEEE Transactions on Smart Grid (TSG)
+            - IEEE Open Journal of the Industrial Electronics Society (OJIES)
+            - IEEE Open Access Journal of Power and Energy (OAJPE)
+            - IEEE Energy Conversion Congress and Exposition (ECCE2023)
+            - IEEE International Symposium on Power Electronics for Distributed Generation Systems (PEDG2023)
     design:
-      # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '2'
+     columns: '2'
+
 ---
