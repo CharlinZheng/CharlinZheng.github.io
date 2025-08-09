@@ -9,7 +9,7 @@ main:
     weight: 10
   - name: News
     url: post
-    weight: 75
+    weight: 55
   - name: Projects
     url: project
     weight: 30
