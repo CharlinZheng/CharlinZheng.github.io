@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Projects
 type: landing
 sections:
   - block: portfolio
