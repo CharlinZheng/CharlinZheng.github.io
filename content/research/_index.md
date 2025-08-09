@@ -32,7 +32,7 @@ sections:
       # Choose an optional background color, gradient, image, or video
       background:
         gradient_angle: 180
-        gradient_end: '#f7f7f7'
+        gradient_end: '#8097ffff'
         gradient_start: '#ffffffff'
         text_color_light: false
   - block: tag_cloud
@@ -48,6 +48,8 @@ sections:
       # Minimum and maximum font sizes (1.0 = 100%).
       font_size_min: 0.7
       font_size_max: 2.0
+      background:
+        color: '#8097ffff'
 
 
 
