@@ -25,9 +25,10 @@ sections:
           date_start: '2024-09-01'
           date_end: ''
           description: |2-
+              Work with [Xiaonan Lu](https://scholar.google.com/citations?user=7oB4yk0AAAAJ&hl=zh-CN&oi=ao)(Co-EIC of IEEE TPEL)
               Participate in Project:
               * Digital Twin Addressing Multi-Scale Operational Needs of IBR-rich Grids (DIAMOND)(funded by Department of Energy with  $80,000.00)
-              * Universal interoperability for grid-forming inverters (UNIFI) https://unificonsortium.org/
+              * Universal interoperability for grid-forming inverters (UNIFI) https://unificonsortium.org/(funded by Department of Energy with  $25 million )
         - title: Teaching Assistant
           company: Tsinghua University
           company_url: 'https://www.tsinghua.edu.cn/en/'
@@ -45,7 +46,7 @@ sections:
           date_start: '2020-09-02'
           date_end: '2021-01-21'
           description: |2-
-              Design and Analysis of Electrical Machine Systems (40220682) with Prof. Zhengming Zhao.
+              Design and Analysis of Electrical Machine Systems (40220682) with Prof. [Zhengming Zhao](https://www.eea.tsinghua.edu.cn/en/faculties/zmzhao.htm).
         - title: Research Scientist
           company: Delta Electronics, Inc.
           company_url: 'https://deltaww.com/'
