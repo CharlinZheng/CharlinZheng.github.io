@@ -32,7 +32,7 @@ sections:
       # Choose an optional background color, gradient, image, or video
       background:
         gradient_angle: 180
-        gradient_end: '#8097ffff'
+        gradient_end: '#e1e5faff'
         gradient_start: '#ffffffff'
         text_color_light: false
   - block: tag_cloud
@@ -49,7 +49,7 @@ sections:
       font_size_min: 0.7
       font_size_max: 2.0
       background:
-        color: '#8097ffff'
+        color: '#e1e5faff'
 
 
 
