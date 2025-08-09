@@ -26,10 +26,12 @@ sections:
       # Add your Hero text here
       text: |
         <br>
-        The transition is powered by the synergy of **Machine Learning**, **Computational Engineering**, and **Electrical Engineering**. Key technologies include neural networks, physics-informed models, reinforcement learning, numerical and parallel computing, embedded computing, and real-time operating systems. Applications span high-frequency power converters, inverter control, and power system stability enhancement.
+        My research focuses on the **digital transformation of power electronics and energy systems**. I aim to develop advanced control and optimization methods that enhance the efficiency, reliability, and sustainability of modern power systems.
+    
     design:
       # Choose an optional background color, gradient, image, or video
       background:
+        gradient_angle: 180
         gradient_end: '#f7f7f7'
         gradient_start: '#ffffffff'
         text_color_light: false
