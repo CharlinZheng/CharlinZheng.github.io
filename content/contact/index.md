@@ -22,7 +22,7 @@ sections:
       coordinates:
         latitude: '40.4294'
         longitude: '-86.9124'
-      directions: Enter Potter Center and take the stairs to Office 257 on Floor 2
+      directions: Enter A. A. Potter Engineering Center and take the stairs to Office 257 on Floor 2
       office_hours:
        - 'Monday 10:00 to 13:00'
        - 'Wednesday 09:00 to 10:00'
