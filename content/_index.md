@@ -22,7 +22,7 @@ sections:
           icon: book
           icon_pack: fas
           text: Get Started
-          url: ../project/
+          url: ../research/
       - title: Want to know more about me? ☕️
         content: 'Please see my profile and CV!'
         align: left
