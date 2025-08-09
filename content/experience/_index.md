@@ -161,13 +161,13 @@ sections:
             icon: bjtu
 
           - title: "National Scholarship"
-            organization: ""
+            organization: "Ministry of Education of the People's Republic of China"
             date_start: "2018-10-01"
             description: "Top 1%"
             icon: china
 
           - title: "National Scholarship"
-            organization: ""
+            organization: "Ministry of Education of the People's Republic of China"
             date_start: "2017-10-01"
             description: "Top 1%"
             icon: china
