@@ -15,12 +15,15 @@ sections:
     content:
       title: "From Human Manual Development to Machine Auto Development"
       body: |
-        ![Web_HomePage](media/Web_HomePage.png)
+        ![Web_HomePage](media/Web_HomePage.png "caption")
 
         This diagram illustrates the **digital transformation** in electrical engineering, evolving from **human manual development**, which relies on experience, to **machine auto development**, driven by computation.
 
         The transition is enabled by the integration of **Machine Learning**, **Computational Engineering**, and **Electrical Engineering**. Key technologies include neural networks, physical-informed models, reinforcement learning, numerical and parallel computing, and real-time embedded systems. Applications span high-frequency power converters, inverter control, and power system stability enhancement.
-
+    design:
+      columns: '1'
+      alignment:
+        horizontal: center
   - block: markdown
     content:
       title: ""
