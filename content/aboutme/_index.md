@@ -14,9 +14,9 @@ sections:
   - block: markdown
     content:
       title: "From Human Manual Development to Machine Auto Development"
-      text:
+      text: |
 
-        ![Web_HomePage](media/Web_HomePage.svg "caption")
+        ![Web_HomePage](media/Web_HomePage.svg)
 
         This diagram illustrates the **digital transformation** in electrical engineering, evolving from **human manual development**, which relies on experience, to **machine auto development**, driven by computation.
 
