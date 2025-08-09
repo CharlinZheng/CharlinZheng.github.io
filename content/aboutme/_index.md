@@ -20,7 +20,7 @@ sections:
           description: |
            This figure illustrates the **digital transformation** in electrical engineering, evolving from **human manual development**—which relies on experience— to **machine auto development**, driven by computation.
 
-          The transition is enabled by **Machine Learning**, **Computational Engineering**, and **Electrical Engineering**. Key techniques include neural networks, physics-informed models, reinforcement learning, numerical & parallel computing, embedded computing, and real-time OS. Applications span high-frequency power converters, inverter control, and power-system stability.
+           The transition is enabled by **Machine Learning**, **Computational Engineering**, and **Electrical Engineering**. Key techniques include neural networks, physics-informed models, reinforcement learning, numerical & parallel computing, embedded computing, and real-time OS. Applications span high-frequency power converters, inverter control, and power-system stability.
     design:
       columns: "2"
 
