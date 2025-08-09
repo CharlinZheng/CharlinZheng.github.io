@@ -15,20 +15,6 @@ sections:
         <br>
         
         The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
-  - block: tag_cloud
-    content:
-      title: Research Tags
-      subtitle: ''
-      text: Please select tags of interest to view related publications!
-      # Choose a taxonomy from the `taxonomies` list in `config.yaml` to display (e.g. tags, categories, authors)
-      taxonomy: tags
-      # Choose how many tags you would like to display (0 = all tags)
-      count: 30
-    design:
-      # Minimum and maximum font sizes (1.0 = 100%).
-      font_size_min: 0.7
-      font_size_max: 2.0
-
   - block: hero
     content:
       title: Your Hero Title
@@ -67,5 +53,20 @@ sections:
         gradient_end: '#f7f7f7'
         gradient_start: '#ffffffff'
         text_color_light: false
+  - block: tag_cloud
+    content:
+      title: Research Tags
+      subtitle: ''
+      text: Please select tags of interest to view related publications!
+      # Choose a taxonomy from the `taxonomies` list in `config.yaml` to display (e.g. tags, categories, authors)
+      taxonomy: tags
+      # Choose how many tags you would like to display (0 = all tags)
+      count: 30
+    design:
+      # Minimum and maximum font sizes (1.0 = 100%).
+      font_size_min: 0.7
+      font_size_max: 2.0
+
+
 
 ---
