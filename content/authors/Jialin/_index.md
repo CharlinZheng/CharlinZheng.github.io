@@ -109,12 +109,12 @@ skills:
         description: ''
         percent: 80
         icon: C
-        icon_pack: fab
+        icon_pack: fas
       - name: VHDL
         description: ''
         percent: 70
         icon: microchip
-        icon_pack: fab
+        icon_pack: fas
       - name: Matlab
         description: ''
         percent: 70
