@@ -66,6 +66,6 @@ sections:
       background:
         gradient_end: '#f7f7f7'
         gradient_start: '#ffffffff'
-        text_color_light: true
+        text_color_light: false
 
 ---
