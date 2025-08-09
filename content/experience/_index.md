@@ -117,6 +117,6 @@ sections:
             - IEEE Energy Conversion Congress and Exposition (ECCE2023)
             - IEEE International Symposium on Power Electronics for Distributed Generation Systems (PEDG2023)
     design:
-     columns: '2'
+     columns: '3'
 
 ---
