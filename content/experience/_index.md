@@ -119,4 +119,42 @@ sections:
     design:
      columns: '3'
 
+  - block: accomplishments
+    content:
+      title: "🎖 Honors and Awards"
+      items:
+      - date: "2024-06-01"
+        title: "Outstanding Doctoral Thesis Award"
+        organization: "Tsinghua University"
+        description: "Top 1%"
+      - date: "2023-10-01"
+        title: "First Class Scholarship for General Excellence"
+        organization: "Tsinghua University"
+        description: "Top 1%"
+      - date: "2023-10-01"
+        title: "Second Delta Scholarship"
+        organization: "Delta Company"
+        description: "Top 1%"
+      - date: "2022-10-01"
+        title: "Siyuan Electric Scholarship"
+        organization: "Tsinghua University"
+        description: "Top 1%"
+      - date: "2019-06-01"
+        title: "Beijing Outstanding Graduates Award"
+        organization: "Beijing Municipal Education Commission"
+        description: "Top 1%"
+      - date: "2019-06-01"
+        title: "BJTU Outstanding Graduates Award"
+        organization: "Beijing Jiaotong University"
+        description: "Top 1%"
+      - date: "2018-10-01"
+        title: "National Scholarship"
+        organization: ""
+        description: "Top 1%"
+      - date: "2017-10-01"
+        title: "National Scholarship"
+        organization: ""
+        description: "Top 1%"
+
+
 ---
