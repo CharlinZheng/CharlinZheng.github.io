@@ -103,15 +103,23 @@ skills:
       - name: Python
         description: ''
         percent: 80
-        icon: devicon/python
-      - name: RStudio
+        icon: python
+        icon_pack: fab
+      - name: C/C++
         description: ''
-        percent: 100
-        icon: devicon/rstudio
-      - name: PyTorch
+        percent: 80
+        icon: C
+        icon_pack: fab
+      - name: VHDL
         description: ''
-        percent: 40
-        icon: devicon/pytorch
+        percent: 70
+        icon: microchip
+        icon_pack: fab
+      - name: Matlab
+        description: ''
+        percent: 70
+        icon: m
+        icon_pack: fab
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -119,11 +127,13 @@ skills:
       - name: Hiking
         description: ''
         percent: 60
-        icon: person-simple-walk
-      - name: Cats
+        icon: person-hiking
+        icon_pack: fas
+      - name: Steam
         description: ''
         percent: 100
-        icon: cat
+        icon: steam-symbol
+        icon_pack: fas
       - name: Photography
         description: ''
         percent: 80

@@ -10,9 +10,7 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-      button:
-        text: Download Résumé
-        url: https://drive.google.com/file/d/1lmKfZgwpwDlBxiZLd_VwE5yrfjTJDpuT/view?usp=sharing
+      
 
   - block: markdown
     content:
@@ -41,6 +39,7 @@ sections:
         filters:
           brightness: 1.0
           contrast: 1.0
+          
   - block: skills
     content:
       title: Skills
