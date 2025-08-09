@@ -8,10 +8,9 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        Research Goal
       image:
-        filename: welcome.jpg
+        filename: Web_HomePage.svg
       text: |
         <br>
         
