@@ -97,7 +97,7 @@ sections:
       title: "Academic Service"
       items:
         - title: "Associate Editor"
-          icon: edit-3
+          icon: pen-to-square
           icon_pack: fas
           description: |
            - 2025 IEEE Industry Applications Society Annual Meeting
