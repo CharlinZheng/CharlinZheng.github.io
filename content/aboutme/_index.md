@@ -11,18 +11,29 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
       
-  - block: features
+  - block: markdown
     content:
       title: "From Human Manual Development to Machine Auto Development"
-      items:
-        - image: "media/Web_HomePage.svg"   # put the SVG in static/media/ or assets/media/
-          title: ""                         # optional
-          description: |
-           This figure illustrates the **digital transformation** in electrical engineering, evolving from **human manual development**—which relies on experience— to **machine auto development**, driven by computation.
+      text: |
+        ![Web_HomePage](media/Web_HomePage.svg)
 
-           The transition is enabled by **Machine Learning**, **Computational Engineering**, and **Electrical Engineering**. Key techniques include neural networks, physics-informed models, reinforcement learning, numerical & parallel computing, embedded computing, and real-time OS. Applications span high-frequency power converters, inverter control, and power-system stability.
+        This figure illustrates the **digital transformation** in electrical engineering, 
+        evolving from **human manual development**—which relies on experience— 
+        to **machine auto development**, driven by computation.
+
+        The transition is powered by the synergy of **Machine Learning**, 
+        **Computational Engineering**, and **Electrical Engineering**.  
+        Key technologies include neural networks, physics-informed models, 
+        reinforcement learning, numerical and parallel computing, 
+        embedded computing, and real-time operating systems.  
+
+        Applications span high-frequency power converters, inverter control, 
+        and power system stability enhancement.
     design:
-      columns: "2"
+      columns: '1'
+      alignment:
+        horizontal: center
+
 
   
 
