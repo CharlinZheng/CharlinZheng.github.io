@@ -100,26 +100,38 @@ sections:
           icon: pen-to-square
           icon_pack: fas
           description: |
-           - 2025 IEEE Industry Applications Society Annual Meeting
-        - title: "Reviewer"
-          icon: eye
+            - 2025 IEEE Industry Applications Society Annual Meeting
+
+        - title: "Journal Reviewer — Power Electronics"
+          icon: book-open
           icon_pack: fas
           description: |
             - IEEE Transactions on Power Electronics (TPEL)
+            - IEEE Journal of Emerging and Selected Topics in Power Electronics (JESTPE)
+
+        - title: "Journal Reviewer — Industrial"
+          icon: book-open
+          icon_pack: fas
+          description: |
             - IEEE Transactions on Industrial Electronics (TIE)
             - IEEE Transactions on Industrial Informatics (TII)
             - IEEE Transactions on Industry Applications (TIA)
-            - IEEE Journal of Emerging and Selected Topics in Power Electronics (JESTPE)
+
+        - title: "Journal & Conference Reviewer — Power Systems"
+          icon: calendar-check
+          icon_pack: fas
+          description: |
             - IEEE Transactions on Power Systems (TPWRS)
             - IEEE Transactions on Smart Grid (TSG)
             - IEEE Open Journal of the Industrial Electronics Society (OJIES)
             - IEEE Open Access Journal of Power and Energy (OAJPE)
-            - IEEE Energy Conversion Congress and Exposition (ECCE2023)
-            - IEEE International Symposium on Power Electronics for Distributed Generation Systems (PEDG2023)
-    design:
-     columns: '3'
+            - IEEE ECCE 2023
+            - IEEE PEDG 2023
+      design:
+        columns: '4'
+    
 
-  - block: features
+  - block: accomplishments
     content:
         title: "🎖 Honors and Awards"
         items:
