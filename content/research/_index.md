@@ -5,16 +5,7 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: hero
-    content:
-      title: |
-        Research Goal
-      image:
-        filename: Web_HomePage.svg
-      text: |
-        <br>
-        
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+
   - block: hero
     content:
       title: Research Goal
@@ -33,7 +24,8 @@ sections:
         url: ../publication/
       # Optionally, add a note under the Call-To-Action          
       # Add your Hero text here
-      text: |-
+      text: |
+        <br>
         The transition is powered by the synergy of **Machine Learning**, **Computational Engineering**, and **Electrical Engineering**. Key technologies include neural networks, physics-informed models, reinforcement learning, numerical and parallel computing, embedded computing, and real-time operating systems. Applications span high-frequency power converters, inverter control, and power system stability enhancement.
     design:
       # Choose an optional background color, gradient, image, or video
