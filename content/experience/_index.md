@@ -121,40 +121,66 @@ sections:
 
   - block: accomplishments
     content:
-      title: "🎖 Honors and Awards"
-      items:
-      - date: "2024-06-01"
-        title: "Outstanding Doctoral Thesis Award"
-        organization: "Tsinghua University"
-        description: "Top 1%"
-      - date: "2023-10-01"
-        title: "First Class Scholarship for General Excellence"
-        organization: "Tsinghua University"
-        description: "Top 1%"
-      - date: "2023-10-01"
-        title: "Second Delta Scholarship"
-        organization: "Delta Company"
-        description: "Top 1%"
-      - date: "2022-10-01"
-        title: "Siyuan Electric Scholarship"
-        organization: "Tsinghua University"
-        description: "Top 1%"
-      - date: "2019-06-01"
-        title: "Beijing Outstanding Graduates Award"
-        organization: "Beijing Municipal Education Commission"
-        description: "Top 1%"
-      - date: "2019-06-01"
-        title: "BJTU Outstanding Graduates Award"
-        organization: "Beijing Jiaotong University"
-        description: "Top 1%"
-      - date: "2018-10-01"
-        title: "National Scholarship"
-        organization: ""
-        description: "Top 1%"
-      - date: "2017-10-01"
-        title: "National Scholarship"
-        organization: ""
-        description: "Top 1%"
+        title: "🎖 Honors and Awards"
+        items:
+          - title: "Outstanding Doctoral Thesis Award"
+            organization: "Tsinghua University"
+            date_start: "2024-06-01"
+            description: "Top 1%"
+            icon: trophy
+            icon_pack: fas
+
+          - title: "First Class Scholarship for General Excellence"
+            organization: "Tsinghua University"
+            date_start: "2023-10-01"
+            description: "Top 1%"
+            icon: award
+            icon_pack: fas
+
+          - title: "Second Delta Scholarship"
+            organization: "Delta Company"
+            date_start: "2023-10-01"
+            description: "Top 1%"
+            icon: award
+            icon_pack: fas
+
+          - title: "Siyuan Electric Scholarship"
+            organization: "Tsinghua University"
+            date_start: "2022-10-01"
+            description: "Top 1%"
+            icon: award
+            icon_pack: fas
+
+          - title: "Beijing Outstanding Graduates Award"
+            organization: "Beijing Municipal Education Commission"
+            date_start: "2019-06-01"
+            description: "Top 1%"
+            icon: medal
+            icon_pack: fas
+
+          - title: "BJTU Outstanding Graduates Award"
+            organization: "Beijing Jiaotong University"
+            date_start: "2019-06-01"
+            description: "Top 1%"
+            icon: medal
+            icon_pack: fas
+
+          - title: "National Scholarship"
+            organization: ""
+            date_start: "2018-10-01"
+            description: "Top 1%"
+            icon: certificate
+            icon_pack: fas
+
+          - title: "National Scholarship"
+            organization: ""
+            date_start: "2017-10-01"
+            description: "Top 1%"
+            icon: certificate
+            icon_pack: fas
+    design:
+        columns: "2"
+
 
 
 ---
