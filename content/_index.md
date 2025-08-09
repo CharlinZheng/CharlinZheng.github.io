@@ -38,8 +38,8 @@ sections:
           icon_pack: fas
           text: Find Me
           url: ../aboutme/
-      - title: World-Class Semiconductor Lab
-        content: 'Just opened last month!'
+      - title: Cooperation to promote energy system upgrades
+        content: 'Achieving digitization, informatization, and intelligence！'
         align: right
         background:
           image:
