@@ -13,7 +13,8 @@ sections:
         align: center
         background:
           image:
-            filename: pcb.jpg
+            #filename: pcb.jpg
+            filename: ieee-homepage-video-1920x1080-hydra-electric.mp4
             filters:
               brightness: 0.5
           position: right
