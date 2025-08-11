@@ -3,7 +3,7 @@ title: Highly Cited Paper Recognition
 summary: Our paper was recognized as a highly cited article by Web of Science.
 date: 2024-09-01
 categories: [News]
-tags: [Publication, Award]
+
 ---
 
 **2024.09**

@@ -3,7 +3,7 @@ title: Joined Purdue University as Postdoctoral Fellow
 summary: I joined Purdue University as a postdoctoral fellow in August 2024.
 date: 2024-08-01
 categories: [News]
-tags: [Career, Purdue]
+
 ---
 
 **2024.08**

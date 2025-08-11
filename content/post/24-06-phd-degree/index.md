@@ -2,8 +2,7 @@
 title: PhD Degree Awarded
 summary: I received my PhD degree from Tsinghua University in June 2024.
 date: 2024-06-01
-categories: [News]
-tags: [PhD, Graduation, Tsinghua]
+
 ---
 
 **2024.06**

@@ -2,8 +2,7 @@
 title: Outstanding Doctoral Dissertation Award
 summary: I won the Outstanding Doctoral Dissertation Award at Tsinghua University in May 2024.
 date: 2024-05-01
-categories: [News]
-tags: [Award, PhD, Tsinghua]
+
 ---
 
 **2024.05**

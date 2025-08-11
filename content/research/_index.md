@@ -30,6 +30,7 @@ sections:
         <br>
     design:
       # Choose an optional background color, gradient, image, or video
+      align: center
       background:
         gradient_angle: 180
         gradient_end: '#eaeaebff'
