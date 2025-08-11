@@ -34,11 +34,15 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
-        link:
-          icon: circle-user
-          icon_pack: fas
-          text: Find Me
-          url: ../aboutme/
+        links:
+          -icon: circle-user
+           icon_pack: fas
+           text: Find Me
+           url: ../aboutme/
+          -icon: circle-user
+           icon_pack: fas
+           text: Quick CV
+           url: https://drive.google.com/file/d/1mdL52o2xrChHhN6BvyW_Ct438CMVTAUF/view?usp=sharing
       - title: Cooperation to promote energy system upgrades
         content: 'Achieving digitization, informatization, and intelligence！'
         align: right
