@@ -18,15 +18,15 @@ sections:
         <div style="display:flex;justify-content:space-around;flex-wrap:wrap;background-color:#f8f9fa;padding:2rem 1rem;border-radius:0.75rem;text-align:center;">
           <div style="flex:1 1 200px;margin:1rem;">
             <div style="font-size:2rem;font-weight:700;">30+</div>
-            <div>Publications<br>in Top-Level Journals</div>
+            <div>Publications</div>
           </div>
           <div style="flex:1 1 200px;margin:1rem;">
             <div style="font-size:2rem;font-weight:700;">206</div>
-            <div>>Citations</div>
+            <div>Citations</div>
           </div>
           <div style="flex:1 1 200px;margin:1rem;">
             <div style="font-size:2rem;font-weight:700;">8</div>
-            <div>H-index </div>
+            <div> H-index </div>
           </div>
         </div>
     design:
