@@ -14,7 +14,7 @@ sections:
         filename: Web_HomePage.svg
       # Add your Call-To-Action (CTA) button and optional icon
       cta:
-        label: Get Started
+        label: See My Projects
         url: ../project/
         #icon_pack: fas
         #icon: download
