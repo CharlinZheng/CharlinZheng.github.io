@@ -35,10 +35,10 @@ sections:
           position: center
           color: '#555'
         link:
-          -icon: circle-user
-           icon_pack: fas
-           text: Find Me
-           url: ../aboutme/
+          icon: circle-user
+          icon_pack: fas
+          text: Find Me
+          url: ../aboutme/
           
       - title: Cooperation to promote energy system upgrades
         content: 'Achieving digitization, informatization, and intelligence！'
