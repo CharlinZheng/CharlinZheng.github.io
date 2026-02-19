@@ -15,17 +15,22 @@ sections:
   - block: collection
     id: post
     content:
-      title: Recent News
-      count: 5
-      filters:
-        folders:
-          - post
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-    design:
-      view: compact
-      columns: 1
+      title: 新闻
+      text: |
+
+        ### 2025
+
+        - **2025年7月1日**，我受邀参加由普林斯顿安德林格能源与环境中心主办的“新光：能源与环境领域的新星”，并发表了题为 *“气候极端时电网可靠性理解”* 的演讲。
+        - **2025年6月17日**，我们的研究被安德林格能源与环境中心和普林斯顿工程学院报道。
+        - **2025年6月2日**，我们的论文发表于焦耳杂志。
+        - **2025年5月14日**，我们的论文发表于 *PNAS*。
+        - **2025年3月16日**，我们的论文发表于 *Nature Communications*。
+
+        ### 2024
+
+        - **2024年11月14日**，我们的论文被 *IEEE Transactions on Power Systems* 接收。
+        - **2024年10月17日**，我们的论文被 *IEEE Transactions on Power Systems* 接收。
+        - **2024年10月13日**，接受《科学与未来》采访。
 
   - block: collection
     id: event
@@ -38,7 +43,6 @@ sections:
         exclude_past: false
     design:
       view: card
-      columns: 1
 
   - block: hero
     id: research
