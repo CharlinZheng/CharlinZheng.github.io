@@ -71,6 +71,6 @@ user_groups:
   - Researchers
 ---
 
-Jialin Zheng is a Postdoctoral Researcher at Purdue University and received his Ph.D. in Electrical Engineering from Tsinghua University. His research lies at the intersection of edge computing, machine learning, power electronics, and energy systems, with interests in real-time digital twins, time-series modeling, and model predictive control. 
+Jialin Zheng is a Research Scientist at Princeton University and was previously a Postdoctoral Research Associate at Purdue University. He received his Ph.D. in Electrical Engineering from Tsinghua University.
 
-He develops provably correct and physically realizable theory, algorithms, and toolchains to drive the digitalization and intelligence of next-generation energy systems, improving performance, reliability, and resilience across wide-bandgap devices, high-frequency power converters, and converter-dominated grids.
+His research focuses on AI-driven design and control of intelligent circuits and complex networked systems, spanning applications from integrated microwave communication to megawatt-scale power conversion and transfer. He develops advanced digital methodologies to enable scalable, high-performance circuit and integrated  infrastructures across both information and power domains.

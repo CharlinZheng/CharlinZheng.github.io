@@ -13,7 +13,7 @@ sections:
       email: jialinzheng@ieee.org
       phone: +1 765-767-0550
       address:
-        street: B 216, Engineering Quadrangle,  Princeton University.
+        street: B 216, Engineering Quadrangle
         city: Princeton
         region: NJ 
         postcode: '08540'
