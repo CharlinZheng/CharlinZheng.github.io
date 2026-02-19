@@ -20,7 +20,7 @@ main:
     url: experience
     weight: 50
   - name: News
-    url: #post
+    url: "/#post"
     weight: 55
   - name: Events
     url: "/#event"

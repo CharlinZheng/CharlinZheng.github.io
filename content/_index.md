@@ -11,6 +11,9 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
+      cta:
+        label: Detailed experience
+        url: experience
   - block: hero
     id: research
     content:
@@ -21,7 +24,7 @@ sections:
       # Add your Call-To-Action (CTA) button and optional icon
       cta:
         label: Get Started
-        url: ../#project/
+        url: "/#project"
         #icon_pack: fas
         #icon: download
       # Optionally, add an alternative CTA link
@@ -60,7 +63,7 @@ sections:
     id: post
     content:
       title: Recent News
-      count: 10
+      count: 5
       filters:
         folders:
           - post
