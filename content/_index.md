@@ -66,10 +66,6 @@ sections:
           - event
       sort_by: Date
       sort_ascending: true
-      archive:
-        enable: true
-        link: /event/
-        text: View all events
     design:
     view: compact
 
