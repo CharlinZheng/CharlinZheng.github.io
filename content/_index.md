@@ -15,7 +15,7 @@ sections:
   - block: collection
     id: post
     content:
-      title: 新闻
+      title: News
       text: |
 
         ### 2025
