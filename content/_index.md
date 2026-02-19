@@ -56,6 +56,16 @@ sections:
       font_size_max: 2.0
       background:
         color: '#eaeaebff'
+  - block: collection
+    id: event
+    content:
+      title: Recent & Upcoming Events
+      folder: event
+      count: 5
+      view: compact
+      cta:
+        label: View All Events
+        url: /event/
   - block: portfolio
     id: project
     content:
@@ -94,6 +104,48 @@ sections:
       flip_alt_rows: true
       background: {color: '#d4d9dfff', image_parallax: true}
       spacing: {padding: [0, 2, 0, 2]}
+  - block: contact
+    id: contact
+    content:
+      title: Contact
+      text: |-
+        Feel free to reach out for collaboration, inquiries, or feedback. Leave your name, email, and a short message—I usually reply within 2–3 business days. Your information is used solely for communication.
+      email: jialinzheng@ieee.org
+      phone: +1 765-767-0550
+      address:
+        street: 401 N Grant St
+        city: West Lafayette
+        region: IN
+        postcode: '47907'
+        country: United States
+        country_code: US
+      coordinates:
+        latitude: '40.4294'
+        longitude: '-86.9124'
+      directions: Enter A. A. Potter Engineering Center and take the stairs to Office 257 on Floor 2
+      office_hours:
+       - 'Monday 10:00 to 13:00'
+       - 'Wednesday 09:00 to 10:00'
+      appointment_url: 'https://calendly.com'
+      #contact_links:
+      #  - icon: comments
+      #    icon_pack: fas
+      #    name: Discuss on Forum
+      #    link: 'https://discourse.gohugo.io'
+    
+      # Automatically link email and phone or display as text?
+      autolink: true
+    
+      # Email form provider
+      form:
+        provider: netlify
+        formspree:
+          id:
+        netlify:
+          # Enable CAPTCHA challenge to reduce spam?
+          captcha: false
+    design:
+      columns: '2'
   
 ---
 
