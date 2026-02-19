@@ -57,17 +57,31 @@ sections:
       background:
         color: '#eaeaebff'
   - block: collection
+    id: post
+    content:
+      title: Recent News
+      count: 10
+      filters:
+        folders:
+          - post
+        exclude_featured: false
+        exclude_future: false
+        exclude_past: false
+    design:
+      view: card
+
+  - block: collection
     id: event
     content:
       title: Recent & Upcoming Events
-      count: 5
       filters:
         folders:
           - event
-      sort_by: Date
-      sort_ascending: true
+        exclude_future: false
+        exclude_past: false
     design:
-    view: compact
+      view: card
+
 
   - block: portfolio
     id: project
