@@ -20,8 +20,8 @@ sections:
         country: United States
         country_code: US
       coordinates:
-        latitude: '40.35089381441907'
-        longitude: '-74.65118843144656'
+        latitude: '40.35'
+        longitude: '-74.65'
       directions: B 217/219, Engineering Quadrangle, Princeton, NJ 08540
       office_hours:
        - 'Monday 10:00 to 13:00'
