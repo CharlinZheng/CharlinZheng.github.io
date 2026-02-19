@@ -25,7 +25,7 @@ sections:
           date_start: '2026-04-01'
           date_end: ''
           description: |2-
-              TBD
+              To Be Determined
         - title: Postdoctoral Fellow
           company: Purdue University
           company_url: 'https://www.purdue.edu/'
