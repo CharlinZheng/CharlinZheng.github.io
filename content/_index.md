@@ -24,7 +24,7 @@ sections:
         exclude_future: false
         exclude_past: false
     design:
-      view: showcase
+      view: compact
       columns: 2
 
   - block: collection
@@ -37,7 +37,7 @@ sections:
         exclude_future: false
         exclude_past: false
     design:
-      view: card
+      view: article-grid
       columns: 2
 
   - block: hero
