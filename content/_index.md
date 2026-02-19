@@ -25,6 +25,7 @@ sections:
         exclude_past: false
     design:
       view: showcase
+      columns: 2
 
   - block: collection
     id: event
@@ -37,6 +38,7 @@ sections:
         exclude_past: false
     design:
       view: card
+      columns: 2
 
   - block: hero
     id: research
