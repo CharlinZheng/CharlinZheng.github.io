@@ -24,7 +24,7 @@ sections:
         exclude_future: false
         exclude_past: false
     design:
-      view: card
+      view: showcase
 
   - block: collection
     id: event
