@@ -11,9 +11,23 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-      cta:
-        label: Detailed experience
-        url: experience
+  - block: markdown
+    content:
+      text: |
+        <div style="text-align:center; margin-top: 1.5rem;">
+          <a href="experience" 
+            style="
+            display:inline-block;
+            padding:0.6rem 1.4rem;
+            font-size:0.95rem;
+            font-weight:600;
+            border-radius:0.5rem;
+            background-color:#2962ff;
+            color:white;
+            text-decoration:none;">
+            Detailed Experience
+          </a>
+        </div>
   - block: hero
     id: research
     content:
