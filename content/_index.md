@@ -57,7 +57,7 @@ sections:
       background:
         color: '#eaeaebff'
   - block: portfolio
-    id: projects
+    id: project
     content:
       title: Projects
       subtitle: Check out my projects below.
@@ -94,6 +94,13 @@ sections:
       flip_alt_rows: true
       background: {color: '#d4d9dfff', image_parallax: true}
       spacing: {padding: [0, 2, 0, 2]}
+  - block: collection
+    id: publication
+    content:
+      title: Publications
+      folder: publication
+      count: 10
+      view: citation
   
 ---
 

@@ -10,18 +10,18 @@ main:
   - name: Research
     url: "/#research"
     weight: 15
-  - name: News
-    url: #post
-    weight: 55
   - name: Projects
     url: "/#project"
     weight: 30
   - name: Publications
-    url: publication
+    url: "/#publication"
     weight: 40
   - name: Experience
     url: experience
     weight: 50
+  - name: News
+    url: #post
+    weight: 55
   - name: Events
     url: event
     weight: 60
