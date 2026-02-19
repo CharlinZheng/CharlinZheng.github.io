@@ -18,19 +18,19 @@ sections:
       title: News
       text: |
 
+        ### 2026
+
+        - **18-Feb-2026**，Our paper "[Discovering Unknown Inverter Governing Equations via Physics-Informed Sparse Machine Learning](https://arxiv.org/abs/2602.16166)" is subbmitted to  *arxiv*.
+
         ### 2025
 
-        - **2025年7月1日**，我受邀参加由普林斯顿安德林格能源与环境中心主办的“新光：能源与环境领域的新星”，并发表了题为 *“气候极端时电网可靠性理解”* 的演讲。
-        - **2025年6月17日**，我们的研究被安德林格能源与环境中心和普林斯顿工程学院报道。
-        - **2025年6月2日**，我们的论文发表于焦耳杂志。
-        - **2025年5月14日**，我们的论文发表于 *PNAS*。
-        - **2025年3月16日**，我们的论文发表于 *Nature Communications*。
-
+        - **04-Jun-2024**，Our paper "[FPGA-based Real-Time X-in-the-loop Simulation Testbench for Dynamic Wireless Power Transfer System with Stochastic and Nonlinear Inductance](https://ieeexplore.ieee.org/abstract/document/11077776)" is accepted by *IEEE Transactions on Industrial Electronics*.
+      
+        
         ### 2024
+        - **04-Jun-2024**，Our paper "[FPGA-based Real-Time X-in-the-loop Simulation Testbench for Dynamic Wireless Power Transfer System with Stochastic and Nonlinear Inductance](https://ieeexplore.ieee.org/abstract/document/10551289)" is accepted by *IEEE Transactions on Transportation Electrification*.
+        - 
 
-        - **2024年11月14日**，我们的论文被 *IEEE Transactions on Power Systems* 接收。
-        - **2024年10月17日**，我们的论文被 *IEEE Transactions on Power Systems* 接收。
-        - **2024年10月13日**，接受《科学与未来》采访。
       design:
        column: 2
 
