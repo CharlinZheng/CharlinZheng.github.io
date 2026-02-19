@@ -8,13 +8,13 @@ main:
     url: "#aboutme"
     weight: 10
   - name: Research
-    url: #research
+    url: "/#research"
     weight: 15
   - name: News
     url: #post
     weight: 55
   - name: Projects
-    url: project
+    url: "/#project"
     weight: 30
   - name: Publications
     url: publication
