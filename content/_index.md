@@ -11,68 +11,7 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: markdown
-    content:
-      text: |
-        <div style="text-align:center; margin-top: 1.5rem;">
-          <a href="experience" 
-            style="
-            display:inline-block;
-            padding:0.6rem 1.4rem;
-            font-size:0.95rem;
-            font-weight:600;
-            border-radius:0.5rem;
-            background-color:#2962ff;
-            color:white;
-            text-decoration:none;">
-            Detailed Experience
-          </a>
-        </div>
-  - block: hero
-    id: research
-    content:
-      title: Research Goal
-      image:
-        # Reference an image in your `assets/media/` folder
-        filename: Web_HomePage.svg
-      # Add your Call-To-Action (CTA) button and optional icon
-      cta:
-        label: Get Started
-        url: "/#project"
-        #icon_pack: fas
-        #icon: download
-      # Optionally, add an alternative CTA link
-      cta_alt:
-        label: See the Publications
-        url: publication
-      # Optionally, add a note under the Call-To-Action          
-      # Add your Hero text here
-      text: |
-        <br>
-        My research focuses on the digital transformation of power electronics and energy systems. I aim to develop advanced control and optimization methods that enhance the efficiency, reliability, and sustainability of modern power systems.
-        <br>
-    design:
-      # Choose an optional background color, gradient, image, or video
-      background:
-        gradient_angle: 180
-        gradient_end: '#eaeaebff'
-        gradient_start: '#ffffffff'
-        text_color_light: false
-  - block: tag_cloud
-    content:
-      title: Research Tags
-      subtitle: ''
-      text: Please select tags of interest to view related publications!
-      # Choose a taxonomy from the `taxonomies` list in `config.yaml` to display (e.g. tags, categories, authors)
-      taxonomy: tags
-      # Choose how many tags you would like to display (0 = all tags)
-      count: 30
-    design:
-      # Minimum and maximum font sizes (1.0 = 100%).
-      font_size_min: 0.7
-      font_size_max: 2.0
-      background:
-        color: '#eaeaebff'
+
   - block: collection
     id: post
     content:
@@ -99,7 +38,40 @@ sections:
     design:
       view: card
 
-
+  - block: hero
+    id: research
+    content:
+      title: Research Goal
+      image:
+        # Reference an image in your `assets/media/` folder
+        filename: Web_HomePage.svg
+      # Add your Call-To-Action (CTA) button and optional icon
+      cta:
+        label: See the Publications
+        url: "/#project"
+        #icon_pack: fas
+        #icon: download
+      # Optionally, add an alternative CTA link
+      cta_alt:
+        label: See the Publications
+        url: publication
+      cta_alt:
+        label: Detailed Experience
+        url: experience
+      # Optionally, add a note under the Call-To-Action          
+      # Add your Hero text here
+      text: |
+        <br>
+        My research focuses on the digital transformation of power electronics and energy systems. I aim to develop advanced control and optimization methods that enhance the efficiency, reliability, and sustainability of modern power systems.
+        <br>
+    design:
+      # Choose an optional background color, gradient, image, or video
+      background:
+        gradient_angle: 180
+        gradient_end: '#eaeaebff'
+        gradient_start: '#ffffffff'
+        text_color_light: false
+        
   - block: portfolio
     id: project
     content:
@@ -138,6 +110,21 @@ sections:
       flip_alt_rows: true
       background: {color: '#d4d9dfff', image_parallax: true}
       spacing: {padding: [0, 2, 0, 2]}
+  - block: tag_cloud
+    content:
+      title: Research Tags
+      subtitle: ''
+      text: Please select tags of interest to view related publications!
+      # Choose a taxonomy from the `taxonomies` list in `config.yaml` to display (e.g. tags, categories, authors)
+      taxonomy: tags
+      # Choose how many tags you would like to display (0 = all tags)
+      count: 30
+    design:
+      # Minimum and maximum font sizes (1.0 = 100%).
+      font_size_min: 0.7
+      font_size_max: 2.0
+      background:
+        color: '#eaeaebff'
   - block: contact
     id: contact
     content:
