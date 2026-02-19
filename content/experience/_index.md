@@ -22,7 +22,7 @@ sections:
           company_url: 'hhttps://ece.princeton.edu/'
           company_logo: Princeton
           location: New Jersey, USA
-          date_start: '2026-4-01'
+          date_start: '2026-04-01'
           date_end: ''
           description: |2-
               TBD
