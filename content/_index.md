@@ -18,15 +18,13 @@ sections:
       title: Recent News
       count: 5
       filters:
-      folders:
-        - post
-      exclude_featured: false
-      exclude_future: false
-      exclude_past: false
-    order: desc
+        folders:
+          - post
+        exclude_featured: false
+        exclude_future: false
+        exclude_past: false
     design:
-      view: compact
-      columns: 2
+      view: list
 
   - block: collection
     id: event
