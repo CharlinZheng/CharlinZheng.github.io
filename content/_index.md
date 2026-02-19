@@ -25,7 +25,7 @@ sections:
         exclude_past: false
     design:
       view: compact
-      columns: 2
+      columns: 1
 
   - block: collection
     id: event
@@ -37,8 +37,8 @@ sections:
         exclude_future: false
         exclude_past: false
     design:
-      view: article-grid
-      columns: 2
+      view: card
+      columns: 1
 
   - block: hero
     id: research
