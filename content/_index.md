@@ -60,12 +60,19 @@ sections:
     id: event
     content:
       title: Recent & Upcoming Events
-      folder: event
       count: 5
-      view: compact
-      cta:
-        label: View All Events
-        url: /event/
+      filters:
+        folders:
+          - event
+      sort_by: Date
+      sort_ascending: true
+      archive:
+        enable: true
+        link: /event/
+        text: View all events
+    design:
+    view: compact
+
   - block: portfolio
     id: project
     content:
