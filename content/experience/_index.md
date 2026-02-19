@@ -17,13 +17,22 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Research Scientist
+          company: Princeton University
+          company_url: 'hhttps://ece.princeton.edu/'
+          company_logo: Princeton
+          location: New Jersey, USA
+          date_start: '2026-4-01'
+          date_end: ''
+          description: |2-
+              TBD
         - title: Postdoctoral Fellow
           company: Purdue University
           company_url: 'https://www.purdue.edu/'
           company_logo: purdue
           location: Indiana, USA
           date_start: '2024-09-01'
-          date_end: ''
+          date_end: '2026-03-31'
           description: |2-
               Work with [Xiaonan Lu](https://scholar.google.com/citations?user=7oB4yk0AAAAJ&hl=zh-CN&oi=ao)(Co-EIC of IEEE TPEL)
               Participate in Project:
