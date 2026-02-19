@@ -14,11 +14,11 @@ role: Postdoctoral Fellow of Electrical Engineering
 
 # Organizations/Affiliations
 organizations:
-  - name: Purdue University
-    url: ''
+  - name: Princeton University
+    url: 'https://ece.princeton.edu/people-list/research-staff'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include edge computing, machine learning, and power energy systems.
+bio: My research interests include machine learning, edge computing, and circuit design.
 
 interests:
   - Edge Computing

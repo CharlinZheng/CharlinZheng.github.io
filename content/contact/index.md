@@ -13,16 +13,16 @@ sections:
       email: jialinzheng@ieee.org
       phone: +1 765-767-0550
       address:
-        street: 401 N Grant St
-        city: West Lafayette
-        region: IN
-        postcode: '47907'
+        street: B 216, Engineering Quadrangle,  Princeton University.
+        city: Princeton
+        region: NJ 
+        postcode: '08540'
         country: United States
         country_code: US
       coordinates:
-        latitude: '40.4294'
-        longitude: '-86.9124'
-      directions: Enter A. A. Potter Engineering Center and take the stairs to Office 257 on Floor 2
+        latitude: '40.35089381441907'
+        longitude: '-74.65118843144656'
+      directions: B 217/219, Engineering Quadrangle, Princeton, NJ 08540
       office_hours:
        - 'Monday 10:00 to 13:00'
        - 'Wednesday 09:00 to 10:00'

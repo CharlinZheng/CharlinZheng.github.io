@@ -20,6 +20,7 @@ sections:
 
         ### 2026
 
+        - **Mar. 23, 2026**，Invited talk at Cornell AI for Sustainability (AI4S) Seminar Series: [*“Empowering the Grid Edge: Real-Time Embedded AI on Power Electronics Converters”*](https://sustainability.ai.cornell.edu/seminars/).
         - **18-Feb-2026**，Our paper "[Discovering Unknown Inverter Governing Equations via Physics-Informed Sparse Machine Learning](https://arxiv.org/abs/2602.16166)" is subbmitted to  *arxiv*.
 
         ### 2025
@@ -29,7 +30,7 @@ sections:
         
         ### 2024
         - **04-Jun-2024**，Our paper "[FPGA-based Real-Time X-in-the-loop Simulation Testbench for Dynamic Wireless Power Transfer System with Stochastic and Nonlinear Inductance](https://ieeexplore.ieee.org/abstract/document/10551289)" is accepted by *IEEE Transactions on Transportation Electrification*.
-        - 
+        
 
       design:
        column: 2
