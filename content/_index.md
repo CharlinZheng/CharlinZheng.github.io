@@ -12,7 +12,7 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
 
-  - block: collection
+  - block: markdown
     id: post
     content:
       title: News
@@ -31,11 +31,13 @@ sections:
         - **2024年11月14日**，我们的论文被 *IEEE Transactions on Power Systems* 接收。
         - **2024年10月17日**，我们的论文被 *IEEE Transactions on Power Systems* 接收。
         - **2024年10月13日**，接受《科学与未来》采访。
+      design:
+       column: 2
 
   - block: collection
     id: event
     content:
-      title: Recent & Upcoming Events
+      title: Recent and Upcoming Events
       filters:
         folders:
           - event
