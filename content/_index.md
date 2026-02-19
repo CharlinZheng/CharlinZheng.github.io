@@ -18,13 +18,15 @@ sections:
       title: Recent News
       count: 5
       filters:
-        folders:
-          - post
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
+      folders:
+        - post
+      exclude_featured: false
+      exclude_future: false
+      exclude_past: false
+    order: desc
     design:
-      view: card
+      view: compact
+      columns: 2
 
   - block: collection
     id: event
@@ -48,13 +50,10 @@ sections:
       # Add your Call-To-Action (CTA) button and optional icon
       cta:
         label: See the Publications
-        url: "/#project"
+        url: publication
         #icon_pack: fas
         #icon: download
       # Optionally, add an alternative CTA link
-      cta_alt:
-        label: See the Publications
-        url: publication
       cta_alt:
         label: Detailed Experience
         url: experience
@@ -71,7 +70,7 @@ sections:
         gradient_end: '#eaeaebff'
         gradient_start: '#ffffffff'
         text_color_light: false
-        
+
   - block: portfolio
     id: project
     content:
