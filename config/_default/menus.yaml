@@ -5,13 +5,13 @@
 
 main:
   - name: About Me
-    url: aboutme
+    url: #aboutme
     weight: 10
   - name: Research
-    url: research
+    url: #research
     weight: 15
   - name: News
-    url: post
+    url: #post
     weight: 55
   - name: Projects
     url: project
