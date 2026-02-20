@@ -28,6 +28,11 @@ main:
   - name: Contact
     url: "/#contact"
     weight: 80
+  - name: WattAgent
+    url: "https://github.com/WattAgent"
+    weight: 90
+
+
   
   
   
