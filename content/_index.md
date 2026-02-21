@@ -139,7 +139,7 @@ sections:
       title: Affiliations
       items:
         - name: Princeton University
-          icon: custom/princeton
+          icon: assets/media/icons/custom/princeton.svg
           link: https://www.princeton.edu
 
         - name: Purdue University
@@ -158,8 +158,7 @@ sections:
           link: https://www.cornell.edu
     design:
       columns: 4
-      background:
-        color: '#ffffff'
+      
 
   - block: contact
     id: contact
