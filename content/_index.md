@@ -133,31 +133,25 @@ sections:
       background:
         color: '#eaeaebff'
 
-  - block: features
+  - block: markdown
     id: affiliations
     content:
       title: Affiliations
-      items:
-        - name: Princeton University
-          icon: assets/media/icons/custom/princeton
-          link: https://www.princeton.edu
-
-        - name: Purdue University
-          image:
-            filename: purdue.svg
-          link: https://www.purdue.edu
-
-        - name: Tsinghua University
-          image:
-            filename: tsinghua.svg
-          link: https://www.tsinghua.edu.cn
-
-        - name: Cornell University
-          image:
-            filename: cornell.svg
-          link: https://www.cornell.edu
-    design:
-      columns: 4
+      text: |
+        <div style="display:flex;gap:28px;align-items:center;flex-wrap:wrap;justify-content:center;">
+          <a href="https://www.princeton.edu" target="_blank" rel="noopener">
+            <img src="princeton.svg" alt="Princeton University" style="height:56px; width:auto;">
+          </a>
+          <a href="https://www.purdue.edu" target="_blank" rel="noopener">
+            <img src="/logos/purdue.svg" alt="Purdue University" style="height:56px; width:auto;">
+          </a>
+          <a href="https://www.tsinghua.edu.cn" target="_blank" rel="noopener">
+            <img src="/logos/tsinghua.svg" alt="Tsinghua University" style="height:56px; width:auto;">
+          </a>
+          <a href="https://www.cornell.edu" target="_blank" rel="noopener">
+            <img src="/logos/cornell.svg" alt="Cornell University" style="height:56px; width:auto;">
+          </a>
+        </div>
       
 
   - block: contact
