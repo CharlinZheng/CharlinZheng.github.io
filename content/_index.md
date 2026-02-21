@@ -116,7 +116,7 @@ sections:
       flip_alt_rows: true
       background: {color: '#d4d9dfff', image_parallax: true}
       spacing: {padding: [0, 2, 0, 2]}
-      
+
   - block: tag_cloud
     content:
       title: Research Tags
@@ -140,17 +140,17 @@ sections:
       items:
         - name: Princeton University
           image:
-            filename: Princeton.svg
+            filename: Princeton
           link: https://www.princeton.edu
 
         - name: Purdue University
           image:
-            filename: purdue.svg
+            filename: purdue
           link: https://www.purdue.edu
 
         - name: Tsinghua University
           image:
-            filename: tsinghua.svg
+            filename: tsinghua
           link: https://www.tsinghua.edu.cn
 
         - name: Cornell University
