@@ -139,8 +139,7 @@ sections:
       title: Affiliations
       items:
         - name: Princeton University
-          image:
-            filename: princeton.svg
+          icon: custom/princeton
           link: https://www.princeton.edu
 
         - name: Purdue University
