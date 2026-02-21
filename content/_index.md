@@ -133,25 +133,7 @@ sections:
       background:
         color: '#eaeaebff'
 
-  - block: markdown
-    id: affiliations
-    content:
-      title: Affiliations
-      text: |
-        <div style="display:flex;gap:28px;align-items:center;flex-wrap:wrap;justify-content:center;">
-          <a href="https://www.princeton.edu" target="_blank" rel="noopener">
-            <img src="princeton.svg" alt="Princeton University" style="height:56px; width:auto;">
-          </a>
-          <a href="https://www.purdue.edu" target="_blank" rel="noopener">
-            <img src="/logos/purdue.svg" alt="Purdue University" style="height:56px; width:auto;">
-          </a>
-          <a href="https://www.tsinghua.edu.cn" target="_blank" rel="noopener">
-            <img src="/logos/tsinghua.svg" alt="Tsinghua University" style="height:56px; width:auto;">
-          </a>
-          <a href="https://www.cornell.edu" target="_blank" rel="noopener">
-            <img src="/logos/cornell.svg" alt="Cornell University" style="height:56px; width:auto;">
-          </a>
-        </div>
+
       
 
   - block: contact
