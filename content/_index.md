@@ -116,6 +116,7 @@ sections:
       flip_alt_rows: true
       background: {color: '#d4d9dfff', image_parallax: true}
       spacing: {padding: [0, 2, 0, 2]}
+      
   - block: tag_cloud
     content:
       title: Research Tags
@@ -131,14 +132,15 @@ sections:
       font_size_max: 2.0
       background:
         color: '#eaeaebff'
+
   - block: features
     id: affiliations
     content:
-      title: Affiliations
+      title: Collaboration
       items:
         - name: Princeton University
           image:
-            filename: princeton.svg
+            filename: Princeton.svg
           link: https://www.princeton.edu
 
         - name: Purdue University
@@ -159,6 +161,7 @@ sections:
       columns: 4
       background:
         color: '#ffffff'
+
   - block: contact
     id: contact
     content:
