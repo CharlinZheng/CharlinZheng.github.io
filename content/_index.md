@@ -133,30 +133,7 @@ sections:
       background:
         color: '#eaeaebff'
 
-  - block: features
-    id: affiliations
-    content:
-      title: Collaboration
-      items:
-        - name: Princeton University
-          icon: Princeton
-          link: https://www.princeton.edu
 
-        - name: Purdue University
-          icon: purdue
-          link: https://www.purdue.edu
-
-        - name: Tsinghua University
-          icon: tsinghua
-          link: https://www.tsinghua.edu.cn
-
-        - name: Cornell University
-          icon: cornell
-          link: https://www.cornell.edu
-    design:
-      columns: 5
-      background:
-        color: '#ffffff'
 
   - block: contact
     id: contact
