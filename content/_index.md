@@ -133,7 +133,34 @@ sections:
       background:
         color: '#eaeaebff'
 
+  - block: features
+    id: affiliations
+    content:
+      title: Affiliations
+      items:
+        - name: Princeton University
+          image:
+            filename: princeton.svg
+          link: https://www.princeton.edu
 
+        - name: Purdue University
+          image:
+            filename: purdue.svg
+          link: https://www.purdue.edu
+
+        - name: Tsinghua University
+          image:
+            filename: tsinghua.svg
+          link: https://www.tsinghua.edu.cn
+
+        - name: Cornell University
+          image:
+            filename: cornell.svg
+          link: https://www.cornell.edu
+    design:
+      columns: 4
+      background:
+        color: '#ffffff'
 
   - block: contact
     id: contact
