@@ -139,26 +139,22 @@ sections:
       title: Collaboration
       items:
         - name: Princeton University
-          image:
-            filename: Princeton
+          icon: Princeton
           link: https://www.princeton.edu
 
         - name: Purdue University
-          image:
-            filename: purdue
+          icon: purdue
           link: https://www.purdue.edu
 
         - name: Tsinghua University
-          image:
-            filename: tsinghua
+          icon: tsinghua
           link: https://www.tsinghua.edu.cn
 
         - name: Cornell University
-          image:
-            filename: cornell.svg
+          icon: cornell
           link: https://www.cornell.edu
     design:
-      columns: 4
+      columns: 5
       background:
         color: '#ffffff'
 
